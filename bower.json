@@ -1,0 +1,25 @@
+{
+  "name": "Agirlhasnorway",
+  "homepage": "https://github.com/Poss0/Agirlhasnorway",
+  "authors": [
+    "Poss0"
+  ],
+  "description": "Winter is coming.",
+  "main": "index.html",
+  "keywords": [
+    "Norway"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "scrollreveal": "^3.3.1",
+    "angular-material": "^1.0.9"
+  }
+}
