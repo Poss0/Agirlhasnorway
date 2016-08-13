@@ -8,7 +8,7 @@
   <link rel="stylesheet" type="text/css" href="css/main.css"/>
   <meta property="og:title" content="A girl has no rway"/>
   <meta property="og:description" content="Latest news : {{latestArticle.title}}"/>
-  <meta property="og:url" content="http://agirlhasnorway.16mb.com/"/>
+  <meta property="og:url" content="http://agirlhasnorway.16mb.com/home/"/>
   <meta property="og:image" content="img/001/day001_09.jpg"/>
 
 </head>
@@ -28,16 +28,17 @@
         </md-toolbar>
         <div layout="row">
           <div class="prevNext" flex="10">
-            <md-button class="md-fab md-accent">
+            <md-button class="md-fab md-accent" ng-click="previousArticle()">
               <md-icon md-svg-src="img/previous.svg" style="color: #FFFFFF;"></md-icon>
             </md-button>
           </div>
           <div flex="80">
             <h2>{{latestArticle.title}}</h2>
+            <p class="legend">{{latestArticle.date}}</p>
             <p ng-repeat="text in latestArticle.html track by $index">{{text}}</p>
           </div>
           <div class="prevNext" flex="10">
-            <md-button class="md-fab md-accent">
+            <md-button class="md-fab md-accent" ng-click="nextArticle()">
               <md-icon md-svg-src="img/next.svg" style="color: #FFFFFF;"></md-icon>
             </md-button>
           </div>
@@ -59,7 +60,7 @@
             </md-button>
           </div>
           <div flex="80">
-            <h2>{{articles[0].title}}</h2>
+            <h2>{{latestArticle.title}}</h2>
             <img ng-src="{{firstImage.image}}"/>
             <p class="legend">{{firstImage.legend}}</p>
           </div>
