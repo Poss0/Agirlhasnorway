@@ -179,6 +179,74 @@
 						legend: "Maxime et Marjolaine profitent du soleil pour faire un selfie."
 					}
 				]
+			},
+			{
+				id: "4",
+				title: "Trop c'est trop !",
+				date: "14 août",
+				html: [
+					"Je me lève à neuf heures, assumant mieux que prévu la soirée de la veille. Je passe un peu de temps tranquille avant de rejoindre les autres à la salle de sport. Elle est en phase de test, et donc gratuite, jusqu'à fin août ; autant en profiter ! Après plusieurs machines essayées et quelques exercices on est un peu fatigués ; c'est l'heure de rentrer. Ce n'est pas trop mon truc mais c'est sympa d'avoir pu essayer.",
+					"",
+					"Après le repas, direction le centre-ville ! Suite aux rencontres d'hier soir, on est plus nombreux que prévu. Il faut souvent s'attendre les uns les autres et c'est un peu pénible ; il faudra se subdiviser à l'avenir. On visite un peu plus en détails puis on essaye de voir la mer, en vain. Il n'y a que des petits ports. Il faudra marcher plus pour espérer l'apercevoir.",
+					"Au moment de rentrer, on envisage de manger ensemble le soir. Il y a un restaurant en haut d'une tour de diffusion radio à Tyholt, la vue doit être superbe. Nous définissons un point de rendez-vous et partons nous reposer. J'en profite pour regarder le programme de la semaine ; les choses sérieuses commencent demain.",
+					"",
+					"A l'heure dite, il n'y a pas une quinzaine de personnes au point de rendez-vous comme nous le pensions, mais une soixantaine ; peut-être plus. Ceux qui ont lancé l'événement ont visiblement été victimes du bouche à oreille. Nous partons malgré tout. Nous faisons la queue pour monter dans l'ascenceur dix par dix. Comme escompté, la vue est superbe là-haut. Mais comme nous le pressentions, pas moyen de manger, nous sommes bien trop nombreux et la liste d'attente quasi-complète. Nous prenons seulement quelques photos et faisons la queue pour redescendre.",
+					"En rentrant, je trouve les trois allemands en train de regarder un match de foot : Dortmund - Bayern. L'un supporte Dortmund, l'autre le Bayern ; le troisième supporte un autre club mais pense que Dortmund va gagner. Au moment où j'écris il y a 0 - 2, ça semble pourtant compromis pour Dortmund... Je me suis installée à côté d'eux pour coder, je trouve ça plus sympa. Ca nous permet de discuter un peu de choses et d'autres. Comme de comment nous allons faire pour prendre une douche demain matin à six pour une salle de bain..."
+				],
+				images: [
+					{
+						image: "img/004/day004_01.jpg",
+						legend: "De l'eau à Trondheim, encore."
+					},
+					{
+						image: "img/004/day004_02.jpg",
+						legend: "Il y a un cimetière autour de la cathédrale. Ici pas de marbre au sol, juste de l'herbe. C'est le deuxième que nous voyons et c'est vraiment moins glauque."
+					},
+					{
+						image: "img/004/day004_03.jpg",
+						legend: "Une petite pause..."
+					},
+					{
+						image: "img/004/day004_04.jpg",
+						legend: "...qui engendre une photo plus drôle que prévu."
+					},
+					{
+						image: "img/004/day004_05.jpg",
+						legend: "Saurez-vous tous les identifier ?"
+					},
+					{
+						image: "img/004/day004_06.jpg",
+						legend: "De l'eau et de la verdure."
+					},
+					{
+						image: "img/004/day004_07.jpg",
+						legend: "Un port parmi d'autres !"
+					},
+					{
+						image: "img/004/day004_08.jpg",
+						legend: "Le même port vu autrement."
+					},
+					{
+						image: "img/004/day004_09.jpg",
+						legend: "Il y a, en autres choses, une locomotive sur le campus."
+					},
+					{
+						image: "img/004/day004_10.jpg",
+						legend: "Le village de Moholt est plutôt joli sous le soleil."
+					},
+					{
+						image: "img/004/day004_11.jpg",
+						legend: "J'habite quelque part par là..."
+					},
+					{
+						image: "img/004/day004_12.jpg",
+						legend: "Du haut de la tour, on a une superbe vue..."
+					},
+					{
+						image: "img/004/day004_13.jpg",
+						legend: "Et on voit enfin la mer !"
+					}
+				]
 			}
 		];
 
