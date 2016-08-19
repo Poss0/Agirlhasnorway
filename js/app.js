@@ -441,95 +441,95 @@
 				],
 				images: [
 					{
-						image: "img/008/day008_01.jpg",
+						image: "img/008/day008_01.JPG",
 						legend: "Il y a plein de monde sur cette plage."
 					},
 					{
-						image: "img/008/day008_02.jpg",
+						image: "img/008/day008_02.JPG",
 						legend: "Verdure, ciel bleu : qui l'eut cru ?"
 					},
 					{
-						image: "img/008/day008_03.jpg",
+						image: "img/008/day008_03.JPG",
 						legend: "Des courageux se baignent dans l'eau froide du fjord."
 					},
 					{
-						image: "img/008/day008_04.jpg",
+						image: "img/008/day008_04.JPG",
 						legend: "Les contours du fjord ne sont pas réguliers."
 					},
 					{
-						image: "img/008/day008_05.jpg",
+						image: "img/008/day008_05.JPG",
 						legend: "Même s'il y avait plusieurs randonnées possibles, on est nombreux !"
 					},
 					{
-						image: "img/008/day008_06.jpg",
+						image: "img/008/day008_06.JPG",
 						legend: "C'est vraiment l'été finalement."
 					},
 					{
-						image: "img/008/day008_07.jpg",
+						image: "img/008/day008_07.JPG",
 						legend: "Ca grimpe de temps en temps."
 					},
 					{
-						image: "img/008/day008_08.jpg",
+						image: "img/008/day008_08.JPG",
 						legend: "Quelques arbres encore..."
 					},
 					{
-						image: "img/008/day008_09.jpg",
+						image: "img/008/day008_09.JPG",
 						legend: "Un norvégien a utilisé une corde attachée à ce mât métallique pour se jeter à l'eau."
 					},
 					{
-						image: "img/008/day008_10.jpg",
+						image: "img/008/day008_10.JPG",
 						legend: "On voit Trondheim au loin."
 					},
 					{
-						image: "img/008/day008_11.jpg",
+						image: "img/008/day008_11.JPG",
 						legend: "La plage sur laquelle nous nous sommes arrêtés."
 					},
 					{
-						image: "img/008/day008_12.jpg",
+						image: "img/008/day008_12.JPG",
 						legend: "C'est bien la mer et pourtant il y a toujours des terres de l'autre côté ; c'est perturbant."
 					},
 					{
-						image: "img/008/day008_13.jpg",
+						image: "img/008/day008_13.JPG",
 						legend: "Une petite plage encore."
 					},
 					{
-						image: "img/008/day008_14.jpg",
+						image: "img/008/day008_14.JPG",
 						legend: "Il y a un bateau qui va sur l'île au milieu, il faudra tenter."
 					},
 					{
-						image: "img/008/day008_15.jpg",
+						image: "img/008/day008_15.JPG",
 						legend: "J'ai l'impression d'être constamment à contre-jour dans cette ville."
 					},
 					{
-						image: "img/008/day008_16.jpg",
+						image: "img/008/day008_16.JPG",
 						legend: "Toujours pas de nuages en vue."
 					},
 					{
-						image: "img/008/day008_17.jpg",
+						image: "img/008/day008_17.JPG",
 						legend: "Les maisons n'ont pas bougé depuis la veille."
 					},
 					{
-						image: "img/008/day008_18.jpg",
+						image: "img/008/day008_18.JPG",
 						legend: "Une terasse flottante !"
 					},
 					{
-						image: "img/008/day008_19.jpg",
+						image: "img/008/day008_19.JPG",
 						legend: "Un contre-jour encore. Mais c'est pour se rappeler du soleil quand on n'en aura plus."
 					},
 					{
-						image: "img/008/day008_20.jpg",
+						image: "img/008/day008_20.JPG",
 						legend: "Le vélo a vraiment sa place partout en ville."
 					},
 					{
-						image: "img/008/day008_21.jpg",
+						image: "img/008/day008_21.JPG",
 						legend: "Expérience culinaire n°6 : Ca ressemble à du jambon, mais c'est pas bon !"
 					},
 					{
-						image: "img/008/day008_22.jpg",
+						image: "img/008/day008_22.JPG",
 						legend: "Expérience culinaire n°7 : Le saumon est pas mal, même le premier prix."
 					},
 					{
-						image: "img/008/day008_23.jpg",
+						image: "img/008/day008_23.JPG",
 						legend: "Expérience culinaire n°8 : Du chocolat ! Ca ne fait pas trop envie par ce temps, je vais le stocker pour cet hiver."
 					}
 				]
