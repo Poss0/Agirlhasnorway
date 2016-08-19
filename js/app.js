@@ -247,6 +247,292 @@
 						legend: "Et on voit enfin la mer !"
 					}
 				]
+			},
+			{
+				id: "5",
+				title: "Ready, set, go!",
+				date: "15 août",
+				html: [
+					"Lever à 7h30. Dur. On est tous prêts pile à l'heure sur laquelle on s'était accordés, 8h30, parfait. On ne sait pas trop où aller, mais il s'avère que ce n'est pas un problème, au vu du nombre de personnes qui quitte Moholt vers le centre-ville.",
+					"Nous arrivons à l'hôtel à côté du stade, le Scandic Lerkendal, avec quelques minutes d'avance. Le hall est rempli d'étudiants. Nous avançons jusqu'aux tables où auront lieu les inscriptions.",
+					"A 9h, un sifflement fait taire tout le monde. Son auteur se met à hurler : 'Master students, to the left! Exchange students, to the right! Prepare your ID! Ready, set, go!' Et tout le monde s'exécute. Les organisateurs sont vraiment très efficaces ; nous passons au bout de quelques minutes. Nous sommes maintenant inscrits et détenteurs d'un t-shirt et d'un sac à l'effigie de la NTNU, d'un bracelet prouvant que nous avons payé les activités de la semaine d'intégration et de nombreux papiers d'information. Plus de 1500 étudiants seront inscrits en deux heures ! Mais pour nous, passés dès les premières minutes, cela signifiera plus d'une heure et demi d'attente.",
+					"",
+					"A 11h, il est enfin temps d'entrer dans la salle pour la réunion d'accueil. Nous attendons un peu, puis un chant retenti. Le silence se fait dans la pièce. C'est probablement un chant traditionnel norvégien. C'est a capella. Il nous faut un peu de temps pour comprendre que les deux voix qui chantent sont là, dans la pièce, marchant doucement vers la scène. Encore une façon originale mais efficace d'obtenir l'attention de tous. Ensuite se succèdent le directeur, le maire, la responsable du service des relations internationales, des responsables d'associations étudiantes. Tous nous souhaitent la bienvenue en Norvège, à Trondheim, à la NTNU, et nous rappellent à quel point c'est une bonne université. Un autre employé du service des relations internationales nous fait bien rire en parlant de la météo norvégienne et de la rivalité entre Trondheim et Bergen, et entre la Norvège et la Suède. On nous explique aussi, à l'aide de quelques anecdotes, que les norvégiens sont par nature un peu froids et que ce sera à nous de faire le premier pas.",
+					"A la fin de la réunion, c'est l'heure de manger : soupe de légumes et tartines beurrées. C'est un peu décevant au vu de l'après-midi qui nous attend, mais ça a l'air plutôt typique et c'est vrai que les norvégiens mangent peu le midi. Une fois rassasiés, il faut encore attendre.",
+					"",
+					"Nous commençons à sortir du bâtiment. Nous sortons à peine qu'une fanfare déboule de l'intérieur et prend la tête du cortège. Il ne font pas les choses à moitié ici. La-dite fanfare nous accompagne jusqu'au campus scientifique, Gløshaugen, devant le bâtiment principal. Le but est de prendre une photo de tout le monde, mais il semble que beaucoup d'entre nous n'y apparaisse pas en raison du nombre. Il nous faut là aussi patienter ; nous en profitons pour prendre quelques 'contre-photos'.",
+					"Après un moment qui nous semble une éternité pour une photo, nous marchons en direction de la forteresse. Elle est impressionnante et la vue aussi ; nous prenons quelques photos et voyons pour la première fois la mer dans la fjord. Un peu d'attente plus tard, nous formons, comme demandé à l'aide d'un nouveau sifflement et d'un mégaphone, une équipe de huit. Le jeu s'appelle 63° North, comme la latitude de Trondheim.",
+					"Quatre par quatre, les équipes se déplacent aux alentours de la forteresse pour s'affronter dans des jeux. Le premier est basé sur l'histoire du loup, de la chèvre et du chou ; c'est plutôt drôle. Malheureusement le temps n'est pas avec nous et la fine pluie qui tombe en continu rend les déplacements et les nombreux temps d'attente un peu pénibles ; et certains jeux dangereux car glissants. Nous faisons au mieux malgré tout avant de rentrer à l'abri.",
+					"",
+					"Je prends le temps de faire des courses un peu plus importantes cette fois. La viande est vraiment chère et a un aspect bizarre, comme si elle était déjà cuite. Il y a très peu de volaille et je ne trouve pas d'équivalent au jambon. J'achète donc des produits de la mer et des pains spéciaux. Les noix sont en libre service pour faire des mélanges mais pas trop chères, c'est plutôt cool. Je ne résoud pas le mystère du lait : lettmelk ou helmelk ? Je ne prendrais pas le risque cette fois.",
+					"Le pain au fromage (ostbrød) est plutôt bon. Les trois allemands m'aprennent à jouer à leur version du président, je leur explique au passage comment on joue en France et on finit par faire un mix des deux. C'est vraiment du partage culturel ! On retourne ensuite au chapiteau comme les jours précédents pour y finir la soirée. Contrairement à ce qu'on a dit ce matin, trois norvégiens nous abordent ; enfin nous en rencontrons ! La discussion est sympa et au retour le sommeil ne se fait pas attendre."
+				],
+				images: [
+					{
+						image: "img/005/day005_01.jpg",
+						legend: "La fanfare nous accompagne jusque sur le campus. Ils font de la musique, chantent, dansent, tapent dans les mains."
+					},
+					{
+						image: "img/005/day005_02.jpg",
+						legend: "Où sont les ENSEArques ? Cachés, mais les contre-photos sortiront plus tard."
+					},
+					{
+						image: "img/005/day005_03.jpg",
+						legend: "Nous sommes très nombreux sur la route de la forteresse."
+					},
+					{
+						image: "img/005/day005_04.jpg",
+						legend: "La forteresse Kristiansten surplombe la ville."
+					},
+					{
+						image: "img/005/day005_05.jpg",
+						legend: "Il ne fait pas beau mais la vue est sympa."
+					},
+					{
+						image: "img/005/day005_06.jpg",
+						legend: "On aperçoit le bâtiment principal du campus, au loin."
+					},
+					{
+						image: "img/005/day005_07.jpg",
+						legend: "Les jeux sont lancés, il faut les trouver tout autour de la forteresse."
+					},
+					{
+						image: "img/005/day005_08.jpg",
+						legend: "Toujours plus haut !"
+					},
+					{
+						image: "img/005/day005_09.jpg",
+						legend: "Un relai de lancer d'oeuf. Malheureusement il éclatera dans les mains de Laura."
+					},
+					{
+						image: "img/005/day005_10.jpg",
+						legend: "Marjolaine et Mathilde, attachées par les pieds."
+					},
+					{
+						image: "img/005/day005_11.jpg",
+						legend: "Les maisons de toutes les couleurs et la tour de Tyholt, où nous avons essayé d'aller manger."
+					}
+				]
+			},
+			{
+				id: "6",
+				title: "The Matriculation ceremony",
+				date: "16 août",
+				html: [
+					"Mes colocs ont décidé d'aller à la cérémonie de Matriculation avec une heure de retard car elle sera en norvégien et probablement répétitive par rapport aux discours de la veille. J'ai longuement hésité à mettre mon réveil, mais finalement j'y vais car j'ai lu qu'il y aurait des prestations culturelles. Et effectivement le début de la cérémonie est ponctué de chants d'une chorale, c'est super. Le présentateur est drôle et a quelques mots en anglais pour nous, les internationaux. Il nous annonce que la suite sera en norvégien mais sous-titré en anglais sur l'écran géant. Certains discours sont intéressants, d'autres répètent mot pour mot ceux de la veille, mais en norvégien. C'est sympa d'entendre parler la langue, même si la cérémonie est un peu longue. Elle a un caractère très officiel : les représentants de la ville et du corps enseignant arrivent et repartent escortés par une fanfare. Le directeur porte un habit de cérémonie. Heureusement pour nous, debouts à attendre, la cérémonie est ponctuée de vidéos et de prestations : des danses acrobatiques, des groupes de musique, le défilé des associations de l'université. Et puis, il ne fait pas si froid, il ne pleut pas, et on nous distribue du chocolat.",
+					"Après la cérémonie, nous parcourons les deux allées principales du campus où se trouvent les stands des associations. Nous y obtenons de nombreuses informations, notamment à propos des sports. Nous entrons dans la bâtiment principal où nous devons récupérer nos cartes étudiantes. Mais le bureau est fermé pour le repas et beaucoup de monde attend. Il faudra y retourner à un moment stratégique.",
+					"",
+					"Faute de carte étudiante, nous nous dirigeons vers la maison du service des relations internationales, appelée ici seulement 'International House', dont le jardin est le théâtre d'un barbecue géant. L'organisation est bonne là encore, c'est impressionnant ; plus de mille étudiants vont être servis et le temps d'attente est tout à fait raisonnable. Chacun peut avoir un hamburger, un hot dog, une galette de pomme de terre, un peu de salade de pommes de terre et une étrange mixture à base de crevettes, puis des pancakes. Je commence à me demander comment on peut avoir autant de choses pour seulement 300 NOK la semaine, alors que la vie est si chère ici.",
+					"Nous mangeons assis dans l'herbe comme tous les autres, réunis par plus ou moins grands groupes. Il fait vraiment beau maintenant. Nous nous dirigeons dès que possible vers le bâtiment principal pour obtenir nos cartes étudiantes pendant que les autres profitent du soleil après manger. Cette stratégie s'avère payante : nous sommes quasiment les premiers à prendre une photo et à recevoir nos cartes. Comme à la réception pour obtenir nos clés, il faut prendre un numéro pour avoir la carte ; encore une sacrée organisation.",
+					"Nous demandons où trouver des imprimantes car nous devons imprimer un formulaire pour enregistrer notre adresse à la poste ; sinon nous ne recevrons par les lettres de la NTNU. Nous nous rendons là où on nous a indiqué. Nous avons déjà des sessions sur les ordinateurs de la bibliothèque. Nous lançons les impressions ; il faut ensuite aller passer sa carte étudiante près de l'imprimante pour valider les impressions. C'est le système du print@me ou follow me que j'avais étudié durant mon stage de première année ; c'est drôle. Malheureusement les cartes étudiantes venant de nous être délivrées, cela ne fonctionne pas encore ; il faudra revenir.",
+					"Nous nous rendons ensuite dans un amphi où se tient une vente de cartes SIM proposée par l'association qui vient en aide aux élèves Erasmus, ESN. Il n'y a que 110 cartes disponibles et au moins 200 étudiants dans la pièce. Et les forfaits et prix proposés ne sont pas si attractifs. Nous abandonnons donc.",
+					"",
+					"C'est seule que je décide de retourner en ville. Se déplacer en grands groupes où chacun ne veut pas faire les mêmes choses, et où il faut suivre ceux devant ou attendre ceux derrière est assez pénible. Je retourne à l'office du tourisme et demande où se trouve la boutique AtB (dont on a appris lundi que cela signifiait 'We'll take you from A to B') pour acheter une carte de bus et un endroit où trouver une carte SIM. L'endroit qui m'est indiqué pour une carte SIM est une épicerie de centre-ville ; cela ne me paraît pas très adapté. J'entre dans la galerie commerciale du centre où je répère les deux principaux opérateurs norvégiens : Telenor et Telia. Je regarderai les prix sur Internet. Je me rends ensuite à la boutique AtB bondée d'étudiants ; il me faut prendre un numéro et attendre. Mais là encore les vendeurs sont efficaces et discuter avec d'autres étudiants permet de patienter. Je rentre en bus avec ma carte toute neuve. 1700 NOK le semestre tout de même. Mais plus de montée de cette terrible côte.",
+					"",
+					"J'improvise un repas, et la soirée se finira comme les jours précédents près du chapiteau. Il y a une forte probabilité de voir une aurore boréale mais la luminosité est trop importante encore. Difficile de croire qu'on n'aura que quelques heures de soleil en hiver !"
+				],
+				images: [
+					{
+						image: "img/006/day006_01.jpg",
+						legend: "Le dispositif est impressionnant : tambours qui accueillent les officiels, écran géant, caméras pour une retransmission live sur internet."
+					},
+					{
+						image: "img/006/day006_02.jpg",
+						legend: "Le bâtiment principal depuis le jardin où nous mangeons."
+					},
+					{
+						image: "img/006/day006_03.jpg",
+						legend: "Toujours cette même vue de Trondheim, mais sous le soleil."
+					},
+					{
+						image: "img/006/day006_04.jpg",
+						legend: "Et encore."
+					},
+					{
+						image: "img/006/day006_05.jpg",
+						legend: "Expérience culinaire n°2 : Je m'attendais à des biscuits sucrés. En fait ce sont des crackers aux graines, qui peuvent se manger aussi bien avec de la confiture que du fromage. J'ai essayé avec la margarine de lait, l'ensemble est plutôt pas mal."
+					},
+					{
+						image: "img/006/day006_06.jpg",
+						legend: "Expérience culinaire n°3 : La fameuse margarine. D'ailleurs, je l'appelle margarine de lait, mais je me demande si lett ne signifie pas plutôt crème."
+					},
+					{
+						image: "img/006/day006_07.jpg",
+						legend: "Expérience culinaire n°4 : Les yaourt aux goûts exotiques ne sont pas les plus chers. Cette fois c'est conforme à ce qu'on s'attend à manger."
+					},
+					{
+						image: "img/006/day006_08.jpg",
+						legend: "La pièce en chocolat qu'on nous a distribuée ce matin, à l'effigie de l'université."
+					},
+					{
+						image: "img/006/day006_09.jpg",
+						legend: "On se sent riche ici ! Ceci dit, les prix sont paraissent énormes donc ça compensent. Mais quand on convertit en euros, il s'avère que les prix sont plus élevés et nous pas plus riches."
+					},
+					{
+						image: "img/006/day006_10.jpg",
+						legend: "Grandes ou petites, trouées ou non ; les pièces me font penser au Quarto !"
+					}
+				]
+			},
+			{
+				id: "7",
+				title: "Le beau temps a encore frappé",
+				date: "17 août",
+				html: [
+					"Troisième jour où il faut se lever tôt. C'est dur. Je pars à pied avec mes colocs ; il fait beau et l'aller est en descente, pas besoin de bus. Nous trouvons l'amphi où se tient la réunion d'information. Je n'y apprends presque rien puisque j'avais lu la checklist des choses à faire en arrivant et que j'en ai déjà fait la plupart. C'est rassurant de se dire qu'on est plus organisés que la plupart des autres.",
+					"En sortant de la pièce nous récupérons nos attestations d'arrivée. Nous avons une heure et demi d'attente avant le repas. Nous décidons d'aller faire un tour en ville. Nous retournons au centre commercial ; certains font des achats. J'hésite à acheter une carte SIM ; j'ai regardé les prix sur internet la veille mais c'est cher. Nous nous perdons sur le retour et découvrons un port de plaisance et une gare ; sympa.",
+					"",
+					"Nous arrivons après la masse pour manger les pizzas dans le jardin. Ensuite on nous appelle pour les jeux dans Trondheim. Nous décidons de diviser le groupe car nous sommes trop de français. Marjolaine et moi trouvons un autre groupe mais il s'avère plein de français et de belges parlant français. Nous nous divisons une seconde fois pour nous retrouver enfin dans un groupe plus mixte, avec des belges ne parlant pas français et des hollandais.",
+					"Nous désignons une chef d'équipe qui reçoit les instructions : nous avons exactement trois heures pour aller à un maximum de checkpoints où des activités nous serons proposées, réaliser des interations avec les norvégiens et en envoyer la preuve par mail et répondre à des questions d'observations à travers la ville. Nous apprendrons donc de nombreuses informations plus ou moins utiles, comme le fait que la statue en centre-ville est en fait un cadran solaire, ou le nombre de statues sur la façade de la cathédrale. Un membre de l'équipe fera un câlin à une norvégienne, un autre essaiera d'en faire rire dans la rue. Nous ferons un casque viking en aluminium pour la chef d'équipe, massacrerons l'hymne national en pleine rue sur l'air de 'Au clair de la Lune', ferons une structure humaine en équipe et goûterons du brunost (fromage brun ayant un goût indéfinissable de fromage mais aussi de caramel) et de l'huile de poisson (qui a un mauvais goût mais est très bonne pour la santé ; un complément de vitamine D j'imagine).",
+					"Notre score final n'est pas trop mal : il ne nous manque qu'un checkpoint et deux questions. Nous rentrons pile dans les temps. Nous restons un peu au soleil dans le jardin avant de rentrer de cette journée bien fatiguante.",
+					"",
+					"Je passe au Bunnpris acheter ce qui ressemble le plus à du jambon. Je compte le mettre dans des galettes de pomme de terre que j'ai achetées pour manger pendant la randonnée de demain. Je cuisine ensuite un repas typique d'ici : pommes de terre et saumon. C'est super bon. Je goûte les galettes de pomme de terre par acquis de conscience. Raté, il y a une crème sucrée à l'intérieur. Il faudra trouver autre chose pour demain.",
+					"Là soirée se termine assis près du chapiteau, chantant des chansons françaises et anglaises (en yaourt plus qu'avec les vraies paroles) autour d'un français qui joue de la guitare. Nous ne nous dispersons pas trop tard ; tout le monde est bien fatigué."
+				],
+				images: [
+					{
+						image: "img/007/day007_01.jpg",
+						legend: "En se perdant, on a trouvé de jolis endroits."
+					},
+					{
+						image: "img/007/day007_02.jpg",
+						legend: "Un concentré de moyen de transport !"
+					},
+					{
+						image: "img/007/day007_03.jpg",
+						legend: "Nous voilà enfin prêts de la mer."
+					},
+					{
+						image: "img/007/day007_04.jpg",
+						legend: "Un parc ; c'est vraiment très vert ici !"
+					},
+					{
+						image: "img/007/day007_05.jpg",
+						legend: "Dans les rues aussi les maisons sont de toutes les couleurs."
+					},
+					{
+						image: "img/007/day007_06.jpg",
+						legend: "Le défi du casque viking, ou comment quelqu'un a dû porter de l'aluminium sur la tête pendant deux heures."
+					},
+					{
+						image: "img/007/day007_07.jpg",
+						legend: "Le pont du bonheur. Marcher en-dessous rendrait heureux."
+					},
+					{
+						image: "img/007/day007_08.jpg",
+						legend: "Cette fois, plus un nuage !"
+					},
+					{
+						image: "img/007/day007_09.jpg",
+						legend: "Expérience culinaire n°5 : Ce sont des galettes de pomme de terre remplies d'une crème sucrée. Le goût me rappelle vraiment quelque chose mais impossible de trouver quoi d'après les ingrédients. C'est un peu comme si je mangeais une tarte aux fruits ou un clafouti."
+					}
+				]
+			},
+			{
+				id: "8",
+				title: "Rando au bord de l'eau",
+				date: "18 août",
+				html: [
+					"J'ai choisi une randonnée facile et pas très longue, ne sachant pas quel serait mon niveau de fatigue et n'ayant pas d'équipement adapté. Je me perds en allant au campus mais arrive quand même à temps pour le bus. On nous distribue encore du chocolat. C'est plus une balade qu'une randonnée, nous longeons le fjord et voyons Trondheim au loin.",
+					"Il y a des plages tout le long. Nous nous arrêtons pour manger ; j'ai finalement improvisé un sandwich avec des knekkebrød, des tranches de porc ressemblant vaguement à du jambon et de la margarine de lait. On est loin du jambon-beurre, c'est franchement moyen.",
+					"On s'arrête finalement près d'une plage. Des norvégiens se baignent ou bronzent au soleil. On reste un moment avant de rentrer à pied. Je profite du passage en centre-ville pour m'acheter enfin une carte SIM, j'ai entendu que les forfaits prépayés étaient moins chers et de toute façon n'étant pas norvégiens c'est les seuls auxquels on a accès.",
+					"",
+					"Le saumon sera encore de mise ce soir. S'en suit une partie de Yams avec mes deux colocs ; en allemand c'est le Kniffel. Je retrouve le même groupe que la veille au chapiteau. Nous allons dans un appartement jouer au 21. Le premier joueur dit 1, le second 2, et ainsi de suite jusqu'à 21. Le 7 et le 14 permettent de garder ou de changer le sens du jeu selon la position des mains. Celui qui atteint 21 doit inventer une règle ; en l'occurence nous ajoutons des règles qui modifient la suite au fur et à mesure. La suite finale est difficile à mémoriser et il devient de plus en plus compliqué d'atteindre 21 : 23 - 21 (non prononcé mais la personne boit) - 9 - beer - 18 - 17 - 16 - 3 - 14 (la main du dessous donne le sens) - 13 (non prononcé mais montré avec les doigts) - 12 - 11 (en frappant dans ses mains) - 1 - 2 - 15 - 4 (prononcé debout) - 22 - 6 - 6 - 7 (la main du dessus donne le sens) - 8 - 20 - 10. Le tout en anglais. Bonne chance pour comprendre comment on en est arrivés là !"
+				],
+				images: [
+					{
+						image: "img/008/day008_01.jpg",
+						legend: "Il y a plein de monde sur cette plage."
+					},
+					{
+						image: "img/008/day008_02.jpg",
+						legend: "Verdure, ciel bleu : qui l'eut cru ?"
+					},
+					{
+						image: "img/008/day008_03.jpg",
+						legend: "Des courageux se baignent dans l'eau froide du fjord."
+					},
+					{
+						image: "img/008/day008_04.jpg",
+						legend: "Les contours du fjord ne sont pas réguliers."
+					},
+					{
+						image: "img/008/day008_05.jpg",
+						legend: "Même s'il y avait plusieurs randonnées possibles, on est nombreux !"
+					},
+					{
+						image: "img/008/day008_06.jpg",
+						legend: "C'est vraiment l'été finalement."
+					},
+					{
+						image: "img/008/day008_07.jpg",
+						legend: "Ca grimpe de temps en temps."
+					},
+					{
+						image: "img/008/day008_08.jpg",
+						legend: "Quelques arbres encore..."
+					},
+					{
+						image: "img/008/day008_09.jpg",
+						legend: "Un norvégien a utilisé une corde attachée à ce mât métallique pour se jeter à l'eau."
+					},
+					{
+						image: "img/008/day008_10.jpg",
+						legend: "On voit Trondheim au loin."
+					},
+					{
+						image: "img/008/day008_11.jpg",
+						legend: "La plage sur laquelle nous nous sommes arrêtés."
+					},
+					{
+						image: "img/008/day008_12.jpg",
+						legend: "C'est bien la mer et pourtant il y a toujours des terres de l'autre côté ; c'est perturbant."
+					},
+					{
+						image: "img/008/day008_13.jpg",
+						legend: "Une petite plage encore."
+					},
+					{
+						image: "img/008/day008_14.jpg",
+						legend: "Il y a un bateau qui va sur l'île au milieu, il faudra tenter."
+					},
+					{
+						image: "img/008/day008_15.jpg",
+						legend: "J'ai l'impression d'être constamment à contre-jour dans cette ville."
+					},
+					{
+						image: "img/008/day008_16.jpg",
+						legend: "Toujours pas de nuages en vue."
+					},
+					{
+						image: "img/008/day008_17.jpg",
+						legend: "Les maisons n'ont pas bougé depuis la veille."
+					},
+					{
+						image: "img/008/day008_18.jpg",
+						legend: "Une terasse flottante !"
+					},
+					{
+						image: "img/008/day008_19.jpg",
+						legend: "Un contre-jour encore. Mais c'est pour se rappeler du soleil quand on n'en aura plus."
+					},
+					{
+						image: "img/008/day008_20.jpg",
+						legend: "Le vélo a vraiment sa place partout en ville."
+					},
+					{
+						image: "img/008/day008_21.jpg",
+						legend: "Expérience culinaire n°6 : Ca ressemble à du jambon, mais c'est pas bon !"
+					},
+					{
+						image: "img/008/day008_22.jpg",
+						legend: "Expérience culinaire n°7 : Le saumon est pas mal, même le premier prix."
+					},
+					{
+						image: "img/008/day008_23.jpg",
+						legend: "Expérience culinaire n°8 : Du chocolat ! Ca ne fait pas trop envie par ce temps, je vais le stocker pour cet hiver."
+					}
+				]
 			}
 		];
 
