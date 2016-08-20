@@ -366,7 +366,7 @@
 					},
 					{
 						image: "img/006/day006_09.jpg",
-						legend: "On se sent riche ici ! Ceci dit, les prix sont paraissent énormes donc ça compensent. Mais quand on convertit en euros, il s'avère que les prix sont plus élevés et nous pas plus riches."
+						legend: "On se sent riche ici ! Ceci dit, les prix paraissent énormes donc ça compense. Mais quand on convertit en euros, il s'avère que les prix sont plus élevés et nous pas plus riches."
 					},
 					{
 						image: "img/006/day006_10.jpg",
@@ -400,7 +400,7 @@
 					},
 					{
 						image: "img/007/day007_03.jpg",
-						legend: "Nous voilà enfin prêts de la mer."
+						legend: "Nous voilà enfin près de la mer."
 					},
 					{
 						image: "img/007/day007_04.jpg",
@@ -531,6 +531,34 @@
 					{
 						image: "img/008/day008_23.JPG",
 						legend: "Expérience culinaire n°8 : Du chocolat ! Ca ne fait pas trop envie par ce temps, je vais le stocker pour cet hiver."
+					}
+				]
+			},
+			{
+				id: "9",
+				title: "Kubb party",
+				date: "19 août",
+				html: [
+					"Pas d'impératif ce matin. C'est donc tranquillement que je me lève et me prépare. Je passe aussi plus de temps sous la douche que d'habitude puisque personne n'est pressé, et je fais un incroyable constat : j'ai bronzé en Norvège !",
+					"En milieu d'après-midi, Antoine et moi décidons de faire une virée à Gløshaugen pour imprimer les documents que nous n'avions pas pu la dernière fois. Sur le chemin, nous faisons un point après une semaine : même si l'année n'a pas encore vraiment commencé et que nous n'avons pas tout à fait pris nos marques, nous nous sentons bien ici. Dépaysés, mais pas perturbés. Nous ne nous sommes jamais demandés 'Qu'est-ce que je fais ici ?' ou avons eu envie de faire marche arrière. Tant mieux ! Nous entrons dans le bâtiment des sciences naturelles ; la bibliothèque est déjà fermée et un écriteau nous invite à aller dans celle dédiée à la technologie, dans le bâtiment principal. Nous sortons donc de ce bâtiment en observant autour de nous : il y a des open-space avec des canapés, des salles informatiques, une cafétéria ; c'est dingue ici. Arrivés dans le bâtiment central, nous cherchons partout : encore une cafétéria, encore des espaces de travail ou de détente, mais pas de bibliothèque. Nous demandons notre chemin à un élève, qui propose de nous accompagner. Ah, d'accord, en fait il y a un bâtiment principal et un bâtiment central, nuance. On discute un peu ; selon lui nous allons vouloir allonger notre séjour, six mois c'est trop peu.",
+					"Là aussi la bibliothèque est fermée. L'étudiant nous conseille d'aller dans notre bâtiment de cours, nous devrions pouvoir accéder à n'importe quelle salle informatique là-bas. Nous le remercions et nous y rendons. C'est immense. Nous parcourons les couloirs sans rien trouver si ce n'est des bureaux et des laboratoires. Et encore une cafétéria et des grands espaces de travail. Nous croisons de temps à autre des salles de travail ou de réunion fermées qu'il faut réserver. C'est dingue. Nous nous apprêtions à repartir après une dernière tentative quand nous tombons enfin devant une salle informatique. Un papier sur la porte donne les numéros des deux seules salles ouvertes durant l'été. Et effectivement, nous en trouvons une, ouverte, avec des élèves en train d'imprimer à l'intérieur. Je lis les explications : chaque élève se voit doté d'un quota de 300 couronnes par an, qu'il peut recharger ensuite. Une impression ou copie A4 noir et blanc coûte 0,75 couronne, une couleur 1 couronne ; le double en A3. Après les vélos, les voitures électriques et les bus, ça ne m'étonne pas tellement, mais c'est super. Nous nous connectons sur nos sessions, lançons les impressions. Je passe ensuite la carte sur la machine : l'interface est entièrement en norvégien. Heureusement c'est une Xerox et je la connais parfaitement grâce à mon premier stage. Nous arrivons donc à nos fins !",
+					"",
+					"Une fois de retour, nous nous rendons à la poste (à l'intérieur de la supérette Bunnpris) pour faire enregistrer notre adresse et payer notre loyer. Il faudra six jours ouvrés pour que notre adresse oit enregistré et que des lettres puissent nous parvenir. Quant au loyer, mauvaise surprise : nous avions décidé de payer en liquide pour éviter les 100 couronnes supplémentaires en cas de virement bancaire et les 50 en cas de paiement par carte en ligne. Mais en fait, en liquide, c'est 75 couronnes de plus pour le service. Donc quoiqu'il arrive notre loyer est plus cher que prévu.",
+					"Cet administratif réglé, j'achète mon premier pack de bière (la moins chère, quatre fois plus chère qu'en France) et mange à l'heure allemande car nous devons partir à 19h. Nous cachons des bières dans nos sacs pour boire un peu avant la soirée : nous ne devons pas avoir d'alcool sur le campus mais il sera probablement très cher à l'intérieur de la boîte, donc nous essaierons de boire entre temps. Nous préparons aussi des petites bouteilles de vodka-orange, problème : il ne reste pas assez de jus d'orange. Je vais acheter une bouteille avant de partir. Je ne prends pas une brique car je ne pourrai pas la refermer. Je remarque qu'il n'est pas écrit 'juice' comme sur les autres bouteilles mais 'saft' ; je décide d'essayer quand même. Pascal complète la sienne, je fais entièrement la mienne. Je m'en renverse un peu sur la main, c'est un peu trop collant pour être du jus mais ça n'attire pas mon attention pour l'instant.",
+					"",
+					"C'est parti ! Nous buvons une bière sur le trajet. A l'arrivée, il y a des boissons et des gâteaux apéro. Au bout d'une quarantaine de minutes on nous explique les règles du Kubb. J'entends les explications mais suis bien trop petit pour voir la démonstration. On regarde les premières parties puis on en fait deux ; une gagnée une perdue. On décide d'aller un peu plus loin dans le jardin pour notre 'before' improvisé ; nous sommes loin d'être les seuls à avoir fait ce calcul. La bière, bon, elle n'est pas terrible, c'est la moins cher. Mais la vodka-orange, beurk, c'est immonde ! J'ai l'impression de boire du sucre à l'état liquide. Du sirop en fait. Je regarde la bouteille : 48% de sucre dans les ingrédients, 53 dans les valeurs nutritionnelles. Mais c'est quoi ce jus ? Je vérifie le sens de 'saft', et un gars me dit qu'en allemand aussi cela signifie jus. Je fais goûter aux autres ; même constat. Une fille regarde la bouteille plus attentivement : en bas à droite, même sans comprendre le norvégien, on comprend que cette bouteille de 1,5L équivaut à 9L de jus. C'est donc du concentré. N'essayez jamais, jamais, JAMAIS de boire du concentré. Au moins, je ne serai pas trop alcoolisée.",
+					"Maintenant, direction la soirée ! Nous marchons jusqu'à l'imprononçable 'Studentersamfundet'. A l'entrée, on nous demande s'il y a de l'alcool dans nos sacs. Je dis non, même s'ils goûtaient ils n'y verraient que du feu. Nous payons le vestiaire, 25 couronnes chacun. Et pas moyen de mettre le manteau de quelqu'un dans son sac, il faudrait payer double. A l'intérieur on peut tout payer par carte, voilà qui est pratique. On s'achète d'ailleurs une bière. 75 couronnes, ce sera la seule. A l'intérieur il y a beaucoup de salles : bars, restaurants, deux discothèque. Je navigue entre les deux et entre les groupes : ceux rencontrés au chapiteau, ceux rencontrés au Trondheim games, ceux rencontrés par mes colocs ou ceux rencontrés par les autres ENSEArques. Pour l'instant on s'est surtout fait des connaissances, mais c'est sympa de croiser régulièrement du monde dans la boîte.",
+					"Un peu après deux heures, on décide de rentrer. Un stand de SiT (Students in Trondheim, qui gère les cafétérias du campus et nos logements, notamment) est là, distribuant des verres d'eau gratuitement ; encore un truc intelligemment organisé. Les garçons s'achète des burgers, 70 couronnes, et la carte VISA international ne passe pas, il faut une VISA norvégienne. 'What's the fuck! That's crazy!'",
+					"Les bus nocturnes ne font a priori pas partie de notre abonnement, il faudrait payer ; cher en plus. C'est donc à pied, comme beaucoup d'autres, que nous remonterons à Moholt. La côte est difficile après une semaine et une soirée comme celle-ci ; et le sommeil arrive bien vite après ces quarante minutes de marche. Je ne sais pas si on sortira si souvent !"
+				],
+				images: [
+					{
+						image: "img/009/day009_01.JPG",
+						legend: "Le fameux 'ribbon' qui nous permet d'accéder aux activités payantes. J'ai hâte de pouvoir l'enlever. Il était un peu plus près de ma main hier pendant la randonnée...oui oui c'est bien une trace de bronzage.",
+					},
+					{
+						image: "img/009/day009_02.JPG",
+						legend: "Expérience culinaire n°9 : Appelsin, orange. Saft, jus. Fra konsentrert, à base de concentré. Comment ça ce n'est pas ce qui est écrit ? Oh allez, j'avais presque tout bon..."
 					}
 				]
 			}
