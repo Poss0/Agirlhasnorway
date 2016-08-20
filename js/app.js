@@ -553,11 +553,11 @@
 				],
 				images: [
 					{
-						image: "img/009/day009_01.JPG",
+						image: "img/009/day009_01.jpg",
 						legend: "Le fameux 'ribbon' qui nous permet d'accéder aux activités payantes. J'ai hâte de pouvoir l'enlever. Il était un peu plus près de ma main hier pendant la randonnée...oui oui c'est bien une trace de bronzage.",
 					},
 					{
-						image: "img/009/day009_02.JPG",
+						image: "img/009/day009_02.jpg",
 						legend: "Expérience culinaire n°9 : Appelsin, orange. Saft, jus. Fra konsentrert, à base de concentré. Comment ça ce n'est pas ce qui est écrit ? Oh allez, j'avais presque tout bon..."
 					}
 				]
