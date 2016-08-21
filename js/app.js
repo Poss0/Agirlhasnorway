@@ -585,6 +585,26 @@
 						legend: "Je n'ai pas encore réussi à prendre une photo qui montre à quel point le coucher du soleil est beau ici. D'une minute à l'autre le ciel change mais c'est toujours un superbe spectacle, surtout quand il y a des nuages. Et qui plus est visible de la fenêtre de la cuisine.",
 					}
 				]
+			},
+			{
+				id: "11",
+				title: "Sunday, sunny sunday ",
+				date: "21 août",
+				html: [
+					"Réveil plus tôt ce matin ; logique. Je ne fais pas grand chose. En début d'après-midi je me rends dans le jardin de l'International House pour l'initiation à la plongée et au rugby sous-marin. Je pensais que ce serait le point de rendez-vous pour se rendre à la piscine, mais en fait c'est un bassin improvisé dans une remorque, et on passe un par un, donc seulement quelques minutes chacun. Cette déception passée, j'essaye toute habillée une combinaison sèche deux fois trop grande pour moi. La sensation est marrante quand on chasse l'air pour que la combinaison colle à la peau. Et respirer sous l'eau s'avère plus naturel que prévu. La suite de l'heure consiste en des explications des activités du groupe : plongée en eaux profondes, plongée en surface, rugby sous-marin et bières pour récupérer. Ils ont une théorie comme quoi ça évite les problèmes de décompression. Le rugby sous-marin a l'air super fun, mais je ne nage pas assez bien ni ne sais tenir en apnée assez longtemps pour le faire. J'essaierai un autre sport, donc.",
+					"",
+					"De retour, je vais m'acharner près de quatre heures pour essayer d'avoir un emploi du temps qui ne nécessite pas d'être Marty MacFly ou Hermione Granger (bien que le bâtiment principal de l'université soit surnommé Poudlard). Je n'y arriverai pas, et de cet échec (re)naîtra une vaisselle propre. Je lui présente mes excuses pour un tel acharnement, mais elle n'avait qu'à pas être sale. La suite, vous la connaissez : pâtes à l'eau, chapiteau, dodo."
+				],
+				images: [
+					{
+						image: "img/011/day011_01.jpg",
+						legend: "On a plongé dans le jardin ! Le groupe de plongée a même installé son étendard pour augmenter ses chances de recrutement.",
+					},
+					{
+						image: "img/011/day011_02.jpg",
+						legend: "Expérience culinaire n°11 : Les 'fiskkakker' (orthographe à vérifier, littérallement gâteaux de poisson), pour aller avec les pâtes (à moins que ce ne soit l'inverse). Visuellement on dirait une pâte blanche entre deux blinis. En fait ce serait plutôt des genres de pancake au poisson. Un aller-retour dans la poêle et c'est prêt ; pratique et pas si mauvais !",
+					}
+				]
 			}
 		];
 
