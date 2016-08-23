@@ -588,7 +588,7 @@
 			},
 			{
 				id: "11",
-				title: "Sunday, sunny sunday ",
+				title: "Sunday, sunny sunday",
 				date: "21 août",
 				html: [
 					"Réveil plus tôt ce matin ; logique. Je ne fais pas grand chose. En début d'après-midi je me rends dans le jardin de l'International House pour l'initiation à la plongée et au rugby sous-marin. Je pensais que ce serait le point de rendez-vous pour se rendre à la piscine, mais en fait c'est un bassin improvisé dans une remorque, et on passe un par un, donc seulement quelques minutes chacun. Cette déception passée, j'essaye toute habillée une combinaison sèche deux fois trop grande pour moi. La sensation est marrante quand on chasse l'air pour que la combinaison colle à la peau. Et respirer sous l'eau s'avère plus naturel que prévu. La suite de l'heure consiste en des explications des activités du groupe : plongée en eaux profondes, plongée en surface, rugby sous-marin et bières pour récupérer. Ils ont une théorie comme quoi ça évite les problèmes de décompression. Le rugby sous-marin a l'air super fun, mais je ne nage pas assez bien ni ne sais tenir en apnée assez longtemps pour le faire. J'essaierai un autre sport, donc.",
@@ -602,7 +602,128 @@
 					},
 					{
 						image: "img/011/day011_02.jpg",
-						legend: "Expérience culinaire n°11 : Les 'fiskkakker' (orthographe à vérifier, littérallement gâteaux de poisson), pour aller avec les pâtes (à moins que ce ne soit l'inverse). Visuellement on dirait une pâte blanche entre deux blinis. En fait ce serait plutôt des genres de pancake au poisson. Un aller-retour dans la poêle et c'est prêt ; pratique et pas si mauvais !",
+						legend: "Expérience culinaire n°11 : Les 'fiskkakker' (orthographe à vérifier, littérallement gâteaux de poisson), pour aller avec les pâtes (à moins que ce ne soit l'inverse). Visuellement on dirait une pâte blanche entre deux blinis. En fait ce serait plutôt un genre de pancakes au poisson. Un aller-retour dans la poêle et c'est prêt ; pratique et pas si mauvais !",
+					}
+				]
+			},
+			{
+				id: "12",
+				title: "Up and down",
+				date: "22 août",
+				html: [
+					"Premier jour de cours. J'ouvre les yeux avant mon réveil, stressée. Mon emploi du temps sera-t-il plus clair après cette journée ?",
+					"Grâce aux différents repérages de bus et de bâtiments des jours précédents, je suis au bon moment au bon endroit (comme quoi ça peut arriver). La réunion d'information, qui m'empêche d'assister à l'un de mes cours, est totalement inutile. La responsable de la faculté dont je dépends projette des slides au tableau et les lis. Slides que nous avons sur papier sous les yeux. Je ne me suis pas levée pour rien heureusement ; les responsables des différents départements vont m'éclairer un peu sur les dépendances entre les cours et me rassurer sur la flexibiité des horaires de labo.",
+					"En sortant, on nous offre une collation. Il y a des gaufres avec du beurre et du 'brunost', ce fameux fromage brun un peu sucré. Ca paraît étrange, mais c'est super bon ! Enfin un truc que je vais pouvoir exporter. N'ayant rien de particulier à faire, on regarde les prix de la cafétéria : ils sont exorbitants ; on rentre manger à Moholt.",
+					"",
+					"L'après-midi, on se rend au laboratoire où on devrait pouvoir faire un exercice optionnel pour bien démarrer l'un de nos cours. Le laboratoire est occupé par d'autres classes, on trouve une place mais cela ne fonctionne pas correctement. Et les assistants censés nous aider ne sont pas là.",
+					"Au bout d'un moment, c'est l'heure du premier amphi. Le prof nous explique le fonctionnement du cours et notamment des horaires de labo ; tout s'écroule à nouveau. Les horaires sont différents de ceux annoncés et que j'avais utilisés pour faire mon emploi du temps et pourront changer d'une semaine sur l'autre.",
+					"Le cours démarre plus ou moins, je ne sais pas trop, je m'endors. L'amphi est incroyablement silencieux. Je réalise que la plupart des cours qui sont disponibles risquent d'être soit ennuyeux car j'en ai déjà fait une partie, soit difficiles parce que je n'ai pas toutes les bases recommandées pour les suivre. Que faire alors ? Choisir des cours simples quitte à s'ennuyer mais avoir plus de temps pour visiter la Norvège ? Préférer des cours intéressants même s'ils nécessitent de l'investissement, et mettre en danger le nombre de crédits validés ? Prendre quatre cours pour ne pas se surcharger ou cinq pour s'assurer ? Privilégier le travail en labo ? Le travail perso ? Les amphis ont l'air aussi pénibles ici que chez nous...",
+					"",
+					"Après avoir cru être rassurée, c'est encore plus confuse que je rentre chez moi. Je passe beaucoup trop de temps dans le Rema ; c'est difficile de se repérer dans un magasin dont on ne connaît pas les produits !",
+					"Après le repas je décide d'aller décompresser en marchant un peu. Je pars en direction de la tour de diffusion de Tyholt, la carte de Trondheim dans la poche au cas où. La tour est en hauteur ; la vue doit être sympa de là-haut. Et effectivement, le coucher du soleil est magnifique. Je m'arrête dans un jardin près de la tour un moment. Il n'y a presque personne. Seulement le bruit du vent. Le silence doit être incroyable quand il neige.",
+					"Je continue ma route et aperçoit la forteresse en contre-bas. Je décide de marcher dans sa direction, sans trop savoir si j'arriverai à l'atteindre. Il y a des maisons avec du crépit et même une en brique par ici ; toutes celles que j'avais vues jusque-là étaient couvertes de lambris peint. Je reconnais le parc de la forteresse, puis elle s'impose devant moi. Deux hommes de la sécurité attende neuf heures dans leur voiture pour aller descendre le drapeau. La vue est superbe. J'en profite plus que lundi dernier ; il avait plu.",
+					"Après un moment je décide de rentrer. Il y a du monde au chapiteau, mais je n'irai pas ce soir, mon lit suffira."
+				],
+				images: [
+					{
+						image: "img/012/day012_01.jpg",
+						legend: "Expérience culinaire n°12 : Salade grecque sans feta (ni gluten, mais ce n'est pas le sujet) et son croustillant de knekkebrød. Fausse Bonne Idée. Le knekkebrød perd tout son croustillant au contact de l'eau contenue dans les légumes. Ne faites pas ça chez vous.",
+					},
+					{
+						image: "img/012/day012_02.jpg",
+						legend: "Expérience culinaire n°13 : Ah, une nouvelle exportation potentielle ! Cette pâtisserie à la canelle et au chocolat est top, donc osons l'appeler par son petit nom : on t'aime Kanelsnurr.",
+					},
+					{
+						image: "img/012/day012_03.jpg",
+						legend: "Tyholt Broadcast Tower ! Et son restaurant tournant.",
+					},
+					{
+						image: "img/012/day012_04.jpg",
+						legend: "Une église rencontrée sur le chemin. Il y en a beaucoup.",
+					},
+					{
+						image: "img/012/day012_05.jpg",
+						legend: "Les bancs sont toujours entourés de fleurs. Et parfois, les dames qui promènent leurs chiens y sont assorties.",
+					},
+					{
+						image: "img/012/day012_06.jpg",
+						legend: "Un autre banc. Au retour un couple fera un selfie dessus. J'ai remarqué qu'il y avait aussi des bancs fleuris dans les jardins des maisons.",
+					},
+					{
+						image: "img/012/day012_07.jpg",
+						legend: "Le soleil se couche dans le parc de la forteresse. Et ailleurs aussi, probablement.",
+					},
+					{
+						image: "img/012/day012_08.jpg",
+						legend: "L'homme au canon.",
+					},
+					{
+						image: "img/012/day012_09.jpg",
+						legend: "La forteresse, enfin !",
+					},
+					{
+						image: "img/012/day012_10.jpg",
+						legend: "Au cas où vous doutiez que l'utilisation du verbe 'surplomber' était appropriée.",
+					},
+					{
+						image: "img/012/day012_11.jpg",
+						legend: "Forter...cette légende est-elle vraiment nécessaire ?",
+					},
+					{
+						image: "img/012/day012_12.jpg",
+						legend: "Gløshaugen aussi domine la ville avec son bâtiment Harry Potteresque.",
+					},
+					{
+						image: "img/012/day012_13.jpg",
+						legend: "La tour de Tyholt, de plus loin. Dire que j'étais là-haut il y a une demi-heure ! ...et qu'il va falloir remonter !",
+					},
+					{
+						image: "img/012/day012_14.jpg",
+						legend: "Un zoom sur les couleurs des maisons, pour le fun.",
+					},
+					{
+						image: "img/012/day012_15.jpg",
+						legend: "Après ces quelques vues, on démarre une série ca-non !",
+					},
+					{
+						image: "img/012/day012_16.jpg",
+						legend: "Souquez les artimuses, on attaque la tour ! Enfin, un truc comme ça.",
+					},
+					{
+						image: "img/012/day012_17.jpg",
+						legend: "En cas de rébellion du peuple, on peut attaquer la ville aussi.",
+					},
+					{
+						image: "img/012/day012_18.jpg",
+						legend: "Les nuages attaquent forteresse par en haut, mais les canons sont trop occupés à regarder au loin...",
+					},
+					{
+						image: "img/012/day012_19.jpg",
+						legend: "Il faut absolument que j'aille sur cette île au milieu du fjord. Mais j'irai en bateau plutôt, le canon n'est pas top niveau fiabilité.",
+					},
+					{
+						image: "img/012/day012_20.jpg",
+						legend: "Encore quelques-uns au cas où.",
+					},
+					{
+						image: "img/012/day012_21.jpg",
+						legend: "Sur le retour, je croise quelques maisons sympas.",
+					},
+					{
+						image: "img/012/day012_22.jpg",
+						legend: "Dont la seule maison en brique que j'ai vue jusqu'ici !",
+					},
+					{
+						image: "img/012/day012_23.jpg",
+						legend: "Vélo : Vite En bas, plus Lent vers le O.",
+					},
+					{
+						image: "img/012/day012_24.jpg",
+						legend: "Cherche botaniste pour identification. On dirait des petites tomates !",
+					},
+					{
+						image: "img/012/day012_25.jpg",
+						legend: "Entre temps, la tour de Tyholt s'est allumée.",
 					}
 				]
 			}
