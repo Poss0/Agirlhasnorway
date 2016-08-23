@@ -724,6 +724,10 @@
 					{
 						image: "img/012/day012_25.jpg",
 						legend: "Entre temps, la tour de Tyholt s'est allumée.",
+					},
+					{
+						image: "img/012/day012_26.jpg",
+						legend: "Have a good night.",
 					}
 				]
 			},
