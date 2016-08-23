@@ -726,6 +726,36 @@
 						legend: "Entre temps, la tour de Tyholt s'est allumée.",
 					}
 				]
+			},
+			{
+				id: "13",
+				title: "Day off",
+				date: "23 août",
+				html: [
+					"Finalement je n'ai rien aujourd'hui puisque les heures de labo et les exercices ne commencent pas cette semaine. Je teste la laverie pour la première fois. Je me repose. Pendant ce temps, la météo joue au yoyo."
+				],
+				images: [
+					{
+						image: "img/013/day013_01.jpg",
+						legend: "Expérience culinaire n°14 : Ici le sucre semoule s'appelle du sucre farin. Confusing."
+					},
+					{
+						image: "img/013/day013_02.jpg",
+						legend: "Expérience culinaire n°15 : J'ai enfin acheté du lait ! On n'en trouve que du frais et une bouteille coûte presque 2€. Mais bon, il y a quelqu'un sur la bouteille en bonus."
+					},
+					{
+						image: "img/013/day013_03.jpg",
+						legend: "Expérience culinaire n°16 : Il y a beaucoup de pains différents ; difficile de savoir quoi prendre. La 'baguette française' est hors de prix et n'a probablement rien à voir avec une baguette. Cet energibrød aux céréales me paraît adapté pour le matin.",
+					},
+					{
+						image: "img/013/day013_04.jpg",
+						legend: "La découverte du jour : il y a des épices en provenance de France dans les placards !"
+					},
+					{
+						image: "img/013/day013_05.jpg",
+						legend: "Expérience culinaire n°17 : Mettez un peu d'huile de colza-olive (oui oui) dans la poêle. Faites revenir les oignons rouges émincés et les pommes de terre coupées en cubes. Ajoutez-y un peu de Colombo (même si vous apprendrez plus tard en en cherchant la composition qu'il est plutôt destiné aux viandes). Remuez régulièrement, puis ajoutez de la margarine froide dans la poêle pour faire croustiller les pommes de terre. Ajoutez aussi un peu de lait pour l'aspect crémeux (puisque vous n'avez pas de crème). Une fois les pommes de terre cuites, ajoutez du sel et du Colombo pour relever le goût, l'assaisonnement précédent ayant été éteint par la cuisson. Enfin, servez avec une cuillère de margarine (car vous n'avez toujours pas de crème). Vous pouvez aussi tenter de mettre l'ensemble dans une omelette pour faire une tortilla (mais vous ne réussirez paut-être pas à ce que ça y ressemble)."
+					}
+				]
 			}
 		];
 
