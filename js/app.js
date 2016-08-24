@@ -749,7 +749,7 @@
 					},
 					{
 						image: "img/013/day013_03.jpg",
-						legend: "Expérience culinaire n°16 : Il y a beaucoup de pains différents ; difficile de savoir quoi prendre. La 'baguette française' est hors de prix et n'a probablement rien à voir avec une baguette. Cet energibrød aux céréales me paraît adapté pour le matin.",
+						legend: "Expérience culinaire n°16 : Il y a beaucoup de pains différents ; difficile de savoir quoi prendre. La 'baguette française' est hors de prix et n'a probablement rien à voir avec une baguette. Cet energibrød aux céréales me paraît adapté pour le matin. Et les machines de tranchage sont en libre-service dans le magasin.",
 					},
 					{
 						image: "img/013/day013_04.jpg",
