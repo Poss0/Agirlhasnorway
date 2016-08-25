@@ -733,10 +733,12 @@
 			},
 			{
 				id: "13",
-				title: "Day off",
-				date: "23 août",
+				title: "Days off",
+				date: "23 et 24 août",
 				html: [
-					"Finalement je n'ai rien aujourd'hui puisque les heures de labo et les exercices ne commencent pas cette semaine. Je teste la laverie pour la première fois. Je me repose. Pendant ce temps, la météo joue au yoyo."
+					"Finalement je n'ai rien mardi puisque les heures de labo et les exercices ne commencent pas cette semaine. Je teste la laverie pour la première fois. Je me repose. Pendant ce temps, la météo joue au yoyo.",
+					"",
+					"Mercredi non plus, pas grand chose. J'apprends que des aurores boréales étaient visibles la veille ; je les ai loupées ! Un cours censé se finir à dix-sept heures se finit à quinze heures trente, et il y a une pause au milieu, comme toujours ici. On se renseigne pour l'inscription aux sports ; cela ne peut se faire qu'en ligne ou en liquide car ils n'acceptent que les VISA norvégiennes une nouvelle fois. Bizarre. La soirée se finira au chapiteau, en discutant des différentes sorties à venir, à plus ou moins long terme."
 				],
 				images: [
 					{
@@ -758,6 +760,10 @@
 					{
 						image: "img/013/day013_05.jpg",
 						legend: "Expérience culinaire n°17 : Mettez un peu d'huile de colza-olive (oui oui) dans la poêle. Faites revenir les oignons rouges émincés et les pommes de terre coupées en cubes. Ajoutez-y un peu de Colombo (même si vous apprendrez plus tard en en cherchant la composition qu'il est plutôt destiné aux viandes). Remuez régulièrement, puis ajoutez de la margarine froide dans la poêle pour faire croustiller les pommes de terre. Ajoutez aussi un peu de lait pour l'aspect crémeux (puisque vous n'avez pas de crème). Une fois les pommes de terre cuites, ajoutez du sel et du Colombo pour relever le goût, l'assaisonnement précédent ayant été éteint par la cuisson. Enfin, servez avec une cuillère de margarine (car vous n'avez toujours pas de crème). Vous pouvez aussi tenter de mettre l'ensemble dans une omelette pour faire une tortilla (mais vous ne réussirez paut-être pas à ce que ça y ressemble)."
+					},
+					{
+						image: "img/013/day013_06.jpg",
+						legend: "Expérience culinaire n°18 : Pourquoi cette manie de mettre des gens sur les emballages ? J'ai acheté cette boîte de thon 'au naturel' (naturlig) à côté des boîtes de maquereaux et de sardines. Et en fait c'était du pâté de foie. Je comprends mieux le sens de 'leverpostei' maintenant."
 					}
 				]
 			}
