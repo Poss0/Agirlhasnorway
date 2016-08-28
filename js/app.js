@@ -813,7 +813,11 @@
 					"Samedi, encore un 'lazy day' pour tout le monde. A cause de la soirée peut-être, à cause de la pluie surtout. Ca ne donne pas du tout envie de sortir. Mais il faudra le faire sinon on ne sortra jamais ! En fin d'après-midi je décide d'aller à des initiations de danse au gymnase du campus. J'ai payé l'accès au gymnase pour le semestre en ligne, il me suffit de me rendre au comptoir pour faire mettre à jour ma carte étudiante et je n'aurai plus qu'à biper en entrant les fois suivantes. Pratique.",
 					"Je suis ravie d'avoir pensé à prendre un cadenas, je peux laisser mes affaires au vestiaire. Le hip-hop est enseigné par deux étudiantes hyper énergiques et super marrantes. C'est sportif et vraiment difficile, mais c'est fun ; j'essaierai de continuer. Le cours de salsa est un peu plus scolaire et surtout du niveau débutant, donc un peu ennuyeux. Mais c'est un super moyen de rencontrer des gens, et des norvégiens !",
 					"",
-					"Réveil bizarrement facile ce dimanche. Je vais le payer plus tard. On perd vite son rythme alimentaire au contact de polonais et d'allemands, c'est un peu le bazar. Mais ce n'est pas très grave. Ca apprend à être flexible."
+					"Réveil bizarrement facile ce dimanche. Je vais le payer plus tard. On perd vite son rythme alimentaire au contact de polonais et d'allemands, c'est un peu le bazar. Mais ce n'est pas très grave. Ca apprend à être flexible.",
+					"Vers quinze heures trente on décide de partir. Le bus est bondé, on peut à peine respirer. Quand on arrive sur le campus, le temps jusque-là au beau fixe change et il se met à pleuvoir. Il y a du maquillage pour se mettre aux couleurs de Rosenborg, le club local que nous devons supporter. On nous apprend rapidement deux chants pour que nous puissions participer à l'ambiance du stade, et nous partons.",
+					"On est tous assez contents du fait que ce soit le dernier rassemblement en nombre ; c'est très pénible de toujours attendre et piétiner d'un endroit à un autre. Et puis il pleut fort maintenant, je suis trempée. On arrive sur place une heure avant le début du match. Sur un terrain synthétique à côté du stade, on nous raconte l'histoire du club. Puis il nous faut nous ranger deux par deux pour défiler dans le stade, autour du terrain. Nous parcourons la moitié puis ressortons de l'autre côté pour nous rendre dans les gradins.",
+					"Personne ne respecte la place qui lui a été attribuée, on se met par groupes et c'est très bien comme ça. En face de nous se trouve la tribune des supporters de Rosenborg. Après des lancers de fumigènes et de confettis, ils vont passer le match à chanter au son d'un tambour et à sauter. Nous essayons de temps en temps de leur répondre.",
+					"Le match n'est pas très intéressant mais c'est sympa d'entendre les supporters chanter et les commentaires en norvégien. Finalement Rosenborg gagne et nous rentrons finir la soirée tranquillement. Ou presque : j'ai un devoir à rendre avant minuit !"
 				],
 				images: [
 					{
@@ -835,6 +839,34 @@
 					{
 						image: "img/015/day015_05.jpg",
 						legend: "Il fait super beau ! Voilà qui est de bonne augure pour le match de ce soir. Enfin, ne vendons pas la peau de l'ours avant de l'avoir tué, le temps peut changer du tout au tout en quelques heures ici."
+					},
+					{
+						image: "img/015/day015_06.jpg",
+						legend: "Et voilà, maintenant il pleut ! Peinturlurés et en rang deux par deux, on s'apprête à entrer dans le stade."
+					},
+					{
+						image: "img/015/day015_07.jpg",
+						legend: "Je profite de la parade pour prendre quelques photos."
+					},
+					{
+						image: "img/015/day015_08.jpg",
+						legend: "A contre-jour une nouvelle fois dans cette ville."
+					},
+					{
+						image: "img/015/day015_09.jpg",
+						legend: "Bataille de logos : Scandic, Thales et Rosenborg BK."
+					},
+					{
+						image: "img/015/day015_10.jpg",
+						legend: "Les supporters en face sont déchaînés dès le début du match."
+					},
+					{
+						image: "img/015/day015_11.jpg",
+						legend: "Ici ce ne sont que des filles qui renvoient et ramassent les ballons. Elles sont super jeunes !"
+					},
+					{
+						image: "img/015/day015_12.jpg",
+						legend: "Ah, il y a eu un match de foot au fait. Score final 3 - 1."
 					}
 				]
 			}
