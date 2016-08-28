@@ -770,7 +770,7 @@
 			{
 				id: "14",
 				title: "Let's party!",
-				date: "24 et 25 août",
+				date: "25 et 26 août",
 				html: [
 					"Jeudi, quatre heures de cours consécutives de dix heures à quatorze heures. C'est plus intéressant que les cours précédents. Heureusement ici c'est quarante-cinq minutes de cours pour quinze minutes de pause, donc ça passe relativement vite ; c'est même certainement plus productif puisqu'on est plus concentré. Cependant la pause repas n'est pas prévue car les norvégiens mangent beaucoup le matin et peu le midi ; beaucoup mangent simplement un sandwich en classe. Moi en revanche en sortant j'ai extrêmement faim ; c'est l'occasion de tester les boutiques sur le campus. C'est environ deux fois plus cher qu'en France pour des repas étudiants. On dirait une boutique de station service. Mais c'est meilleur que le restaurant universitaire français, et de toute façon tout est cher, alors ça ou se faire son repas, c'est quasiment pareil.",
 					"De retour à l'appartement je me pose un peu. Un barbecue est organisé au chapiteau pour commencer la soirée ; le jeudi les entrées des boîtes de nuit sont gratuites. J'improvise des brochettes avec des poivrons et du poulet - oui oui finalement il y en a, c'est juste qu'il n'est pas présenté sous la même forme qu'en France, ça fait bizarre ! Il y a beaucoup de monde, on attend un moment avant d'arriver à faire cuire notre viande. Puis on mange. Et on boit un peu, l'alcool sera cher en boîte ; j'ai ajouté de l'eau dans mon mélange vodka-concentré de jus d'orange. Certains jouent encore au beach volley (croyez-le où non, il y a un terrain en plein milieu de Moholt), quand le ballon arrive dans notre direction Johannes crie 'Achtung !' ; certains mots viennent par réflex dans notre langue maternelle. D'autres jouent au flunkyball ; c'est plus célèbre en Allemagne qu'en France apparemment.",
@@ -802,6 +802,31 @@
 					{
 						image: "img/014/day014_05.jpg",
 						legend: "Photo de famille devant Madagascar 2 !"
+					}
+				]
+			},
+			{
+				id: "15",
+				title: "Deuxième week-end",
+				date: "27 et 28 août",
+				html: [
+					"Samedi, encore un 'lazy day' pour tout le monde. A cause de la soirée peut-être, à cause de la pluie surtout. Ca ne donne pas du tout envie de sortir. Mais il faudra le faire sinon on ne sortra jamais ! En fin d'après-midi je décide d'aller à des initiations de danse au gymnase du campus. J'ai payé l'accès au gymnase pour le semestre en ligne, il me suffit de me rendre au comptoir pour faire mettre à jour ma carte étudiante et je n'aurai plus qu'à biper en entrant les fois suivantes. Pratique.",
+					"Je suis ravie d'avoir pensé à prendre un cadenas, je peux laisser mes affaires au vestiaire. Le hip-hop est enseigné par deux étudiantes hyper énergiques et super marrantes. C'est sportif et vraiment difficile, mais c'est fun ; j'essaierai de continuer. Le cours de salsa est un peu plus scolaire et surtout du niveau débutant, donc un peu ennuyeux. Mais c'est un super moyen de rencontrer des gens, et des norvégiens !",
+					"",
+					"Réveil bizarrement facile ce dimanche. Je vais le payer plus tard."
+				],
+				images: [
+					{
+						image: "img/015/day015_01.jpg",
+						legend: "Le paradoxe de cet endroit : la toute petite gare, l'énorme tour. Cette dernière a certainement été construite pour des questions d'argent : il faut pouvoir accueillir les joueurs et supporters des match de foot se déroulant au stade Lerkendal. C'est dans cet hôtel qu'a eu lieu la toute première partie de la semaine d'orientation. Il ne se fond pas du tout dans le paysage ; c'est vraiment dommage."
+					},
+					{
+						image: "img/015/day015_02.jpg",
+						legend: "Expérience culinaire n°20 : Je vais bientôt avoir fait le tour de ces choses ! C'est meilleur que les fois précédentes, même si c'est à peu de choses près identique."
+					},
+					{
+						image: "img/015/day015_03.jpg",
+						legend: "Expérience culinaire n°21 : Je m'attendais à des gâteaux d'une certaine épaisseur, mais en fait ce sont de crackers. Ah oui, 'knäckebröd'. Faudrait vraiment que je lise les étiquettes. Le goût de canelle est très léger."
 					}
 				]
 			}
