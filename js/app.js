@@ -813,7 +813,7 @@
 					"Samedi, encore un 'lazy day' pour tout le monde. A cause de la soirée peut-être, à cause de la pluie surtout. Ca ne donne pas du tout envie de sortir. Mais il faudra le faire sinon on ne sortra jamais ! En fin d'après-midi je décide d'aller à des initiations de danse au gymnase du campus. J'ai payé l'accès au gymnase pour le semestre en ligne, il me suffit de me rendre au comptoir pour faire mettre à jour ma carte étudiante et je n'aurai plus qu'à biper en entrant les fois suivantes. Pratique.",
 					"Je suis ravie d'avoir pensé à prendre un cadenas, je peux laisser mes affaires au vestiaire. Le hip-hop est enseigné par deux étudiantes hyper énergiques et super marrantes. C'est sportif et vraiment difficile, mais c'est fun ; j'essaierai de continuer. Le cours de salsa est un peu plus scolaire et surtout du niveau débutant, donc un peu ennuyeux. Mais c'est un super moyen de rencontrer des gens, et des norvégiens !",
 					"",
-					"Réveil bizarrement facile ce dimanche. Je vais le payer plus tard."
+					"Réveil bizarrement facile ce dimanche. Je vais le payer plus tard. On perd vite son rythme alimentaire au contact de polonais et d'allemands, c'est un peu le bazar. Mais ce n'est pas très grave. Ca apprend à être flexible."
 				],
 				images: [
 					{
@@ -827,6 +827,14 @@
 					{
 						image: "img/015/day015_03.jpg",
 						legend: "Expérience culinaire n°21 : Je m'attendais à des gâteaux d'une certaine épaisseur, mais en fait ce sont de crackers. Ah oui, 'knäckebröd'. Faudrait vraiment que je lise les étiquettes. Le goût de canelle est très léger."
+					},
+					{
+						image: "img/015/day015_04.jpg",
+						legend: "Expérience culinaire n°22 : Un wrap local ! Enfin, le contenu pas tellement, mais la galette de pomme de terre oui. C'est sympa, ça change de l'habituel wrap au maïs et c'est très bon ; je garde l'idée."
+					},
+					{
+						image: "img/015/day015_05.jpg",
+						legend: "Il fait super beau ! Voilà qui est de bonne augure pour le match de ce soir. Enfin, ne vendons pas la peau de l'ours avant de l'avoir tué, le temps peut changer du tout au tout en quelques heures ici."
 					}
 				]
 			}
