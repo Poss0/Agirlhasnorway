@@ -766,6 +766,44 @@
 						legend: "Expérience culinaire n°18 : Pourquoi cette manie de mettre des gens sur les emballages ? J'ai acheté cette boîte de thon 'au naturel' (naturlig) à côté des boîtes de maquereaux et de sardines. Et en fait c'était du pâté de foie. Je comprends mieux le sens de 'leverpostei' maintenant."
 					}
 				]
+			},
+			{
+				id: "14",
+				title: "Let's party!",
+				date: "24 et 25 août",
+				html: [
+					"Jeudi, quatre heures de cours consécutives de dix heures à quatorze heures. C'est plus intéressant que les cours précédents. Heureusement ici c'est quarante-cinq minutes de cours pour quinze minutes de pause, donc ça passe relativement vite ; c'est même certainement plus productif puisqu'on est plus concentré. Cependant la pause repas n'est pas prévue car les norvégiens mangent beaucoup le matin et peu le midi ; beaucoup mangent simplement un sandwich en classe. Moi en revanche en sortant j'ai extrêmement faim ; c'est l'occasion de tester les boutiques sur le campus. C'est environ deux fois plus cher qu'en France pour des repas étudiants. On dirait une boutique de station service. Mais c'est meilleur que le restaurant universitaire français, et de toute façon tout est cher, alors ça ou se faire son repas, c'est quasiment pareil.",
+					"De retour à l'appartement je me pose un peu. Un barbecue est organisé au chapiteau pour commencer la soirée ; le jeudi les entrées des boîtes de nuit sont gratuites. J'improvise des brochettes avec des poivrons et du poulet - oui oui finalement il y en a, c'est juste qu'il n'est pas présenté sous la même forme qu'en France, ça fait bizarre ! Il y a beaucoup de monde, on attend un moment avant d'arriver à faire cuire notre viande. Puis on mange. Et on boit un peu, l'alcool sera cher en boîte ; j'ai ajouté de l'eau dans mon mélange vodka-concentré de jus d'orange. Certains jouent encore au beach volley (croyez-le où non, il y a un terrain en plein milieu de Moholt), quand le ballon arrive dans notre direction Johannes crie 'Achtung !' ; certains mots viennent par réflex dans notre langue maternelle. D'autres jouent au flunkyball ; c'est plus célèbre en Allemagne qu'en France apparemment.",
+					"C'est l'heure de partir si on veut avoir le temps de profiter de la soirée. Et aussi si on veut monter dans le prochain bus, car il y a vraiment beaucoup de monde qui se dirige en ville. On y arrive, j'aide Johannes à liker sur Tinder pendant le trajet, c'est super marrant. Je ne me rappelle même pas l'arrêt auquel on est descendu ; il suffisait de suivre tout le monde. On entre au 'Downtown', je crois que le videur me dit quelque chose en français en me rendant ma carte d'identité et me tamponnant le bras. Forcément à force de voir passer des étudiants de toutes les nationalités il a dû apprendre quelques mots en plein de langues ! J'arrive à esquiver le vestiaire en accrochant mon pull façon Enséarques ; les autres sont obligés de payer pour y mettre leurs vestes.",
+					"La boîte est sympa. Sur deux étages, mais pas trop grande, ce qui permet de retrouver les gens quand on les perd. Ce qui arrive très souvent car elle est bondée, à certains endroits on ne peut même pas circuler. Je navigue entre les étages qui proposent deux ambiances musicales différentes et entre les groupes de personnes que je connais ; il y en a pas mal finalement !",
+					"Vers deux heures, la musique s'arrête, les lumières s'éteignent, et on nous invite à sortir. Je retrouve ceux avec qui j'étais partis pour rentrer avec eux. On a perdu mes deux colocs. On décide d'avancer quand même, puis Pascal finit par nous rejoindre, je ne sais comment. On rencontre un norvégien sur la route et on discute. J'ai envie de trouver un bus pour ne pas rentrer à pied et Michele voudrait un bateau, lui. Drunk story. Après une éternité (on marche vraiment lentement), on traverse le grand pont qui nous rapproche du campus. C'est beau aussi Trondheim la nuit. On n'avait pas encore trop eu l'occasion de le voir ; j'imagine qu'en hiver on ne se posera plus la question.",
+					"On arrive enfin devant Studentersamfundet, où il y avait sans doute une soirée aussi. Devant, il y a un taxi. Sans trop réfléchir on monte dedans, c'est certainement plus avantageux. Et effectivement, non seulement c'est le moyen le plus rapide de rentrer puisqu'il ne fait pas d'arrêts et qu'il nous dépose au plus près de chez nous, mais en plus c'est le moins cher : un ticket de bus nocturne coûte 100 couronnes (et n'est pas inclus dans notre abonnement), le trajet en taxi nous en coûte 160 à diviser par quatre, soit 40 couronnes chacun, ce qui est même moins cher qu'un ticket de bus de jour à l'unité ! Ravis de cette opération, et enfin rentrés, nous partons nous coucher. J'essaye d'ouvrir la porte de la chambre de Johannes pour voir s'il est là mais c'est fermé ; j'espère qu'il n'a pas eu de problème. Je mais mon réveil pour aller en cours le lendemain ; il m'annonce gentiment que je n'ai plus que quatres heures pour dormir. Merci, bonne nuit à toi aussi.",
+					"",
+					"Réveil pas si difficile que prévu vendredi. Je me prépare et suis parfaitement à l'heure en cours, et ne m'y endors même pas (le traitement fonctionne, youhou !). Le prof est plutôt cool, on n'est moins nombreux dans la classe que pour les autres cours ; c'est bien. En revanche le contenu couvre des choses qu'on sait déjà ; j'espère que cela sera plus intéressants par la suite. Une fois n'est pas coutume, je remonte à pied avec Antoine. Lui aussi est perdu quant au choix des cours. Il se met à pleuvoir mais ce n'est pas si dérangeant ; il va falloir s'habituer de toute façon.",
+					"Repas de midi. Je vois Pascal aller de sa chambre à la salle de bain, puis repasser dans l'autre sens. Je reste dans le salon parce que la pluie tape sur la vitre de ma chambre et c'est un peu déprimant. Quelques heures plus tard c'est Johannes qui sort de sa chambre. On discute un peu, oui oui je suis allée en cours ce matin, oui j'ai vu Pascal mais il est probablement reparti se coucher, ah et on est rentré en taxi. Je lui demande comment lui est rentré, mais c'est une 'long story' qu'il ne me racontera pas. Il me précise de ne jamais s'inquiéter pour lui. 'Lazy day' prescrit pour tout le monde. Dans la soirée je décide de regarder Madagascar, rien de tel qu'un dessin animé pour se reposer. En français, parce que je connais les répliques par coeur."
+				],
+				images: [
+					{
+						image: "img/014/day014_01.jpg",
+						legend: "Expérience culinaire n°19 : Après l'effort, le réconfort. J'ai acheté cette pâtisserie après les cours jeudi, j'en vois partout donc ça doit être typique. C'est un beignet avec un creux au milieu contenant de la crème pâtissière, et entouré de noix de coco. Pas mal."
+					},
+					{
+						image: "img/014/day014_02.jpg",
+						legend: "Trondheim by night en sortie de boîte. La forteresse, la tour de Tyholt, le reflet de la ville dans l'eau, la Lune. Si je n'avais pas été dans un état post-soirée, j'aurais peut-être pensé à mieux cadrer pour avoir aussi le reflet de la Lune."
+					},
+					{
+						image: "img/014/day014_03.jpg",
+						legend: "On n'est pas fait pour être là. C'est contre-nature. Nous nageons tous en pleine conspiration frappadingue. Nous partons donc vers les glaciers de l'Antarctique ! Vers la vie sauvage ! - La vie sauvage ?! On peut vraiment y aller pour de vrai ! Qu'est-ce que c'est bien.",
+					},
+					{
+						image: "img/014/day014_04.jpg",
+						legend: "Bien installés..."
+					},
+					{
+						image: "img/014/day014_05.jpg",
+						legend: "Photo de famille devant Madagascar 2 !"
+					}
+				]
 			}
 		];
 
