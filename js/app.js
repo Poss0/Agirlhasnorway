@@ -869,6 +869,38 @@
 						legend: "Ah, il y a eu un match de foot au fait. Score final 3 - 1."
 					}
 				]
+			},
+			{
+				id: "16",
+				title: "Où les choses sérieuses commencent",
+				date: "29 août",
+				html: [
+					"Réveil à sept heures...arg, ça existe encore ça ?! Moi qui croyait que le rythme de vie était plus tranquille ici... Je ne peux même pas monter dans le premier bus tellement il y a de monde, il faudra que j'envisage de partir plus tôt quitte à attendre le début des cours, ce qui signifierait se lever plus tôt...bon j'envisagerai plutôt de partir en retard la prochaine fois. Heureusement un deuxième bus arrive deux minutes après au lieu de dix ; le premier était donc en retard ce qui explique peut-être l'affluence.",
+					"Aujourd'hui a lieu notre premier TP. C'est l'occasion de comparer le fonctionnement de ceux-ci en France et en Norvège.",
+					"En France, les élèves doivent arriver plus ou moins à l'heure. Ils trouvent alors la salle ouverte et s'installent. Le prof arrive généralement un peu après et explique le fonctionnement du TP du jour. Même si dans la plupart des cas le sujet est disponible en ligne, cela permet d'avoir quelques précisions. Les sujets sont généralement très guidés.",
+					"En Norvège, les élèves arrivent quand bon leur semble. Cependant les étudiants assistants sont là avant l'heure et n'ouvrent la salle qu'à l'heure pile pour leur permettre de s'installer. Aucune explication n'est fournie, chacun doit se débrouiller avec le sujet fourni en ligne, qui n'est pas très guidé, ce qui pour nous s'avère déroutant : 'It's your program right? You do what you want.'",
+					"En France, les élèves sont censés rester dans la salle la majorité du temps. La pause est à la même heure pour tout le monde. Et les TP excèdent rarement quatres heures afin de permettre une pause déjeuner conséquente. Manger en classe est interdit. Le TP, terminé ou non, donne lieu à la rédaction d'un rapport qui doit généralement est rendu à l'issu du temps imparti et dont la note est connue bien plus tard.",
+					"En Norvège, les élèves organisent leur temps de travail comme bon leur semble : ils peuvent faire les pauses qu'ils veulent et partir bien avant la fin si leur travail est terminé. En revanche la notion de pause déjeuner n'existe pas, il est tout à fait possible de ne pas en avoir dans l'emploi du temps, et tout à fait normal de ne manger qu'un sandwich ou une soupe avec du pain, éventuellement en classe. Le TP donne lieu à une validation du travail effectué dès que les élèves ont terminé. Les points sont attribués immédiatemment en pourcentage sur la note finale. Un TP non terminé doit l'être pour validation lors de la séance suivante.",
+					"Ce contexte mis en place, voici ce qui s'est passé. Nous sommes arrivés un peu avant l'heure et avons dû attendre l'ouverture de la porte pour entrer. Le labo étant disponible six heures consécutives, nous pensions que le TP prendrait bien moins de temps. Finalement il s'est avéré tellement difficile que nous sommes restés les six heures sans même faire de pause. Nous avons réussi à faire valider notre travail in extremis parce qu'un des assistants a accepté de rester un peu plus pour nous aider. Nous sommes sortis de la salle à quatorze heures trente et avons donc mangé à la cafétéria vers quinze heures sans que cela pose de problème. La nourriture est vendue au poids, il vaut mieux ne pas avoir les yeux plus gros que le ventre !",
+					"",
+					"Après une telle matinée, l'amphi qui suit s'avère plus qu'ennuyeux. Je rentre épuisée. Je veux faire une quiche aux poireaux mais n'ai ni pâte (pas trouvée dans les magasins) ni moule à tarte, et même plus assez de farine pour faire une quiche sans pâte (il y en avait assez la veille mais la moitié a été utilisée ; je n'ai pas le courage de retourner en chercher). Ce sera donc une quiche sans pâte ni assez de farine dans un moule à gratin.",
+					"Expérience plutôt réussie. Johannes cuisine aussi, oignons-tomates-viande-maïs-haricots rouges-céréale non identifiée-concentré de tomate. Pas mal. Ca fait plaisir de voir que la génération Y fan de fast food et qui ne respecte rien sait cuisiner des plats équilibrés. Et toc !",
+					"Inutile de préciser que l'épuisement ne me permet pas de préparer le TP du lendemain ou d'avancer le devoir pour mercredi. Les aurores boréales censées être assez visible cette nuit ne le sont finalement pas et de toute façon il y a des nuages ; il est donc temps de dormir."
+				],
+				images: [
+					{
+						image: "img/016/day016_01.jpg",
+						legend: "Un des nombreux amphis de l'université. (Bonne nuit Pauline !)",
+					},
+					{
+						image: "img/016/day016_02.jpg",
+						legend: "Expérience culinaire n°23 : Testons l'efficacité d'un four norvégien sur une adaptation d'une recette française.",
+					},
+					{
+						image: "img/016/day016_03.jpg",
+						legend: "Expérience culinaire n°23 (suite) : Le résultat n'est d'évidence pas plus une quiche qu'une tarte (dédicace à ceux qui se reconnaîtront dans ce débat). L'appelation de flan aux poireaux semble appropriée.",
+					},
+				]
 			}
 		];
 
