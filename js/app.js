@@ -885,7 +885,7 @@
 					"",
 					"Après une telle matinée, l'amphi qui suit s'avère plus qu'ennuyeux. Je rentre épuisée. Je veux faire une quiche aux poireaux mais n'ai ni pâte (pas trouvée dans les magasins) ni moule à tarte, et même plus assez de farine pour faire une quiche sans pâte (il y en avait assez la veille mais la moitié a été utilisée ; je n'ai pas le courage de retourner en chercher). Ce sera donc une quiche sans pâte ni assez de farine dans un moule à gratin.",
 					"Expérience plutôt réussie. Johannes cuisine aussi, oignons-tomates-viande-maïs-haricots rouges-céréale non identifiée-concentré de tomate. Pas mal. Ca fait plaisir de voir que la génération Y fan de fast food et qui ne respecte rien sait cuisiner des plats équilibrés. Et toc !",
-					"Inutile de préciser que l'épuisement ne me permet pas de préparer le TP du lendemain ou d'avancer le devoir pour mercredi. Les aurores boréales censées être assez visible cette nuit ne le sont finalement pas et de toute façon il y a des nuages ; il est donc temps de dormir."
+					"Inutile de préciser que l'épuisement ne me permet pas de préparer le TP du lendemain ou d'avancer le devoir pour mercredi. Les aurores boréales censées être assez visibles cette nuit ne le sont finalement pas et de toute façon il y a des nuages ; il est donc temps de dormir."
 				],
 				images: [
 					{
@@ -900,6 +900,52 @@
 						image: "img/016/day016_03.jpg",
 						legend: "Expérience culinaire n°23 (suite) : Le résultat n'est d'évidence pas plus une quiche qu'une tarte (dédicace à ceux qui se reconnaîtront dans ce débat). L'appelation de flan aux poireaux semble appropriée.",
 					},
+				]
+			},
+			{
+				id: "17",
+				title: "Au revoir, mois d'août",
+				date: "30 et 31 août",
+				html: [
+					"Mardi, nouvelle séance au labo. Les assistants sont là à partir de onze heures pour nous aider, j'arrive donc à cette heure-là. Une fois le matériel récupéré, on démarre... C'est super dur. L'alarme incendie retentit deux heures après : c'est drôle, ce n'est pas du tout la même qu'en France (comme toutes les sirènes et alarmes que j'ai pu entendre). Il y a quelques tonalités avant qu'une voix disent, en norvégien puis en anglais : 'This is a fire alarm. Leave the building. Use the emergency exits. Do not use the elevators.'. Plutôt que de perdre du temps à attendre de pouvoir rentrer dans le bâtiment, on décide de profiter de l'occasion pour aller manger. La veille buffet hamburger, cette fois buffet tacos ; sympa.",
+					"On finit l'exercice vers dix-huit heures trente grâce à l'aide d'un assistant. C'est vraiment éprouvant de rester une journée entière assis dans une même pièce, où il fait d'ailleurs bien trop chaud. Une fois rentrée je vais prendre un peu l'air, découvre des endroits au hasard. Michele et Thierry nous rejoignent et nous planifions tous les cinq les sorties à venir. Le week-end dans deux semaines, excursion cabines ! Vous ne savez pas ce que c'est, mais je vous en dirai plus plus tard. Deux semaines après, excursion Lofoten, si on trouve un moyen pas trop cher de s'y rendre, s'y déplacer et y dormir. Et plus tard, excursions Bergen, puis Tromsø. Plein de projets en vue, c'est cool. Les nuages ne nous laisserons pas voir les potentielles aurores boréales ; je vais me coucher.",
+					"",
+					"Mercredi, journée plus tranquille. Je profite de la matinée pour finir et rendre un devoir à faire en ligne. Je reçois un message de Pascal et Michele : ils n'ont pas réussi à avoir l'une des trois cabines où nous souhaitions aller, mais ils ont réservé des places dans une autre. Les trois heures d'amphi sont plutôt ennuyeuses encore une fois. Je rentre poser mes affaires puis repart au gymnase tester le cours de danse contemporaine. On est seulement deux ou trois à ne pas parler le norvégien ; le cours est donc en norvégien. Je ne bénéficie donc pas des explications et des conseils, mais je peux copier les mouvements ; ça reste sympa. Et je saurais vite compter jusqu'à huit en norvégien !",
+					"Sur le retour je passe au Rema. Je suis d'humeur à essayer de nouveaux trucs, et puis, ça fera quelques photos !"
+				],
+				images: [
+					{
+						image: "img/017/day017_01.jpg",
+						legend: "En voilà des composants bien rangés !",
+					},
+					{
+						image: "img/017/day017_02.jpg",
+						legend: "Donc...on est censés assembler tout ça avant la fin du semestre ?!",
+					},
+					{
+						image: "img/017/day017_03.jpg",
+						legend: "Expérience culinaire n°24 : Dansk rugbrød. Si dansk signifie dense, alors il porte bien son nom.",
+					},
+					{
+						image: "img/017/day017_04.jpg",
+						legend: "Expérience culinaire n°25 : Je ne sais pas si ce salami est bon, je n'en mange jamais en France.",
+					},
+					{
+						image: "img/017/day017_05.jpg",
+						legend: "Expérience culinaire n°26 : Rien d'exceptionnel mais un petit goût sympa et des herbes pour le relever.",
+					},
+					{
+						image: "img/017/day017_06.jpg",
+						legend: "Expérience culinaire n°27 : Il paraît qu'ils mangent beaucoup de tartines ici. Margarine salami, pâté de foie et fromage.",
+					},
+					{
+						image: "img/017/day017_07.jpg",
+						legend: "Expérience culinaire n°28 : Je pensais que c'était surtout du chocolat, avec peut-être un feuilleté ou un biscuit à l'intérieur. Que nenni ! C'est une étrange mousse à la noix de coco.",
+					},
+					{
+						image: "img/017/day017_08.jpg",
+						legend: "Shut down.",
+					}
 				]
 			}
 		];
