@@ -899,7 +899,7 @@
 					{
 						image: "img/016/day016_03.jpg",
 						legend: "Expérience culinaire n°23 (suite) : Le résultat n'est d'évidence pas plus une quiche qu'une tarte (dédicace à ceux qui se reconnaîtront dans ce débat). L'appelation de flan aux poireaux semble appropriée.",
-					},
+					}
 				]
 			},
 			{
@@ -945,6 +945,44 @@
 					{
 						image: "img/017/day017_08.jpg",
 						legend: "Shut down.",
+					}
+				]
+			},
+			{
+				id: "18",
+				title: "On a testé pour vous : le rendez-vous chez le médecin",
+				date: "1er et 2 septembre",
+				html: [
+					"Bonne nouvelle ce jeudi matin : ESN (Erasmus Student Network) m'a attribué une buddy norvégienne et elle m'a déjà envoyé un message pour qu'on se rencontre, c'est un super moyen d'en savoir un peu plus sur la Norvège ! Après ça a lieu un journée de cours à peu près normale. Le cours de l'après-midi est dédié aux exercices ; en fait on n'y fait pas d'exercices, on nous donne juste des méthodes pour les faire, mais ceux-ci sont à faire sur notre temps libre. Les séances d'exercices sont plus des foires aux questions. Quand je rentre, le polonais a disparu (sa copine est partie quelques jours plus tôt) et a été remplacée par celle qui lui sous-louait la chambre pour l'été. Elle s'appelle Jordanos.",
+					"Je repars au gymnase essayer le hip-hop. Les deux instructeurs sont super fun et on s'éclate. En rentrant je joue aux cartes avec mes colocs et quelques autres avant de partir en ville. Les garçons se préparent des bouteilles à boire sur la route ; ils utilisent des bouteilles de smoothie vides, qui sont maintenant pleines de 'vodkamine C'. Dans le bus qui descend en ville, c'est le bazar. On arrive à s'asseoir mais un groupe d'allemands (entre autres !) debouts chantent et sautent, à tel point que le bus s'immobilise et éteint les lumières. Le chauffeur veut faire comprendre qu'il ne roulera pas dans ces conditions. Après maintes tentatives pour ramener le calme, le bus redémarre. Nous avions prévu d'essayer une nouvelle boîte mais tout le monde semble aller au Downtown, où nous étions la dernière fois ; nous suivons le mouvement.",
+					"L'entrée se fait plutôt efficacement par rapport à la France, et ce malgré le nombre. Johannes nous paye des bières avant de disparaître, encore plus vite que la semaine précédente. On danse, on croise pas mal de têtes connues, puis on rentre en taxi comme la fois précédente.",
+					"",
+					"Le réveil n'est pas si difficile vendredi. Je vais tranquillement à Gløshaugen pour mon rendez-vous de médecin. Dans le bus entre un groupe d'enfants et leurs deux accompagnatrices. Au moment même où je me dis que je devrais me lever pour les laisser s'asseoir, deux norvégiens le font, et j'en fais autant. J'ai l'impression qu'il y a plus de savoir-vivre ici, mais c'est peut-être aussi parce que je n'observe pas les choses aussi attentivement en France. Dans un moment de lucidité, je prends du liquide au cas où le médecinne prenne pas les cartes bancaires internationales.",
+					"La salle d'attente est incroyablement calme. Le silence n'est rompu que par des petits sons aigüs émis à intervalles réguliers par un enfant, qui par ailleurs se tient très bien. Je me demande s'il peut parler avant d'entendre le son de sa voix ; ce bruit est donc un genre de manie. Sans savoir vraiment pourquoi, je suis angoissée ; je sens ma respiration qui s'accélère. Je me demande simplement si j'ai bien fait de m'asseoir dans cette salle d'attente ; aurait-il fallu que je m'annonce avant ? Rien ne me dit que le fonctionnement est le même ici. J'ai la peur idiote de ne pas reconnaître mon nom quand on m'appelera. J'attends malgré tout. Et, au bout d'un moment, l'un des médecins m'appelle. Je n'aurais pas dû m'en faire pour mon nom, il n'est pas si difficile à reconnaître, même dans la bouche d'un étranger.",
+					"Je me dirige dans la direction d'où venait la voix ; heureusement j'ai repéré une flèche indiquant la direction à prendre pour aller dans le bureau du médecin qui m'a été attribué. Je regarde à droite puis à gauche, et l'aperçoit y entrer. Je le suis ; il m'indique où m'asseoir. C'est étrange, il est assis face à son bureau et au reste de la pièce, mais ma chaise n'est pas de l'autre côté du bureau, elle est à côté. Si bien que même si nous ne sommes pas séparés par un bureau, il fait face à une pièce vide et moi au mur derrière lui. J'explique la situation le plus calmement possible et avec des mots simples pour ne pas me perdre dans mon anglais, puis lui tend la lettre de mon médecin. Il pose quelques questions avant de m'expliquer que le médicament qui me tient éveillée est aussi régulé ici qu'en France et qu'il va falloir que je me rende en psychiatrie pour qu'ils puissent me le prescrire. Il prépare une lettre à leur attention pour qu'ils fixent une date pour un check-up avant que je sois à court de médicaments.",
+					"C'est donc sans rien de concret, hormis une lettre pour l'assurance, que je ressors de la pièce. Je n'ai plus qu'à attendre. Le paiement se fait sur une machine automatique : on rentre sa date de naissance puis on paye par carte norvégienne ou en liquide. J'ai bien fait.",
+					"",
+					"Je fais un tour en ville pour recharger ma carte prépayée. Cette ville est vraiment agréable, il faut que je sorte plus. En rentrant je travaille un peu ; le premier exercice a pour titre quelque chose du genre 'Conception d'un ordinateur', rien que ça !",
+					"",
+					"La probabilité de voir une aurore boréale est élevée cette nuit, et en plus le ciel n'est pas trop nuageux pour une fois. Je décide de veiller un peu au cas où. Je regarde régulièrement par la fenêtre de la cuisine, qui donne au Nord, toutes lumières éteintes. Peu avant minuit, je décide de sortir : quitte à être restée éveillée, autant aller faire un tour. Je rencontre une chaise en essayant de ne pas faire de bruit pour mes colocs ; raté. En sortant de l'immeuble je vois un gars arriver, je lui tiens donc la porte pour qu'il entre. Il me remercie et je continue mon chemin. Je pars vers le Nord ; l'étoile polaire me sert de repère. Soudain j'entends courir derrière moi. Je me retourne : c'est le gars de tout à l'heure. Je me demande ce qu'il fabrique. J'espère que ce n'est pas après moi qu'il court. C'est le scénario qu'on est malheureusement amenée à envisager quand on est une fille seule dans la nuit. Je me dis que je me fais des idées et continue d'avancer. Il crie quelque chose. Mais qu'est-ce qu'il fabrique ? Il crie autre chose, plus distinctement cette fois. 'Excuse me!' Merde. C'est vraiment après moi qu'il en a. Je m'arrête, me retourne. Il s'approche, une main dans la poche. Instant scénario catastrophe dans ma tête encore : que va-t-il en sortir, un couteau ? Va-t-il falloir que je fasse un mouvement de recul ? Il sort sa main, vide, de sa poche. Ouf. 'I saw you somewhere else.' J'attends qu'il continue. 'I saw you somewhere else.' Il va falloir développer un peu là, tu viens de me faire peur en me courant après en pleine nuit, je ne vais pas en plus lancer la conversation si ? Eh bien si. 'Ok. Where?' 'I don't know. Do you have Tinder?' Le gars se rappelle de tous les profils Tinder qu'il voit ? Trop flippant. Il me demande mon nom, si j'habite l'immeuble duquel je suis sortie, ce que je fais là. J'explique pour l'aurore boréale. Il me demande si j'y vais seule (eh gars, on dit 'alone', pas 'single' dans ce cas-là, ça fait bizarre de demander direct à une fille si elle est célibataire...), puis à m'accompagner. J'aurais dû dire non. Mais j'ai dit oui. Parce que c'est plus facile de dire oui. Les gens exigent toujours qu'on justifie le non. Ils veulent le comprendre, ne l'acceptent pas tel quel. Il commence à discuter, qu'est-ce que j'étudie, d'où je viens etc. Je réponds et demande en retour par politesse mais ça commence à être lourd. 'So you don't have friends here?' Ben si (et je t'*******). J'aime juste me promener seule. Je regarde le ciel. Il me montre le faisceau d'un phare de boîte de nuit sur les nuages. Gars...tu sais même pas ce qu'est une aurore boréale ? Je ne peux pas m'éloigner des zones éclairées avec lui, je ne me sens pas en sécurité. Excursion is over. J'annonce que j'abandonne et on rentre. Il habite au 15 et moi au 17, ouf, au moins il ne saura pas à quel étage je vis. La prochaine fois je lancerai un appel sur Facebook pour me faire accompagner.",
+					"Une fois rentrée, j'attends un peu, puis je redescend. Pas question que je renonce. Mais je ne me sens plus en sécurité, le moindre bruit de pas m'angoisse. Pas l'ombre d'une aurore boréale ; je rentre. Je regarde les prévisions et a priori j'étais dehors au meilleur moment ; ce ne sera donc pas pour cette fois. Je vais me coucher. Un peu agacée tout de même. On devrait pouvoir se balader seule, même la nuit, sans que personne ne vienne nous déranger. Enfin, j'en fais peut-être trop, il ne pensait certainement pas à mal, mais quand on a vécu deux ans à Cergy, on est sur la défensive !"
+				],
+				images: [
+					{
+						image: "img/018/day018_01.jpg",
+						legend: "Il faut profiter au maximum de la lumière du jour en cette fin d'été.",
+					},
+					{
+						image: "img/018/day018_02.jpg",
+						legend: "Et maintenant, au boulot !",
+					},
+					{
+						image: "img/018/day018_03.jpg",
+						legend: "Ben ouais, quand on achète un truc en vrac, mieux vaut prendre une photo des conseils de préparation pour les traduire plus tard.",
+					},
+					{
+						image: "img/018/day018_04.jpg",
+						legend: "Expérience culinaire n°29 : Pâtes au saumon, top ! Mais faut pas en abuser, il frit dans sa propre graisse. #saumon #pâtes #crèmefraiche #norvège #vousMeFatiguezTousAvecVosHashtagsInutiles",
 					}
 				]
 			}
