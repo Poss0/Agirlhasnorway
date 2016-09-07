@@ -985,6 +985,73 @@
 						legend: "Expérience culinaire n°29 : Pâtes au saumon, top ! Mais faut pas en abuser, il frit dans sa propre graisse. #saumon #pâtes #crèmefraiche #norvège #vousMeFatiguezTousAvecVosHashtagsInutiles",
 					}
 				]
+			},
+			{
+				id: "19",
+				title: "No equipment no trip (to be or not to be Bob Marley)",
+				date: "3 et 4 septembre",
+				html: [
+					"Trop dur de se réveiller quand on a chassé l'aurore boréale (sans la voir en plus). J'ai rendez-vous à une heure à Baklandet avec ma buddy. C'est un quartier super mignon avec des cafés. J'y suis à l'heure dite. Il y a une course à pied qui passe là, ça me permet de me fondre dans les spectateurs sans donner l'impression d'être en train d'attendre ou de chercher quelqu'un. Elle arrive quelques minutes après puis me propose d'entrer dans un café. On choisit chacune un gâteau à la canelle, mmmh. On discute pendant environ une heure pour apprendre à se connaître, c'est sympa. Comme je le ai dit que j'avais besoin d'équipement de randonnée, elle propose de me guider jusqu'à un magasin de sport en ville.",
+					"Le magasin est petit et ne propose pas beaucoup de choix. Elle me dit que je ferais mieux d'aller au centre commercial à l'extérieur de la ville, puis se renseigne auprès d'un ami pour me dire quel bus prendre, sympa. Je la laisse là et prend le bus. Arrivée sur place, je suis un peu perdue : comment trouver le ou les magasins de sport ? Après un tour global du centre, il s'avère qu'il n'y en a qu'un. Tout y est cher et je ne sais pas vraiment quoi acheter. J'essaye de me faire conseiller par un vendeur mais il n'est pas d'une grande aide. Finalement je finis par abandonner et rentrer.",
+					"En rentrant je fais quelques recherches : en fait le magasin qu'elle m'avait conseillé n'est pas dans le centre commercial mais à côté. Et Johannes me dit que puisque c'est l'été, je n'ai pas besoin de tout acheter maintenant, et me conseille de surveiller le groupe facebook où les étudiants vendent des affaires d'occasion. Les gens comme moi qui stressent pour pas grand chose devrait toujours discuter avec des gens qui ne se prennent pas la tête. Parce que plus tard dans la soirée, je concluerai un accord pour acheter un sac de couchage de bonne qualité pour un prix tout à fait raisonnable.",
+					"Les autres sont dans le salon avant de partir en ville pour la soirée. Tous les jeudis et samedis, ils sont courageux ! Moi je reste regarder 'Mr Nobody' ; très bon film. Et en anglais sous-titré anglais, t'en qu'à faire.",
+					"",
+					"La matinée file jusqu'au moment où je récupère mon sac de couchage. Cool, une bonne chose de faite. En fin d'après-midi, Skype d'anniversaire pour mon petit frère (et vive le stock de bougies !). Le soir, on décide d'aller manger dans le restaurant en haut de la tour de Tyholt. Malheureusement la partie supérieure du restaurant, qui tourne, est pleine. On s'intalle donc en bas, la rotation ça sera pour la prochaine fois. On rentrera après avoir profité de la vue de nuit, le ventre plein de pizza."
+				],
+				images: [
+					{
+						image: "img/019/day019_01.jpg",
+						legend: "Expérience culinaire n°30 : Je n'ai pas pris en photo le Kanelbolle que j'ai mangé au café, mais cette photo trouvée sur internet est assez fidèle.",
+					},
+					{
+						image: "img/019/day019_02.jpg",
+						legend: "Merci les sous-titres. Sans vous j'aurais eu du mal à comprendre le film.",
+					},
+					{
+						image: "img/019/day019_03.jpg",
+						legend: "La lumière du soleil couchant...et les reflets dans la vitre.",
+					},
+					{
+						image: "img/019/day019_04.jpg",
+						legend: "La nuit tombe petit à petit.",
+					},
+					{
+						image: "img/019/day019_05.jpg",
+						legend: "Je profite de la lumière restante pour faire le tour du panorama.",
+					},
+					{
+						image: "img/019/day019_06.jpg",
+						legend: "Prendre des photos de nuit à travers du double vitrage est un challenge.",
+					},
+					{
+						image: "img/019/day019_07.jpg",
+						legend: "Côté terre.",
+					},
+					{
+						image: "img/019/day019_08.jpg",
+						legend: "On n'est pas très haut, mais on dirait quand même une maquette en bas !",
+					},
+					{
+						image: "img/019/day019_09.jpg",
+						legend: "La nuit est franchement tombée maintenant.",
+					},
+					{
+						image: "img/019/day019_10.jpg",
+						legend: "Retour sur le fjord.",
+					},
+					{
+						image: "img/019/day019_11.jpg",
+						legend: "Puis sur une vue similaire à l'une des précédentes.",
+					},
+					{
+						image: "img/019/day019_12.jpg",
+						legend: "La contre-photo.",
+					},
+					{
+						image: "img/019/day019_13.jpg",
+						legend: "It's time for a selfie! Deux allemands, deux français et deux italiens sont en haut d'une tour. Qui tombe à l'eau ?",
+					}
+				]
 			}
 		];
 
