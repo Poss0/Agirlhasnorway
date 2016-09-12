@@ -1052,6 +1052,64 @@
 						legend: "It's time for a selfie! Deux allemands, deux français et deux italiens sont en haut d'une tour. Qui tombe à l'eau ?",
 					}
 				]
+			},
+			{
+				id: "20",
+				title: "",
+				date: "5, 6, 7, 8, 9 septembre",
+				html: [
+					"Heureusement qu'on a bossé ce week-end avec Antoine, ça nous évite de passer six heures sur le TP de lundi. Et ça me laisse du temps pour la laverie, le ménage et 'Nos étoiles contraires'. Rien d'exceptionnellement norvégien.",
+					"",
+					"Encore un terrible mardi de labo. Après une quasi-impossibilité à me lever, on passe deux heures à améliorer les tailles et le code couleur des fils pour que notre travail soit correct. Le soir, on se réunit pour parler un peu de notre randonnée cabine de samedi. Il n'y a qu'un bus aller et un retour à des horaires pas du tout avantageux et ce n'est pas beaucoup plus cher de louer une voiture...le choix est fait !",
+					"",
+					"Mercredi, expédition équipement de randonnée ! Pour de bon cette fois. Antoine et moi trouvons le 'Sport Outlet' et le 'XXL Sport' à Lade. Les prix sont raisonnables compte-tenu de la qualité. Evidemment comme je partais de rien cela représente quand même une certaine somme.",
+					"",
+					"Après les cours et le dîner, je retourne au hip-hop. C'est toujours aussi dur mais c'est vraiment fun. Les instructeurs mettent l'accent sur le fait de s'amuser, de se regarder dans le miroir et de s'aimer, et de ne pas s'inquiéter du regard des autres car chacun est concentré sur soi. C'est vraiment agréable comme approche. Ensuite je me rends à la 'pre-party' organisée par ESN dans une salle de classe. Oui oui. Un water-pong plus tard, je retourne au gymnase pour la salsa cette fois. C'est vraiment top, je m'éclate là aussi. Ces deux cours m'ont convaincue de participer à la soirée du week-end prochain, je m'y inscris en rentrant.",
+					"",
+					"Déjà vendredi ! Moi qui pensait arriver à avancer dans mes 'assignments' cette semaine, c'est raté. John est allé chercher la voiture de location ; il nous envoie une photo. On fait les courses tous ensemble pour prévoir le dîner de samedi soir à la cabine. Puis c'est l'heure de préparer les sandwichs et de remplir nos sacs. Le sac de couchage que j'ai acheté est bien trop gros ; heureusement Maxime peut me prêter le sien et je ferme mon sac à temps avant une bonne nuit de sommeil."
+				],
+				images: [
+					{
+						image: "img/020/day020_01.jpg",
+						legend: "C'est possible de salir autant en si peu de temps ? Je préfère penser que c'était sale avant que j'arrive.",
+					},
+					{
+						image: "img/020/day020_02.jpg",
+						legend: "Vous vous rappelez de la breadbord vide mardi dernier ? Voilà comment elle était à la fin.",
+					},
+					{
+						image: "img/020/day020_03.jpg",
+						legend: "On essaye de faire propre, mais ça se complique quand il s'agit de communiquer avec l'ordinateur.",
+					},
+					{
+						image: "img/020/day020_04.jpg",
+						legend: "Juste pour le fun, parce que la soirée de parrainage aura lieu bientôt à l'ENSEA (sans moi !).",
+					},
+					{
+						image: "img/020/day020_05.jpg",
+						legend: "Expérience culinaire n°31 : Des boulettes de poisson. Simple à préparer et plutôt sympa.",
+					},
+					{
+						image: "img/020/day020_06.jpg",
+						legend: "'Mary and Max' : très joli film sur le syndrome d'Asperger. La façon dont le sujet est traité est touchante. J'ai aussi regardé 'Nos étoiles contraires' cette semaine, et je valide.",
+					},
+					{
+						image: "img/020/day020_07.jpg",
+						legend: "Expérience culinaire n°32 : Digne d'une baguette de supermarché en France. Donc bof, quoi.",
+					},
+					{
+						image: "img/020/day020_08.jpg",
+						legend: "'On utilise de l'eau pour ne pas avoir à changer les verres puisque personne ne boit dedans. Et puis comme ça on ne salit pas le sol, et on ne boit pas ce qui a été en contact avec la balle et donc indirectement le sol.' Aaaah. Que de sens pratique ici.",
+					},
+					{
+						image: "img/020/day020_09.jpg",
+						legend: "Expérience culinaire n°33 : Je ne m'arrêterai pas avant d'avoir fini le rayon, c'est dit. Un mix des deux précédentes, mais pas la meilleure.",
+					},
+					{
+						image: "img/020/day020_10.jpg",
+						legend: "Tout est prêt. Départ à l'aventure imminent.",
+					}
+				]
 			}
 		];
 
