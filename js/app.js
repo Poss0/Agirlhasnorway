@@ -1264,6 +1264,72 @@
 						legend: "Même style que la cabine !",
 					}
 				]
+			},
+			{
+				id: "22",
+				title: "Vers une semaine normale ?",
+				date: "12, 13, 14, 15 septembre",
+				html: [
+					"Le réveil sonne à sept heures. Puis à sept heures dix. Puis encore, et encore. Je tend le bras pour l'arrêter. Il est sept heures quarante-trois.",
+					"Le sujet de ce matin est mal rédigé ; tout le monde comprend des choses différentes et on reste plantés sans savoir quoi faire. Heureusement cela se révèle plus simple que prévu et on termine à midi. Cela me permet de rentrer et de faire les courses, puis de me mettre à travailler. Pour de bon cette fois. J'ai pas mal avancé, je me permets donc d'arrêter après manger pour écrire les derniers événements, enfin !",
+					"Mercredi sera une journée très studieuse ; je travaille du matin au soir pour finir un devoir à rendre le jour-même. Le film de ce soir c'est 'Bird people', et c'est très bizarre !",
+					"Jeudi matin, il faut se lever à six heures pour se rendre au commissariat où à lieu l'enregistrement des élèves internationaux. Plus on arrive tôt, et moins on aura à attendre. On arrive à sept heures et demie, soit une heure avant l'ouverture, et il y a déjà du monde. On repartira avec le papier deux heures après, quand même. On retourne à Lade avec Antoine ; cette fois j'achète un petit duvet, ce sera bien plus pratique. Le cours de l'après-midi ne nous apprendra rien, on sait lire un sujet d'exercice tout seul, merci. Je mange à dix-heures, à la nordique, pour pouvoir partir au hip-hop tranquillement. Je paye mon abonnement de danse pour le semestre et je m'éclate ; ça me fait vraiment du bien.",
+					"Aujourd'hui la famille de Pascal est venue, son frère va rester ici cette nuit. Je décide de sortir avec les autres plutôt que d'aller au cours de salsa. On loupe un bus, on prend le suivant ; les gens sont un peu fous dedans. On entre dans la boîte où la bière est la moins chère, le 'Wildside'. Les autres veulent changer et aller au 'Downtown', ce qu'on fait. Peu après notre arrivée, quelqu'un s'approche pour me parler. Je n'entends absolument rien de ce qu'il dit et essaye de comprendre tout en réalisant que c'est un vigile. Il me fait signe d'aller dans une direction, j'y vais. Il m'emmène dans un cour intérieure ; je commence à me demander quel est ce guet-appant. Il m'explique que j'ai trop bu et qu'il va metrte un trait sur le tampon qu'on m'a mis sur le bras à l'entrée pour signifier que je dois aller 'marcher une demi-heure'. Bien que je sois dans un état tout à fait normal, je ne cherche pas à négocier et sors. Ma façon un peu folle de danser a dû le tromper ! J'envoie un message aux autres pour leur expliquer, et vais prendre des photos du port, puisque je suis dehors. Je reçois un message de Pascal qui lui s'est fait sortir pour avoir essayé de me défendre ; il a une croix et non un trait sur son bras, c'est donc définitif. Les autres nous rejoignent dehors. On essaye de retourner au Wildside, mais la croix vaut pour tous les clubs, Pascal ne peut plus entrer. On en essaye un dernier mais cette fois c'est son frère qui sera recalé pour avoir confondu sa carte d'identité et celle de Pascal. Décidément, ils sont stricts... Nous rentrons en taxi après cette soirée étrange. Je me prends à ne même pas être énervée ou déçue ; les choses sont ce qu'elles sont, et on en rira déjà demain."
+				],
+				images: [
+					{
+						image: "img/022/day022_01.jpg",
+						legend: "Le fameux rayon dont je vous parlais. Il me reste celui en haut à droite à tester, mais ça a l'air d'être à peu près le même principe. On pourrait les classer : pâte feuilletée ou pain, canelle ou non, crème patissière ou non.",
+					},
+					{
+						image: "img/022/day022_02.jpg",
+						legend: "Décidement, ils aiment bien les trucs en vrac ! Ce n'est pas toujours très hygiénique (bonles surgelés ça va), mais j'aime bien le concept.",
+					},
+					{
+						image: "img/022/day022_03.jpg",
+						legend: "Des bonbons, et dans le fond, des noix. Salées, à mon grand désespoir.",
+					},
+					{
+						image: "img/022/day022_04.jpg",
+						legend: "La face cachée de l'iceberg. Et il y a un rayon entier de bonbons et autres sucreries en sachets derrière. C'est fou d'avoir un rayon sucreries aussi important dans une si petite surface.",
+					},
+					{
+						image: "img/022/day022_05.jpg",
+						legend: "Expérience culinaire n°34 : Pâtes saumon-épinards. Simple et très très très très bon.",
+					},
+					{
+						image: "img/022/day022_06.jpg",
+						legend: "Ca avance...",
+					},
+					{
+						image: "img/022/day022_07.jpg",
+						legend: "Parce que même quand on fait de l'informatique, ça aide d'utiliser un papier et un crayon ! (Oui oui il y a probablement des erreurs)"
+					},
+					{
+						image: "img/022/day022_08.jpg",
+						legend: "Sept heures et demie.",
+					},
+					{
+						image: "img/022/day022_09.jpg",
+						legend: "Ceci est une révolution. Nous l'avons appelé iCoquetier. Biodégradable et fourni avec la boîte d'oeufs.",
+					},
+					{
+						image: "img/022/day022_10.jpg",
+						legend: "Expérience culinaire n°35 : De la morue sous forme de filet près à la cuisson, marrant !",
+					},
+					{
+						image: "img/022/day022_11.jpg",
+						legend: "Expérience culinaire n°36 : Ecrasé de pomme de terre à la morue et sa crème fraîche (il s'en est fallu de peu, mais on n'a pas obtenu l'appelation de brandade).",
+					},
+					{
+						image: "img/022/day022_12.jpg",
+						legend: "Un train passe en arrière-plan.",
+					},
+					{
+						image: "img/022/day022_13.jpg",
+						legend: "Le port by night, encore.",
+					}
+				]
 			}
 		];
 
