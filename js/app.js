@@ -1055,7 +1055,7 @@
 			},
 			{
 				id: "20",
-				title: "",
+				title: "Le calme avant la tempête",
 				date: "5, 6, 7, 8, 9 septembre",
 				html: [
 					"Heureusement qu'on a bossé ce week-end avec Antoine, ça nous évite de passer six heures sur le TP de lundi. Et ça me laisse du temps pour la laverie, le ménage et 'Nos étoiles contraires'. Rien d'exceptionnellement norvégien.",
@@ -1108,6 +1108,160 @@
 					{
 						image: "img/020/day020_10.jpg",
 						legend: "Tout est prêt. Départ à l'aventure imminent.",
+					}
+				]
+			},
+			{
+				id: "21",
+				title: "Cabin trip: first but not least",
+				date: "10 et 11 septembre",
+				html: [
+					"A peine les yeux ouverts, je me sens bien. Je me demande quelle est la part dûe au fait que je me sois couchée tôt pour être en forme, et celle dûe à l'excitation du voyage. J'ai prévu just assez de temps pour me préparer sans me presser. J'appréhende malgré tout ; je ne suis pas une grande marcheuse, je ne voudrais pas être le boulet du groupe.",
+					"A dix heures pétantes comme prévu, on est au pied de la voiture, prêts à embarquer. J'ai le plus gros sac à cause du sac de couchage...j'en rachèterai un d'ici la prochaine fois. Les autres nous rejoignent puis on récupère Luca à Steinan, et c'est parti. J'ai réussi à obtenir de ne pas voyager au fond ; Pauline, voiture et routes de montagne ne faisant pas bon ménage.",
+					"Sur fond de vieux rock qui satisfait tout le monde, interrompu de temps en temps par des directives en anglais données par le GPS, le paysage défile. Je reconnais la route par laquelle on est arrivés la première fois, et en effet on passe devant l'aéroport. Puis on est cerné par les montagnes, avec des plans d'eau de-ci de-là. Je surveille le compteur d'un oeil, mais pas de problème : John se contente de mettre le régulateur à la vitesse maximale autorisée.",
+					"Je me sens rarement aussi ancrée dans le présent que maintenant. L'excitation de l'inconnu et la beauté du paysage me tiennent éveillée. Bientôt on arrive et on se gare près du musée, comme conseillé. Nous n'avons pas pu obtenir de carte pour atteindre la cabine ; il faudra donc faire sans. Chacun mange le déjeuner qu'il a préparé, puis on entame la montée sur le seul chemin qu'il nous semble plausible de suivre.",
+					"Nous marchons plutôt vite, mais je ne peine pas, même malgré le sac. Au début le paysage n'est pas très intéressant, on est au milieu des arbres. Mais on est en pleine nature, et ça c'est vraiment agréable. On dirait que la végétation hésite entre le vert de l'été et les couleurs chaudes de l'automne. Alors que le trajet devait durer deux heures, nous apercevons la cabine après une heure et quart. Un panneau indique comment l'atteindre ; nous y sommes.",
+					"Comme sans doute tant d'autres en Norvège, Holmsakoia (en norvégien les cabines sont appelées koiene) est une petite maison en bois. Au rez-de-chaussée se trouve une longue table et de quoi s'asseoir, mais aussi un chauffage au bois, un semblant de cuisine, une guitare et un piano. Cette grande pièce donne accès à deux chambres qui logent quatre et six personnes. A l'étage, sous les combles, une dizaine de personnes peuvent dormir sur des matelas. Il semble d'ailleurs qu'un groupe y soit déjà installé.",
+					"Devant la maison se trouvent les restes d'un feu de camp. Il y a deux bâtiments aux alentours : l'un pour les toilettes sèches et un stock de bois, l'autre doit être le sauna. Du bois de diverses origines et dimensions se trouve tout autour de la cabine. Et en contrebas, on voit le ruisseau que l'on a longé en venant.",
+					"",
+					"Après avoir essayé la guitare et le piano, nous décidons de poser nos affaires et d'aller faire un tour au lac, plus haut. Nous reprenons donc la route que nous avions quittée pour marcher dans cette direction. Les bords du lac sont très humides, voir marécageux. Mais le paysage est magnifique. On trouve un endroit pour s'arrêter, mais seulement trois d'entres nous seront assez courageux pour se baigner. L'eau est froide mais après un moment on s'habitue. Un concours de ricochets plus tard et après avoir crcoisé un groupe qui a dormi à la cabine la nuit dernière, nous rentrons.",
+					"Le groupe que nous avons croisé est là, sur le départ. Un autre groupe démarre un feu de camp devant la maison. Les garçons allument un feu pour le sauna. La première fois, il fait soixante degrés. Je ne savais même pas qu'on pouvait supporter une telle chaleur. On y reste une dizaine de minutes avant de descendrese rafraîchir à la rivière. J'y vais doucement, ce chaud-froid sonne dangereux. Les garçons eux se lancent mutuellement de l'eau à la figure. Globalement tout le monde crie à cause du choc thermique, cela doit bien faire rire les autres là-haut. Nous recommençons. Sommes un peu plus téméraire à la rivière. Faisons rentrer un peu d'oxygène dans le sauna où on étouffe avant de le faire chauffer encore plus. Comment n'est-ce pas dangereux d'atteindre quatre-vingt degrés dans un bâtiment en bois ? Trois fois seront suffisantes. Je m'assois dans l'eau pour redescendre en température.",
+					"Nous échangeons de place avec l'autre groupe : on a préparé le sauna, eux le feu de camp et le chauffage à l'intérieur ; c'est parfait. On les entend à leur tour crier depuis la rivière, et effectivement c'est très drôle. Nous mettons la grille sur le feu et faisons cuire les saucisses que nous avions prévu pour faire des hot-dog, et c'est une super idée. Nous restons autour du feu. La nuit tombe doucement. Les autres préparent du riz et des champignons qu'ils ont ramassé (seulement les champignons hein). Ils ont une 'experte' qui sait lesquels manger. Nous faisons griller des chamallows autour du feu. A vingt-deux heures, c'est déjà la nuit noire. Il commence à pleuvoir ; nous rentrons.",
+					"A l'intérieur, la tablée mange à la lumière des bougies et des lampes à huile. Nous jouons aux cartes : chacun une bougie pour éclairer son jeu, et une au centre pour voir les cartes qui sont posées. Je n'ai plus d'eau ; j'en trouve dans la cuisine que les autres ont l'air d'avoir fait bouillir, enfin j'espère. Eh oui, c'est un peu idiot de manger de chamallows quand on n'a pas beaucoup d'eau potable. Quelqu'un de l'autre groupe s'arme de la guitare pour faire chanter tout le monde. C'est vraiment un super moment. Là, maintenant.",
+					"Pas de problème de température cette nuit, le chauffage au bois de la maison suffit. Les autres sont un peu bruyants au matin. Ils sont venus en bus mais ne veulent pas attendre le seul de la journée à plus de dix-neuf heures ; ils ont donc décidé de partir pas groupes de deux ou trois à intervalles réguliers afin de faire du stop. Ils sont onze ; bon courage.",
+					"On ne peut pas vraiment profiter de la matinée ; il pleut. On range la cabine et le sauna du mieux que possible pour les suivants. Puis à onze heure trente, nous repartons. Michele fait remarquer qu'il est là depuis un mois ; c'est le cas pour mos aussi. Le temps passe bien trop vite ; presque un quart du voyage s'est écoulé et on a le sentiment de n'avoir encore rien fait. Nous finissons la marche tranquillement, projetant les prochaines découvertes. J'ai apprécié que la musique soit mise en voiture et dans la soirée mais que le silence de la nature ait été respecté le reste du temps.",
+					"Nous arrivons à la voiture vers midi et demi et partons. Sur la route nous ne verrons que deux auto-stoppeurs du groupe précédent ; j'espère que cela signifie que les autres ont réussi. C'est drôle de voir le même paysage dans deux sens différents, on dirait que ce n'est pas le même. Les montagnes sont dans la brume. Il y a des cascades. Les plans d'eau sont noirs. Michele et Luca se sont endormis. C'est encore John qui conduit ; nous n'avons assuré qu'un conducteur. Je le surveille d'un oeil, et je vois que je ne suis pas la seule : Thierry lui dit de ne pas hésiter à faire une pause. Il n'en fera pas à nous ramènera à bon port un peu avant quinze heures.",
+					"",
+					"Je range mes affaires tout de suite avant de ne plus avoir le courage. Et je mange ; j'ai l'impression que je ne peux pas m'arrêter. Comme si l'expression 'reprendre des couleurs' s'appliquait en direct et que chaque bouchée réchauffait mon visage. Il faudrait que je travaille un peu mais n'en ai pas le courage : A la place ce sera 'A trois on y va', 'Respire' et 'Les adoptés'. Un film un peu étranges puis deux beaux films de Mélanie Laurent. Je vous engage à les voir, en particulier 'Respire'."
+				],
+				images: [
+					{
+						image: "img/021/day021_01.jpg",
+						legend: "C'est parti !",
+					},
+					{
+						image: "img/021/day021_02.jpg",
+						legend: "Luca et Johannes (appelé parfois John ou Meschi).",
+					},
+					{
+						image: "img/021/day021_03.JPG",
+						legend: "On commence à voir l'autre côté de la vallée.",
+					},
+					{
+						image: "img/021/day021_04.JPG",
+						legend: "Des bruits de cloche...ah, les voilà ! Mais ils prendront peur et on ne les verra que de loin.",
+					},
+					{
+						image: "img/021/day021_05.JPG",
+						legend: "Arrivés à la cabine !",
+					},
+					{
+						image: "img/021/day021_06.JPG",
+						legend: "L'autre bâtiment, c'est le sauna.",
+					},
+					{
+						image: "img/021/day021_07.JPG",
+						legend: "La rivière qu'on longe depuis le début passe là, juste en bas.",
+					},
+					{
+						image: "img/021/day021_08.JPG",
+						legend: "Pour l'instant sur les pierres, on sera plus tard dans l'eau !",
+					},
+					{
+						image: "img/021/day021_09.JPG",
+						legend: "Apaisant non ?",
+					},
+					{
+						image: "img/021/day021_10.PG",
+						legend: "De l'autre côté...",
+					},
+					{
+						image: "img/021/day021_11.jpg",
+						legend: "C'est l'occasion de crapahuter.",
+					},
+					{
+						image: "img/021/day021_12.jpg",
+						legend: "Michele",
+					},
+					{
+						image: "img/021/day021_13.jpg",
+						legend: "Luca",
+					},
+					{
+						image: "img/021/day021_14.JPG",
+						legend: "Pascal",
+					},
+					{
+						image: "img/021/day021_15.JPG",
+						legend: "En route pour le lac !",
+					},
+					{
+						image: "img/021/day021_16.JPG",
+						legend: "Mi-aride, mi vert.",
+					},
+					{
+						image: "img/021/day021_17.jpg",
+						legend: "Merci le grand angle de l'iPhone de Pascal !",
+					},
+					{
+						image: "img/021/day021_18.JPG",
+						legend: "Thierry",
+					},
+					{
+						image: "img/021/day021_19.jpg",
+						legend: "Waouh.",
+					},
+					{
+						image: "img/021/day021_20.JPG",
+						legend: "Ca ne se voit pas sur la photo, mais le sol sur lequel on se tient est très humide, presque marécageux.",
+					},
+					{
+						image: "img/021/day021_21.JPG",
+						legend: "On a traversé pour aller voir de l'autre côté, et l'eau y est aussi.",
+					},
+					{
+						image: "img/021/day021_22.JPG",
+						legend: "Il faut être un peu fous pour se baigner dans une eau si froide...mais on l'est, donc tout va bien.",
+					},
+					{
+						image: "img/021/day021_23.JPG",
+						legend: "Mieux vaut s'asseoir, ça glisse beaucoup ; Pascal est tombé peu après cette photo.",
+					},
+					{
+						image: "img/021/day021_24.JPG",
+						legend: "Pause post-baignade et concours de ricochets.",
+					},
+					{
+						image: "img/021/day021_25.JPG",
+						legend: "Mmmmmh des chamallows grillés !",
+					},
+					{
+						image: "img/021/day021_26.JPG",
+						legend: "Un morceau de bois enflamé et une pause de trente secondes ; vers l'infini.",
+					},
+					{
+						image: "img/021/day021_27.JPG",
+						legend: "A quoi sert une lampe frontale si ce n'est à ça ?",
+					},
+					{
+						image: "img/021/day021_28.JPG",
+						legend: "Jeu de carte et guitare à la lumière des bougies.",
+					},
+					{
+						image: "img/021/day021_29.JPG",
+						legend: "Ca y est, on prend déjà le chemin du retour, sous la pluie.",
+					},
+					{
+						image: "img/021/day021_30.JPG",
+						legend: "On aperçoit la civilisation !",
+					},
+					{
+						image: "img/021/day021_31.JPG",
+						legend: "Des petites maisons près de l'endroit où on a garé la voiture.",
+					},
+					{
+						image: "img/021/day021_32.JPG",
+						legend: "Même style que la cabine !",
 					}
 				]
 			}
