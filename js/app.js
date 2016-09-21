@@ -1315,7 +1315,7 @@
 					},
 					{
 						image: "img/022/day022_10.jpg",
-						legend: "Expérience culinaire n°35 : De la morue sous forme de filet près à la cuisson, marrant !",
+						legend: "Expérience culinaire n°35 : De la morue !",
 					},
 					{
 						image: "img/022/day022_11.jpg",
@@ -1450,7 +1450,7 @@
 			},
 			{
 				id: "24",
-				title: "Day off!",
+				title: "Semaine studieuse...",
 				date: "19, 20, 21 septembre",
 				html: [
 					"Le TP de lundi est un enfer, rien ne marche et même les encadrants ne comprennent pas pourquoi. On voit les autres binômes avancer tout en étant bloqué, alors on parle de l'avenir avec Antoine. Puis nous prenons la place des autres, qui ont terminé, pour finalement finir et faire valider notre travail. Nous rentrons manger, je fais les courses et nous nous retrouvons dans l'après-midi pour travailler ensemble. Je termine la plus grosse partie d'un devoir, ouf !",
