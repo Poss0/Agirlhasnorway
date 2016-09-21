@@ -1172,7 +1172,7 @@
 						legend: "Apaisant non ?",
 					},
 					{
-						image: "img/021/day021_10.PG",
+						image: "img/021/day021_10.JPG",
 						legend: "De l'autre côté...",
 					},
 					{
@@ -1272,8 +1272,8 @@
 				html: [
 					"Le réveil sonne à sept heures. Puis à sept heures dix. Puis encore, et encore. Je tend le bras pour l'arrêter. Il est sept heures quarante-trois.",
 					"Le sujet de ce matin est mal rédigé ; tout le monde comprend des choses différentes et on reste plantés sans savoir quoi faire. Heureusement cela se révèle plus simple que prévu et on termine à midi. Cela me permet de rentrer et de faire les courses, puis de me mettre à travailler. Pour de bon cette fois. J'ai pas mal avancé, je me permets donc d'arrêter après manger pour écrire les derniers événements, enfin !",
-					"Mercredi sera une journée très studieuse ; je travaille du matin au soir pour finir un devoir à rendre le jour-même. Le film de ce soir c'est 'Bird people', et c'est très bizarre !",
-					"Jeudi matin, il faut se lever à six heures pour se rendre au commissariat où à lieu l'enregistrement des élèves internationaux. Plus on arrive tôt, et moins on aura à attendre. On arrive à sept heures et demie, soit une heure avant l'ouverture, et il y a déjà du monde. On repartira avec le papier deux heures après, quand même. On retourne à Lade avec Antoine ; cette fois j'achète un petit duvet, ce sera bien plus pratique. Le cours de l'après-midi ne nous apprendra rien, on sait lire un sujet d'exercice tout seul, merci. Je mange à dix-heures, à la nordique, pour pouvoir partir au hip-hop tranquillement. Je paye mon abonnement de danse pour le semestre et je m'éclate ; ça me fait vraiment du bien.",
+					"Mercredi sera une journée très studieuse ; je travaille du matin au soir pour finir un devoir à rendre le jour-même, puis je regarde des vidéos de cours pour vendredi. Le film du soir est 'Bird people', et c'est très bizarre !",
+					"Jeudi matin, il faut se lever à six heures pour se rendre au commissariat où à lieu l'enregistrement des élèves internationaux. Plus on arrive tôt, et moins on aura à attendre. On arrive à sept heures et demie, soit une heure avant l'ouverture, et il y a déjà du monde. On repartira avec le papier deux heures après, quand même. On retourne à Lade avec Antoine ; cette fois j'achète un petit duvet, ce sera bien plus pratique. Et des lunch boxes aussi, ça reviendra moins cher que la cafétéria. Le cours de l'après-midi ne nous apprendra rien, on sait lire un sujet d'exercice tout seul, merci. Je mange à dix-heures, à la nordique, pour pouvoir partir au hip-hop tranquillement. Je paye mon abonnement de danse pour le semestre et je m'éclate ; ça me fait vraiment du bien.",
 					"Aujourd'hui la famille de Pascal est venue, son frère va rester ici cette nuit. Je décide de sortir avec les autres plutôt que d'aller au cours de salsa. On loupe un bus, on prend le suivant ; les gens sont un peu fous dedans. On entre dans la boîte où la bière est la moins chère, le 'Wildside'. Les autres veulent changer et aller au 'Downtown', ce qu'on fait. Peu après notre arrivée, quelqu'un s'approche pour me parler. Je n'entends absolument rien de ce qu'il dit et essaye de comprendre tout en réalisant que c'est un vigile. Il me fait signe d'aller dans une direction, j'y vais. Il m'emmène dans un cour intérieure ; je commence à me demander quel est ce guet-appant. Il m'explique que j'ai trop bu et qu'il va metrte un trait sur le tampon qu'on m'a mis sur le bras à l'entrée pour signifier que je dois aller 'marcher une demi-heure'. Bien que je sois dans un état tout à fait normal, je ne cherche pas à négocier et sors. Ma façon un peu folle de danser a dû le tromper ! J'envoie un message aux autres pour leur expliquer, et vais prendre des photos du port, puisque je suis dehors. Je reçois un message de Pascal qui lui s'est fait sortir pour avoir essayé de me défendre ; il a une croix et non un trait sur son bras, c'est donc définitif. Les autres nous rejoignent dehors. On essaye de retourner au Wildside, mais la croix vaut pour tous les clubs, Pascal ne peut plus entrer. On en essaye un dernier mais cette fois c'est son frère qui sera recalé pour avoir confondu sa carte d'identité et celle de Pascal. Décidément, ils sont stricts... Nous rentrons en taxi après cette soirée étrange. Je me prends à ne même pas être énervée ou déçue ; les choses sont ce qu'elles sont, et on en rira déjà demain."
 				],
 				images: [
@@ -1328,6 +1328,181 @@
 					{
 						image: "img/022/day022_13.jpg",
 						legend: "Le port by night, encore.",
+					}
+				]
+			},
+			{
+				id: "23",
+				title: "Party post-party",
+				date: "16, 17, 18 septembre",
+				html: [
+					"Déjà vendredi, la semaine est vite passée ! Ca commence par une séance d'exercices en conception d'ordinateur que je n'arrive pas à faire ; je suis paumée. Ca continue par un sandwich très cher parce que je n'ai pas de pause repas et rien préparé. Il est bon, donc j'oublie l'incident. Ca se poursuit par un atelier de sécurité informatique catastrophique, durant lequel je n'arrive même pas à installer le nécessaire pour travailler à cause d'un malentendu entre le prof et nous. Enervée, je décide de m'en aller au bout de deux heures ; j'ai un autres cours, il me sera sans doute plus utile. Je prends quand même le temps de faire une pause goûter pour compléter mon repas. La part de gâteau me paraît là encore bien chère mais en fait il y a la chantilly et le thé avec. Je rencontre un de mes voisins, il est allemand mais parle aussi français, la discussion est donc un mélange de français et de quelques termes anglais quand ils sont plus parlant que leurs équivalents. Ouf, ça fait du bien d'avoir une conversation sympa, surtout quand on passe une journée nulle ! Mais il faut déjà y retourner, un peu plus calme. Le prof explique le sujet des deux prochains devoirs à rendre, mercredi prochain et le suivant. C'est hyper intéressant mais ça a l'air compliqué, il ne faudra pas que je tarde à m'y pencher. Le cours finit avec un peu d'avance mais je n'ai pas tellement le temps de souffler : je dois retourner à Moholt me préparer pour la soirée.",
+					"Un trajet en bus plus tard, je prépare mes affaires. Affaires de piscine pour le jacuzzi ? Ca supposerait une douche après, donc des affaires de rechange et une perte de temps sur une courte soirée, et des affaires mouillées dans le sac...je ferai sans. Chaussures de randonnée ? Il n'y a qu'une plage horaire d'une heure pour ça, les baskets suffiront, ne multiplions pas les paires de chaussures, il en faut déjà pour l'intérieur. Sac de randonnée ou sac à dos et duvet à la main ? Le sac de rando est vraiment gros, mieux vaut l'autre solution. Et maintenant, je m'habille comment ? J'emporte mon appareil photo sachant que je devrai le laisser sans surveillance ? Bref, vous l'aurez compris, préparer des affaires, même pour une soirée, pour moi, c'est compliqué.",
+					"Un autre trajet en bus plus tard (mais dans l'autre sens, si j'avais trouvé une faille spatio-temporelle pour le prendre dans le même sens deux fois de suite, il ne fait aucun doute que je serais restée sur place...), me voilà de retour sur le campus. Certains ont opté pour les chaussures de rendonnée et le gros sac, d'autres ont fait comme moi, donc finalement il n'y avait pas de mauvais choix. Après ce passage en revue des autres, j'essaie d'identifier des têtes connues ou des personnes seules qui pourraient être des étudiants internationaux. Il y a cette fille à côté de moi mais elle a l'air très fermée.",
+					"Vient l'heure de monter dans le bus. Un norvégien s'assoit à côté de moi et on commence à discuter, si bien que je ne vois pas trop le temps passer, on est vite arrivé. Descente du bus, récupération des affaires dans la soute, marche au milieu de la forêt et oh ! La cabine est là, immense comparée à la précédente. On entre et on se déchausse, comme à peu près partout ici. On monte à l'étage poser nos affaires sur un lit. Je regarde par la fenêter et ne peux retenir un 'ouaaah'. La vue est superbe.",
+					"Il est temps de redescendre et de s'asseoir autour des grandes tables de la pièce principale. Le leader du club nous a donné des numéros dans le bus, il s'en sert maintenant pour former des groupes. Un concours de photos de groupe est organisé, et des suggestions de jeux pour apprendre à nous connaître nous sont proposées. Après un tour des prénoms et danses pratiquées, notre groupe décide de profiter de la lumière du jour pour jouer au 'Hi, ha, ho' dehors et prendre des photos. On passe un bon moment. Viens ensuite un temps mort ou chacun fait ce qu'il a envie : certains testent le jacuzzi, d'autres continuent à jouer ensemble ou discutent autour d'une bière. J'enfile mes baskets et décide d'aller faire un tour et de prendre quelques photos dans la lumière du soleil couchant. Il y a un chemin qui descend dans la forêt. Vu le temps imparti, je ne peux pas aller bien loin, mais cela me ferait plaisir de revenir prochainement.",
+					"Je rentre me changer. J'ai prévu une robe finalement, et là encore j'ai visé juste : pas mal d'autres filles en ont. C'est très hétéroclyte malgré tout : certains sont extrêmement habillés, d'autres comme dans la vie de tous les jours. Je croise un français que j'ai rencontré au cours de salsa, on s'assoit à table et on discute ; c'est sympa. La photo gagnante est annoncée. Ce n'est pas notre groupe mais la leur est géniale, c'est mérité. Le chef annonce le repas. Quand il dit 'txo-course meal' je comprends deux plats et un dessert, parce que pour moi le dessert est sous-entendu. Mais en fait non, c'est le deuxième plat. Ca a l'air d'être assez inhabituel de prendre un dessert ici, déjà lors de la promotion de l'événement c'était un argument phare. Ce sera de l'agneau, suivi d'une mousse au chocolat. Aux deux annonces, gloussements dans l'assistance, comme si c'était absolument exceptionnel. Il faut dire que la viande est chère ici. Quant au chocolat, on nous en a distribué par deux fois depuis le début du semestre comme si c'était incroyable, et là encore il apparaît comme un produit de luxe. On ne mesure pas la chance qu'on a en France.",
+					"Le plat principal est bon : viande, sauce, légumes, petites pommes de terre ; c'est assez typique je pense. J'aide à débarasser, je vais aider à laver la vaiselle pour être remboursée d'une partie de mon inscription. La mousse au chocolat est servie sur des baies ; là encore c'est très typique, il y en a plein les magasins. Ca donne un ensemble équilibré, je note l'idée. A la fin du repas, des chants sont entonnés en guise de remerciements aux organisateurs. Ca me rappelle le ban bourguignon, et dans le contexte, ça rend super bien. J'aide à ramener les ramequins puis écoute le chef nous expliquer comment nettoyer cette vaisselle de cent cinquante personne. Nous sommes quatre, mais ça va assez vite. En récompense (en plus du futur remboursement), nous avons droit à une mousse au chocolat supplémentaire. Et l'impression de l'avoir méritée la rend meilleure, j'en profite plus que la première. Il reste du mélange de baies, on en mange même sans chocolat. Le chef nous explique qu'il a simplement mélangé des groseilles, des myrtilles et des mûres avec du sucre pour les faire dégorger. Top !",
+					"En retournant dans la salle, nous pensions trouver tout le monde en train de danser. Que nenni ! Ils sont encore tous assis à table. La musique est plutôt salsa, quelques couples dansent mais c'est tout. Après plusieurs aller-retour près des DJ pour choisir des chansons en espérant qu'elles fassent bouger tout le monde, la soirée démarre. C'est différent de passer une soirée avec des gens qui aiment danser. On voit bien chez chacun le style prédominant et les musiques appréciées ; mais globalement tout le monde danse sur tout à sa manière et c'est vraiment agréable. Je rencontre des gens, je discute, je danse, je regarde Trondheim de nuit au loin.",
+					"A un moment, c'est l'heure du snack. Et ce sont des hot-dogs, parce qu'ici, ils adorent les pizzas et les hot-dogs. J'en mange deux et je dois dire qu'après autant de danse, c'est super bon ! Je danse encore un peu puis je commence à ranger. J'ai décidé de ne pas dormir ici finalement, donc il faut que je finisse la vaisselle de ce qui reste avant que le bus arrive. Ceux qui restent me disent que je vais louper les pancakes, dommage. Mais rester pour dormir et repartir le lendemain à onze heures me paraît une grosse perte de temps ; si je dors chez moi je pourrai me lever plus tôt et avancer dans mes devoirs de la semaine prochaine.",
+					"Je récupère mes affaires et on quitte Studenterhytta dans la nuit. Le bus fait plusieurs arrêts avant d'arriver à Moholt ; c'est super qu'il ne nous ait pas laissés en centre-ville en pleine nuit. Je me couche, demain sera un journée plus studieuse !",
+					"",
+					"Enfin, la journée studieuse, c'était sans compter un nouveau stop de mon corps, qui ne me réveillera que vers quatorze heures, et fera de mon week-end un long moment de questionnement et d'inquiétudes, accompagné bien évidemment de l'incapacité de travailler et d'aucune envie de faire quoi que ce soit. La semaine prochaine sera un autre semaine ?"
+				],
+				images: [
+					{
+						image: "img/023/day023_01.jpg",
+						legend: "Trois kilomètres à pied, ça...non je plaisante, deux cents mètres.",
+					},
+					{
+						image: "img/023/day023_02.jpg",
+						legend: "Studenterhytta !",
+					},
+					{
+						image: "img/023/day023_03.jpg",
+						legend: "Vous vous rappelez quand je vous ai dit que j'ai lâché un 'ouaaah' en regardant par la fenêtre ?",
+					},
+					{
+						image: "img/023/day023_04.jpg",
+						legend: "Il y a même des bancs pour regarder, c'est bien pensé ici.",
+					},
+					{
+						image: "img/023/day023_05.JPG",
+						legend: "Première photo de la série destinée au concours !",
+					},
+					{
+						image: "img/023/day023_06.JPG",
+						legend: "Et encore.",
+					},
+					{
+						image: "img/023/day023_07.JPG",
+						legend: "On joue avec le soleil.",
+					},
+					{
+						image: "img/023/day023_08.JPG",
+						legend: "A plusieurs reprises.",
+					},
+					{
+						image: "img/023/day023_09.JPG",
+						legend: "Avec de l'imagination, c'est un coeur non ?",
+					},
+					{
+						image: "img/023/day023_10.jpg",
+						legend: "Les gagnants ont symbolisé la danse et représenté les lettres NTNUI D pour NTNUI Dans, le club de danse au sein de l'association sportive de l'université !",
+					},
+					{
+						image: "img/023/day023_11.jpg",
+						legend: "Le drapeau NTNUI flotte là-haut.",
+					},
+					{
+						image: "img/023/day023_12.jpg",
+						legend: "Après quelques mètres on est en plein forêt",
+					},
+					{
+						image: "img/023/day023_13.jpg",
+						legend: "Ce chemin qui semble s'enfoncer dans la forêt sans fin...",
+					},
+					{
+						image: "img/023/day023_14.jpg",
+						legend: "Le soleil fait tomber l'automne.",
+					},
+					{
+						image: "img/023/day023_15.jpg",
+						legend: "Pas de doute, la lumière baisse !",
+					},
+					{
+						image: "img/023/day023_16.jpg",
+						legend: "J'ai remarqué ce bâtiment sphérique. Je me rendrait compte plus tard qu'il est visible du campus, ce qui me permettra de situer Studenterhytta par rapport à Trondheim.",
+					},
+					{
+						image: "img/023/day023_17.jpg",
+						legend: "Toute cabine a son feu de camp.",
+					},
+					{
+						image: "img/023/day023_18.jpg",
+						legend: "Encore un peu de la vue.",
+					},
+					{
+						image: "img/023/day023_19.jpg",
+						legend: "On voit loin !",
+					},
+					{
+						image: "img/023/day023_20.jpg",
+						legend: "Remarquerez-vous le lac en arrière-plan ?",
+					},
+					{
+						image: "img/023/day023_21.jpg",
+						legend: "La ville scintille au loin. Partout ailleurs c'est la nuit noire.",
+					},
+					{
+						image: "img/023/day023_22.jpg",
+						legend: "Après le repas, chacun discute dans la grande salle. La cabine est décorée avec des objets vikings et des têtes d'animaux empaillées.",
+					},
+					{
+						image: "img/023/day023_23.jpg",
+						legend: "La Lune a bougé vite !",
+					},
+					{
+						image: "img/023/day023_24.jpg",
+						legend: "Le fameux hot-dog avec des oignons frits. C'est une saucisse d'agneau en fait ! Mais il y en a aussi au porc.",
+					}
+				]
+			},
+			{
+				id: "24",
+				title: "Day off!",
+				date: "19, 20, 21 septembre",
+				html: [
+					"Le TP de lundi est un enfer, rien ne marche et même les encadrants ne comprennent pas pourquoi. On voit les autres binômes avancer tout en étant bloqué, alors on parle de l'avenir avec Antoine. Puis nous prenons la place des autres, qui ont terminé, pour finalement finir et faire valider notre travail. Nous rentrons manger, je fais les courses et nous nous retrouvons dans l'après-midi pour travailler ensemble. Je termine la plus grosse partie d'un devoir, ouf !",
+					"Le TP de mardi est comme toujours éprouvant. Je code, Marjolaine tente d'améliorer notre breadbord. On fait une pause repas, je mange le contenu de ma lunch box et m'offre un pancake au brunost, top ! On retourne en labo, on a le même problème pendant longtemps. Je m'échappe pour honorer mon rendez-vous avec mon groupe dans un autre cours. On se met d'accord sur comment on va fonctionner, mais on ne peut pas travailler vraiment ensemble, ce sera plutôt chacun de son côté.",
+					"Je retourne dans la salle de TP et trouve comment régler une partie du problème avec des indications de Marjolaine. Comme quoi être deux et prendre l'air en faisant autre chose aide à avancer. Le soir je suis fatiguée mais je décide d'aller au West Coast Swing pour décompresser. Pari gagné : même si j'ai loupé quelques cours, les reminiscences des cours en France me permettent de suivre le cours parfaitement et je suis donc à l'aise pour discuter avec les gens que je rencontre. Je rentre à pied car le prochain bus est dans trop longtemps, et je fais un Skype avec mes potes de Cergy. Ca me fait vraiment plaisir de parler avec eux. J'ai confirmation des nouvelles que j'ai entendues à propos de l'ENSEA. Et je me couche, épuisée.",
+					"Mercredi commence bien, sous la douche déjà je suis pleine de motivation. Je prends le temps de prendre un vrai petit-déjeuner complet. Je m'aprête à travailler quand l'alarme incendie retentit. Nous sortons, puis un gars vient nous prévenir qu'il a oublié un toast chez lui mais qu'on peut rentrer sans crainte. Effectivement la cage d'escalier est enfumée mais on rentre. Les alarmes sonnent dans nos chambres ; on ferme toutes les portes et on attend dans la cuisine. Une fois l'alarme arrêtée, je finis par me mettre à travailler. Je finis le devoir en fin d'après-midi, quelques heures avant la deadline. Et d'un ! Plus qu'à peaufiner celui que j'ai bien entamé lundi d'ici vendredi, et commencer celui dont la réunion de groupe de mardi était l'objet et le finir d'ici dimanche. Quel boulot !",
+					"Je trouve le courage d'aller à la danse contemporaine. Ca va me faire du bien après une journée à travailler. Je pense avoir du mal à suivre car j'ai loupé deux cours, mais en fait je m'en sors très bien. Bien que tout se déroule en norvégien, j'entends mon nom, comprends quand on me demande si j'ai une carte de danse, réussis à suivre le cours sans problème et comprends que le thème de la danse pour le show de fin de semestre est le bus, et que la partie que nous avons commencé à répéter est l'attente. Je suis assez fière de moi (fait notable !) et je rentre manger et remettre mon blog à jour. Mes colocs allemands partent aux Lofoten. Je suis jalouse, mais d'évidence les devoirs que j'ai à rendre ne me permettaient pas d'y aller cette semaine. Bientôt j'espère."
+				],
+				images: [
+					{
+						image: "img/024/day024_01.jpg",
+						legend: "Juste pour le fun : vous pouvez enchaîner les trois photos très vite !",
+					},
+					{
+						image: "img/024/day024_02.jpg",
+						legend: "",
+					},
+					{
+						image: "img/024/day024_03.jpg",
+						legend: "",
+					},
+					{
+						image: "img/024/day024_04.jpg",
+						legend: "Expérience culinaire n°37 : Ca a plus la consistance de beurre que le précédent, c'est salé, mais c'est quand même mi-crème mi-margarine végétale.",
+					},
+					{
+						image: "img/024/day024_05.jpg",
+						legend: "Expérience culinaire n°38 : Pour une cuisson convaincante des brocolis, il faudra repasser. Quant aux galettes de pomme de terre à la morue...c'était pas trop ça non plus.",
+					},
+					{
+						image: "img/024/day024_06.jpg",
+						legend: "Expérience culinaire n°39 : Les crevettes panées surgelées que j'avais acheté il y a un moment. Je valide.",
+					},
+					{
+						image: "img/024/day024_07.jpg",
+						legend: "Expérience culinaire n°40 : Le fiskpudding ! Mais euh, ça se prépare comment au juste ?",
+					},
+					{
+						image: "img/024/day024_08.jpg",
+						legend: "Ah, en fait il faut faire revenir des tranches à la poêle. C'est bon mais il n'y a pas de grande différence avec les autres plats à base de poisson que j'ai pu tester.",
+					},
+					{
+						image: "img/024/day024_09.jpg",
+						legend: "Youhou du fromage français !!! C'est cher mais ça me manquait. Je mangerais bien un morceau de baguette croustillante sortant du four avec, mais c'est hauement improbable.",
+					},
+					{
+						image: "img/024/day024_10.jpg",
+						legend: "Ca se précise...et c'est de plus en plus le bazar (pour l'instant !).",
+					},
+					{
+						image: "img/024/day024_11.jpg",
+						legend: "Expérience culinaire n°40 : Onion rings, japanelo peppers et mozarella sticks, plus sauce aigre-douce. Sympa.",
 					}
 				]
 			}
