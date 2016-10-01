@@ -1505,6 +1505,56 @@
 						legend: "Expérience culinaire n°40 : Onion rings, japanelo peppers et mozarella sticks, plus sauce aigre-douce. Sympa.",
 					}
 				]
+			},
+			{
+				id: "25",
+				title: "Again and again",
+				date: "22, 23, 24, 25, 26 septembre",
+				html: [
+					"Au programme de ce jeudi, encore...la même chose ! Et oui en effet il faut travailler de nouveau car j'ai un devoir à rendre pour vendredi. Après une retouche au code vient l'heure du fatidique test sur FPGA (novices s'abstenir), qui par chance se révèlera concluant dans mon cas. Après avoir correctement préparé les livrables, je poste le tout en ligne, m'offrant le luxe d'une journée d'avance. Cela me permet d'aller au hip-hop sereinement...où on nous annonce que notre présence sera contrôlée pour vérifier que nous serons aptes à participer au spectacle de fin de semestre. Ou comment recréer du stress après son évacuation, le tout dans une activité initialement de loisir. Bref. Je compte rentrer pour manger et repartir à la salsa mais le bus sera tellement long que ça ne se fera pas. Je me contente d'aller dormir.",
+					"Vendredi ! C'est le moment d'attaquer le devoir pour mercredi prochain ! Puis de faire quelques choses et d'autres avant de se diriger vers la soirée West Coast Swing destinée à faire connaissance avec les autres danseurs. Encore une soirée qu'on nous a vendue à coup de chocolat. Le studio ne paye pas de mine de l'extérieur, mais à l'intérieur ce sont plusieurs parquets qui s'offrent aux danseurs. Nous attaquons par un cours dans la pièce principale avant d'être répartis par équipe pour des jeux plus stupides les uns que les autres ; des rires en perspective. Notre équipe fait carton plein. Puis la soirée se poursuit entre danses, discussions, chips et chocolat. Je trouve du monde qui retourne à Moholt en bus, et il est près de deux heures du matin quand je m'allonge enfin.",
+					"J'ouvre les yeux à neuf heures. Je me dis qu'il est trop tôt pour quelqu'un qui s'est couchée à deux heures et une journée de week-end. Je me rendors. Quand je me réveille la seconde fois, il est seize heures. Qui n'a plus de médicament ? Cette journée sera incroyablement vide du fait de sa courte durée, deux repas, un peu de travail et un film feront l'affaire.",
+					"Pas grand chose de spécial en ce dimanche matin. L'après-midi je vais à l'université pour le devoir de groupe pour le jour-même. Oui oui, à l'université un dimanche après-midi. Ensuite je rejoins Marjolaine et Lucile au gymnase pour une séance de step. Je n'en avais jamais fait et je réalise que ça demande une concentration et une énergie assez innatendues. Mais c'est sympa. Je passe un peu de temps en ligne pour reformuler le document à rendre ce soir. Je suis un peu dégoûtée d'apprendre que d'autres ont bougé ce week-end et que personne n'a jugé utile de me prévenir. De même pour la magnifique aurore boréale que je loupe en ce dimanche soir. Allez, la semaine prochaine sera peut-être meilleure...",
+					"Et effectivement, je reprends espoir ce lundi en remarquant que les deux semaines à venir pourraient être suffisamment légères pour que je parte en excursion, et que les prix pour les Lofoten semblent raisonnables. Bien sûr, ça signifiera de travailler avec acharnement et dans l'urgence, mais ça vaut le coup... Je lance les autres sur le sujet pour voir un peu qui serait partant. Pour finir de me rebooster, je fais une soirée crêpes, et mes colocs m'annoncent que la probabilité de voir une aurore boréale est encore élevée cette semaine. Les galères de TP de ce matin sont déjà oubliées. celles de demain sont encore loin. Et effectivement, plus tard dans la soirée, nous regardons le ciel, et nous n'avons d'autre solution que de sortir voir. Apparemment celle qu'on a loupée hier était plus impressionnante, mais c'est déjà un beau spectacle. Et puis c'est la première."
+				],
+				images: [
+					{
+						image: "img/025/day025_01.jpg",
+						legend: "Jeudi matin, brunch !",
+					},
+					{
+						image: "img/025/day025_02.jpg",
+						legend: "La grande salle du studio de danse. Il y en a plusieurs autres. Les chaussures d'intérieur sont requises pour ne pas abîmer le parquet, comme dans toutes les salles du gymnase où je danse habituellement.",
+					},
+					{
+						image: "img/025/day025_03.jpg",
+						legend: "Une fois les lumières éteintes, les danseurs s'en donnent à coeur jooie.",
+					},
+					{
+						image: "img/025/day025_04.jpg",
+						legend: "Ambiance cosy avec les bougies !",
+					},
+					{
+						image: "img/025/day025_05.jpg",
+						legend: "Les couleurs de l'automne...mais le soleil !",
+					},
+					{
+						image: "img/025/day025_06.jpg",
+						legend: "Expérience culinaire n°41 : Crêpe saumon épinards crème fraîche ! Top !",
+					},
+					{
+						image: "img/025/day025_07.jpg",
+						legend: "Expérience culinaire n°42 : Le Nutella étant horriblement cher et pas franchement local, j'ai testé autre chose. Et puis ce serait un peu offensant de manger du Nutella dans un pays 'sans huile de palme', 'sans conservateur', 'sans gluten', 'sans lactose' et j'en passe !",
+					},
+					{
+						image: "img/025/day025_08.jpg",
+						legend: "Avec un long temps de pause, on voit l'aurore (et la grande Ourse en cadeau). Malheureusement cela ne reflète la vitesse à laquelle cela se déplace.",
+					},
+					{
+						image: "img/025/day025_09.jpg",
+						legend: "C'est quand même dingue de se dire que ça a lieu chez soi.",
+					}
+				]
 			}
 		];
 
