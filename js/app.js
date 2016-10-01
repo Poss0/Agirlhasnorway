@@ -1555,6 +1555,43 @@
 						legend: "C'est quand même dingue de se dire que ça a lieu chez soi.",
 					}
 				]
+			},
+			{
+				id: "25",
+				title: "An-ti-ci-per !",
+				date: "27, 28, 29, 30 septembre",
+				html: [
+					"Le mardi est égal à lui-même. Le soir, j'essaie de finir le devoir avec lequel je lutte, sans succès. Je finis par abandonner au profit de quelques épisodes de séries.",
+					"Mercredi, je décide de tout reprendre à zéro. C'est ma dernière chance, ce devoir représente 10% de la note finale de ce cours quand même ! Le recommencement portera ses fruits puisque je réussis le devoir sans problème en quelques heures et qu'il me reste même du temps pour faire la partie optionnelle. Je peux donc aller à la danse sereinement et passer le reste de la soirée à planifier le voyage aux Lofoten avec Maxime et Antoine. Ca se concrétise enfin...ouf !",
+					"Jeudi, je vais en cours, mais cela se révèle franchement ennuyeux. Je pensais rester chez moi pour avancer mon travail mais les autres réussissent à me convaincre de sortir. Après un tour dans un immeuble bondé qui fait office de 'pre-party' mais où il y a trop de monde pour que ce soit agréable, nous partons prendre le bus. Nous perdons une partie du groupe. Nous allons d'abord dans un bar sympa, puis dans un club que je ne connaissais pas encore, le Mint. Il y a une norvégienne avec nous, et elle est dans un état assez lamentable. Mais elle est joyeuse donc c'est drôle. Elle emmène John dans un groupe de filles et moi dans un groupe de gars, mais ce n'est concluant ni pour lui ni pour moi. On décide d'aller dans un endroit moins vide et où la musique est plus intéressante. J'entre au Downtown mais ne voit pas les autres arriver. Je me retrouve toute seule et trouve finalement le reste du groupe, qu'on avait perdu dès le début. Il sera impossible une nouvelle fois de retrouver tout le monde, mais on rentre en taxi sans encombres.",
+					"Vendredi, un jour post-soirée sans grand intérêt si ce n'est celui de se reposer. De fait, j'ai du mal à m'endormir le soir. Et voilà, septembre est déjà terminé."
+				],
+				images: [
+					{
+						image: "img/026/day026_01.jpg",
+						legend: "Expérience culinaire n°43 : Quand tu crois acheter des myrtilles mais qu'en fait c'est de la confiture. Et que maintenant tu as en ta possession un kilo de confiture.",
+					},
+					{
+						image: "img/026/day026_02.jpg",
+						legend: "La breadbord, le retour !",
+					},
+					{
+						image: "img/026/day026_03.jpg",
+						legend: "En fin de séance, on en a marre et on se prend pour des artistes du binaire.",
+					},
+					{
+						image: "img/026/day026_04.jpg",
+						legend: "Expérience culinaire n°44 : Le steak haché spécial hamburger qui fait 180 grammes. Si si.",
+					},
+					{
+						image: "img/026/day026_05.jpg",
+						legend: "Expérience culinaire n°45 : Saviez-vous que le yaourt nature en grande quantité revient plus cher au kilo que les aromatisés en portions individuelles ?",
+					},
+					{
+						image: "img/026/day026_06.jpg",
+						legend: "Expérience culinaire n°46 : La fameuse gaufre beurre-brunost. Il paraît que je suis dingue d'aimer ça.",
+					}
+				]
 			}
 		];
 
