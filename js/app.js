@@ -1557,7 +1557,7 @@
 				]
 			},
 			{
-				id: "25",
+				id: "26",
 				title: "An-ti-ci-per !",
 				date: "27, 28, 29, 30 septembre",
 				html: [
@@ -1590,6 +1590,127 @@
 					{
 						image: "img/026/day026_06.jpg",
 						legend: "Expérience culinaire n°46 : La fameuse gaufre beurre-brunost. Il paraît que je suis dingue d'aimer ça.",
+					}
+				]
+			},
+			{
+				id: "27",
+				title: "Norwegian typical week-end",
+				date: "1er, 2, 3 octobre",
+				html: [
+					"J'avais prévu d'aller faire un tour en ville ce samedi matin, mais il est un peu tard et j'ai beaucoup de travail. Travail que je n'arriverai pas à avancer beaucoup. Heureusement je finis quand même la correction de mon rapport de stage à temps pour la soirée ; ça me libère l'esprit.",
+					"Après un calme début de soirée dans un appartement pas loin où les autres programment leur futur voyage, nous prenons le bus pour nous rendre en ville. Il n'y a pas grand monde devant le Café 3B où a lieu la soirée ; nous entrons facilement. Nous pensions qu'un tel événement, prévu pour tous les étudiants internationaux, aurait lieu dans une grande boîte de nuit. A la place, c'est dans un bar bondé, où les places assises prennent trop de place compte tenu du nombre de personnes, où la bière est chère et où la musique est presque inaudible, que nous entrons. Après un moment passé à croiser des têtes connues et à discuter, l'atmosphère devient étouffante. J'arrive à trouver une place assise et me sens un peu mieux, mais à la première occasion je propose aux autres de sortir pour trouver un autre endroit. Après une courte bataille avec le portant et les cintres pour retrouver nos vêtements, nous nous extirpons hors du bar.",
+					"C'est la folie dehors. Une queue d'une longueur ahurissante patiente pour entrer. Alors que ça ne vaut pas vraiment la peine. Nous marchons jusqu'au Circus, mais là aussi il y a une file d'attente monstrueuse. Même chose au Downtown. Nous n'avons pas le courage d'attendre dans le froid et décidons d'entrer au Wildside, où étrangement il n'y a personne. L'entrée est payante le samedi mais inclut le vestiaire, ce qui semble raisonnable. Nous comprenons vitequ'il n'y a personne non plus à l'intérieur. On s'ennuie un moment avant que le monde commence à arriver et qu'il devienne possible de danser sans se sentir seuls. Les gens sont particulièrement brusques et nous prenons des coups de toutes parts. Un peu avant la fermeture nous sortons dans l'optique de rentrer. Il y a encore de longues files partout où les taxis prennent habituellement les clients. Une nouvelle fois nous refusons d'attendre et marchons en espérant en trouver un ailleurs. Et effectivement nous en croisons un qui nous prend tous les cinq au milieu de la route. Nous sommes serrés sur la banquette arrière et le chauffeur roule un peu n'importe comment. Heureusement il n'y a pas grand monde sur la route à cette heure et nous arrivons vite (trop vite ?) à Moholt. Je vais vite me coucher, pas convaincue que sortir le samedi soir soit la meilleure des idées.",
+					"",
+					"Mon réveil m'aide à sortir du lit vers dix heures. Il fait plutôt beau, ce qui est de bonne augure pour la randonnée. On s'occupe des réservations Airbnb avec Maxime, on se sentira mieux quand tout sera prêt. Le temps en profite pour tourner ; il pleut des trombes d'eau. Je commence à hésiter, après tout j'ai beaucoup de choses à faire... Mais miraculeusement un rayon de soleil perce vers midi. Je me prépare à toute vitesse pour être dans les temps. Je m'habille quand même pour la pluie, au cas où.",
+					"En sortant de chez moi, j'ai la même sensation qu'au ski, quand on sent le froid qui nous attrape au visage mais qu'on est par aileurs très protégé. Je prends le bus et descend près du parc où est le point de rendez-vous ; j'espère trouver facilement. Je repère vite le groupe et me joins à eux. Un iranien que j'ai rencontré au cours de West Coast Swing est là et me présente un ami brésilien. Ma buddy est là aussi, mais on ne se parlera presque pas du parcours. La pluie a repris, espérons que ça cesse.",
+					"Après quelques minutes d'attente, la pluie s'arrête, comme ne cessait de le prédire les norvégiens. Nous nous mettons en route. Quelques minutes plus tard à peine, nous longeons déjà un cours d'eau ; on semble avoir juste quitté la ville et la nature est pourtant déjà là. Cela monte beaucoup ; je peine un peu et me retrouve vite à l'arrière du groupe. Mais je ne suis pas trop loin et les organisateurs sont indulgents ; ils savent bien qu'un événement ouvert à tous suppose d'attendre tout le monde. Et ils me rassurent en me disant que la première partie est la plus difficile.",
+					"Nous nous retrouvons vite en pleine forêt. Nous avions été avertis que le chemin serait boueux, mais je ne pensais pas à ce point ! Au début il faut encore beaucoup monter, après ça va effectivement un peu mieux. Les guides s'arrêtent de temps en temps pour attendre tout le monde. A mi-parcours, il faut presque escalader des roches pour bénéficier de la vue. On fait une courte pause, juste le temps de boire un peu et de prendre quelques photos. Redescendus de ce promontoire, nous continuons notre route. Le terrain se fait plus humide encore. Cela m'importait peu au début puisque mes chaussures ne craignent pas l'eau, mais là les pieds s'enfoncent ; il faut apprendre vite à repérer les pierres, branches et racines pour s'appuyer. Les norvégiens sont très à l'aise pour ça ! D'ailleurs, nous croisons beaucoup de marcheurs, y compris des enfants et des personnes assez âgées, qui se promènent sur ce chemin loin d'être facile. Il y a même des coureurs !",
+					"A un moment, nous arrivons face à une zone marécageuse. Je repère une branche sur laquelle je pense pouvoir traverser, mais il me faut faire un pas pour l'atteindre. Une fille derrière moi pousse un cri quand ma jambe gauche s'enfonce jusqu'au genou. Une norvégienne me dit de revenir, mais en faisant un pas en arrière c'est mon autre jambe qui se retrouve prise. Je ne panique pas une seconde, puisque c'est parfaitement inutile, et accepte leur aide pour m'extirper de là. Ah tiens, mes chaussures ne sont pas imperméables par au-dessus...et l'eau va rester à l'intérieur maintenant. Hormis cette frayeur, le reste du parcours se passe sans encombre. Des pontons en bois sont installés par endroit pour permettre la traversée des zones trop humides, indiquées par une végétation jaune et une absence d'arbres. Zones magnifiques par ailleurs. Il faut encore presque escalader pour arriver au sommet. Mais on est largement récomposé de ses efforts tant la vue est superbe. Nous en profitons, ainsi que du soleil, pendant un moment. Chacun se restaure avant que nous fassions une photo de groupe. Quand on commence à se refroidir, c'est qu'il est temps de repartir.",
+					"La descente est beaucoup plus facile et sera faite d'une traite. Il faut juste est très prudent car tout glisse. Il fait aussi plus froid. La dernière partie descend beaucoup, cela la rend plus dangereuse mais cela me fait aussi réaiser que c'était vraiment le plus difficile à l'aller. On retrouve vite la ville et tout le monde se sépare. Je comptais prendre le bus pour rentrer me reposer au plus vite, mais les deux gars rencontrés au début proposent d'aller dans un café et cela me semble une bonne idée.",
+					"Nous marchons jusqu'à Bakklandet, qui semble une nouvelle fois le lieu le plus adapté pour ça. C'est toujours un quartier aussi agréable. L'iranien connaît 'Antikvariatet', un café qu'il nous avait déjà été demandé de repérer lors du rallye de la première semaine. Le lieu est magnifique. Il y a des bouteilles, des verres, des affiches et des livres en décor partout. On va jusqu'une salle au fond qui a plus l'allure d'une bibliothèque que d'un café. Ce sont tous des livres anciens et uniques, dit un écriteau. Dans les différentes salles que nous avons traversées, il y a des instruments. Ici il y a un groupe qui répète, sans doute pour la soirée. Nous passons un moment vraiment sympathique tout en discutant.",
+					"Nous sortons et attendons ensemble le bus, bien que je sois le seule à le prendre. Je rentre et me repose, mais il me faut sortir régulièrement de ma chambre pour vérifier qu'il n'y a pas d'aurore boréale, la probabilité est importante et le ciel est dégagé. Et effectivement, Johannes frappe à ma porte pour que je sorte regarder par la fenêtre de la cuisine. C'es très des différent de la dernière fois, ce ne sont pas une mais de nombreuses lignes vertes qui balayent le ciel à toute vitesse. Nous décidons de sortir. Cela s'est calmé, il n'y a plus que quelques bandes qui suggèrent que cela pourrait reprendre. Nous nous dirigeons vers le stade mais il est encore éclairé. Nous allons donc dans le parc à côté de la tour de Tyholt. Les éclairages de ville gênent la vue au niveau de l'horizon, mais au moins elle est dégagée au Nord. Malheureusement nous ne serons pas chanceux et devrons nous contenter d'observer le ciel sans Lune. Ce qui reste, comme toujours, époustouflant."
+				],
+				images: [
+					{
+						image: "img/027/day027_01.JPG",
+						legend: "Au sommet, superbe vue sur Trondheim et son fjord.",
+					},
+					{
+						image: "img/027/day027_02.JPG",
+						legend: "N'oublions pas qu'on est séparés de la ville par la forêt.",
+					},
+					{
+						image: "img/027/day027_03.JPG",
+						legend: "L'autre côté du fjord.",
+					},
+					{
+						image: "img/027/day027_04.JPG",
+						legend: "Waouh.",
+					},
+					{
+						image: "img/027/day027_05.JPG",
+						legend: "Où suis-je ?",
+					},
+					{
+						image: "img/027/day027_06.JPG",
+						legend: "Là encore la forêt est dense.",
+					},
+					{
+						image: "img/027/day027_07.JPG",
+						legend: "Par endroits les arbres laissent place à ces plaines jaunes très humides...",
+					},
+					{
+						image: "img/027/day027_08.JPG",
+						legend: "...voire marécageuses.",
+					},
+					{
+						image: "img/027/day027_09.JPG",
+						legend: "On fait une pause pour admirer la vue.",
+					},
+					{
+						image: "img/027/day027_10.JPG",
+						legend: "Des barres énergétiques nous sont distribuées...on se sent bien mieux après, mais vu le prix en magasin, je n'en achèterai pas moi-même !",
+					},
+					{
+						image: "img/027/day027_11.jpg",
+						legend: "Photo de groupe !",
+					},
+					{
+						image: "img/027/day027_12.jpg",
+						legend: "Dans la joie et la bonne humeur !",
+					},
+					{
+						image: "img/027/day027_13.JPG",
+						legend: "On voit un autre village de l'autre côté de la montagne.",
+					},
+					{
+						image: "img/027/day027_14.JPG",
+						legend: "Encore de l'eau...",
+					},
+					{
+						image: "img/027/day027_15.JPG",
+						legend: "Encore Trondheim...",
+					},
+					{
+						image: "img/027/day027_16.JPG",
+						legend: "Et encore.",
+					},
+					{
+						image: "img/027/day027_17.JPG",
+						legend: "Et un arbre qui a cru pouvoir pousser sur la pierre.",
+					},
+					{
+						image: "img/027/day027_18.JPG",
+						legend: "C'est l'heure pour ce norvégien de rentrer chez lui !",
+					},
+					{
+						image: "img/027/day027_19.JPG",
+						legend: "Ca doit être sympa d'habiter là !",
+					},
+					{
+						image: "img/027/day027_20.JPG",
+						legend: "Ce ruisseau est quasiment dans la ville.",
+					},
+					{
+						image: "img/027/day027_21.JPG",
+						legend: "Idéal pour rincer les chaussures !",
+					},
+					{
+						image: "img/027/day027_22.jpg",
+						legend: "LE gâteau aux pommes. Avec de la canelle bien sûr, ici ça va de soi.",
+					},
+					{
+						image: "img/027/day027_23.jpg",
+						legend: "Ce café est un lieu atypique très agréable.",
+					},
+					{
+						image: "img/027/day027_24.jpg",
+						legend: "Je ne m'en lasse pas.",
+					},
+					{
+						image: "img/027/day027_25.jpg",
+						legend: "Pas d'aurores...mais les étoiles !",
 					}
 				]
 			}
