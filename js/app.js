@@ -1715,7 +1715,7 @@
 				]
 			},
 			{
-				id: "29",
+				id: "28",
 				title: "Juste avant de partir",
 				date: "4, 5 octobre",
 				html: [
@@ -1756,6 +1756,300 @@
 					{
 						image: "img/028/day028_08.jpg",
 						legend: "C'était par terre devant l'arrêt de bus. C'est un compliment. Il ne m'était pas adressé, mais ça donne toujours le sourire de voir des trucs comme ça.",
+					}
+				]
+			},
+			{
+				id: "29",
+				title: "De Trondheim à Bodø",
+				date: "Nuit du 5 au 6 octobre",
+				html: [
+					"Quand je reviens du centre-ville, c'est un peu la course. Carte SIM rechargée, ok. Devoir pour mercredi rendu, ok. Courses pour avoir de quoi manger au retour et de quoi grignoter en route, ok. Lessive, ok. Repas, douche, ok. Il ne me reste que peu de temps pour faire mon sac. Je m'y prends à plusieurs reprises, il ne faut pas trop se charger mais il ne faut pas non plus risquer d'avoir froid...",
+					"A l'heure convenue avec les autres, et après avoir vérifié plusieurs fois que je n'oublie rien, je suis prête. Je descends retrouver Maxime au pied de la salle de sport. Il fait nuit noire mais je suis bien réveillée. Le sac de Maxime est un peu plus lourd que le mien, ouf, je ne passerai pas pour la fille qui trimbale sa maison. Antoine nous rejoint et nous marchons jusqu'à l'arrêt de bus. Il tarde à arriver ; il faut dire que nous avons pris beaucoup d'avance.",
+					"Le bus traverse la ville ; nous sommes les dernier à en descendre. Il y a du monde dans la gare car trois trains vont partir. Nous récupérons nos billets sur une borne automatique puis devons attendre plus d'une heure ; nous avons pris un bus d'avance en cas de problème mais comme il n'y en a qu'un par heure le soir, cela fait beaucoup à attendre. Un peu avant l'arrivée du train, nous décidons d'aller voir sur le quai, mais il n'est pas arrivé. Nous attendons donc dans le couloir.",
+					"Finalement le train arrive et nous nous séparons d'Antoine qui n'est pas dans le même wagon. Un groupe de quatre français ont pris nos places, mais nous en prenons d'autres. Le contrôleur qui passera peu de temps après n'y trouvera rien à redire tant le train est vide. En plus de prises et de Wi-Fi gratuit, chaque passager bénéficie d'un kit pour dormir : une couverture, un masque et des bouchons d'oreille. Au début Maxime et moi restons sagement à nos places côte à côte. Je regarde à l'extérieur, mais seules quelques lumières défilent dans la nuit. Je somnole plus ou moins mais n'arrive pas vraiment à dormir. J'imite donc le comportement des autres passagers en prenant deux sièges pour m'allonger, laissant ainsi la possibilité à Maxime d'en faire autant.",
+					"Je ne dors que par intermittence, ayant toujours mal quelque part. Le contrôleur passe régulièrement ramasser les kits inutilisés et contrôler les nouveaux arrivants. Le train émet des sons et fait des arrêts régulièrement ; rien de tout cela n'est propice au sommeil.",
+					"Le temps passe malgré tout, et quand j'ouvre le yeux vers sept heures, le spectacle du lever du soleil est magnifique. Je me précipite à la fenêtre en face de moi. A droite, les montagnes, noires, se découpent dans sa lumière. A gauche, les neiges éternelles renvoient sa lumière rosée. Si on regarde en face, là où se dirige le train, on croit parfois s'enfoncer dans la montagne...puis on traverse le tunnel avec excitation en attendant de voir quel nouveau paysage il va révéler. Des plans d'eau reflètent le ciel. Des moutons broutent dans des prés à peine dégelés. Au bout d'un moment, à gauche, on longe un magnifique fjord. Je ne suis pas du bon côté pour prendre des photos, mais je profite pleinement du spectacle.",
+					"Une annonce me tire de ma rêverie. Il faut mettre les vêtements de randonnée, enfiler ses chaussures, refermer son sac. Le train s'arrête. On parle quelques instants avec le groupe de français qui n'ont pas tout à fait le même plan que nous. On retrouve Antoine sur le quai. Il y a d'autres étudiants de Trondheim, évidemment. Et voilà, nous sommes arrivés et nous dirigeons vers la gare de Bodø."
+				],
+				images: [
+					{
+						image: "img/029/day029_01.jpg",
+						legend: "Vêtements chauds et imperméables, sac à dos... Je suis prête !",
+					},
+					{
+						image: "img/029/day029_02.jpg",
+						legend: "Un peu d'attente dans la gare de Trondheim.",
+					},
+					{
+						image: "img/029/day029_03.jpg",
+						legend: "Le lever du soleil par la fenêtre du train.",
+					},
+					{
+						image: "img/029/day029_04.jpg",
+						legend: "Comme le jour de mon arrivée dans l'avion, je constate que l'eau est omniprésente.",
+					},
+					{
+						image: "img/029/day029_05.jpg",
+						legend: "De la neige !",
+					},
+					{
+						image: "img/029/day029_06.jpg",
+						legend: "Un bout de montagne enneigée éclairé par le soleil.",
+					},
+					{
+						image: "img/029/day029_07.jpg",
+						legend: "L'eau encore.",
+					},
+					{
+						image: "img/029/day029_08.jpg",
+						legend: "Des arbres qui se découpent dans la lumière.",
+					},
+					{
+						image: "img/029/day029_09.jpg",
+						legend: "Il y a un magnifique fjord à gauche.",
+					},
+					{
+						image: "img/029/day029_10.jpg",
+						legend: "Waouh.",
+					},
+					{
+						image: "img/029/day029_11.jpg",
+						legend: "Notre train à l'arrivée en gare de Bodø !",
+					}
+				]
+			},
+			{
+				id: "30",
+				title: "De Bodø à Sørvagen",
+				date: "6 octobre",
+				html: [
+					"Il est un peu plus de neuf heures et demie quand nous arrivons à la gare. Nous avons donc six heures à occuper avant de prendre le ferry. Nous commençons par faire des courses pour le repas du midi, puis partons repérer le lieu d'embarquement. Le ferry est bien annoncé mais aucun guichet n'est ouvert ; impossible d'acheter les billets pour l'instant.",
+					"Nous décidons d'aller randonner plutôt que de visiter la ville : nous aurons du temps pour ça le dernier jour avant de prendre le train. J'ai repéré un petit lac de montagne qui n'a pas l'air trop loin ni compliqué à atteindre, nous nous lançons donc dans cette direction. Une norvégienne nous interrompt : 'Are you tourists? -Yes -Are you going on a walk? -Yes -Do you want to put your bags in my house so you don't have to carry them? Oh I know, it's scary, I could steal them, but it's Norway!'. N'allez pas me dire après ça que les norvégiens ne sont pas accueillants. Elle nous laisse un moment pour décider en nous indiquant la direction de sa maison, mais nous ne réfléchissons pas trop longtemps avant de la suivre. Elle nous propose de mettre nos sacs dans un petit abri accolé à la maison, derrière son vélo, afin que nous puissions les récupérer à tout moment. Elle nous prête même un sac à dos plus petit pour que nous puissions y mettre les quelques affaires qui nous servirons pendant la balade. C'est une canadienne qui habite la Norvège depuis vingt ans.",
+					"C'est donc allégés que nous nous attaquons à la montagne. Au début il suffit de suivre la route, puis heureusement c'est un chemin qui s'offre à nous. Cela monte fort. Nous atteignons très vite le lac, dont je ne sais s'il est assez grand pour mériter cette appelation. La vue sur Bodø et son fjord est déjà belle. Nous décidons de continuer un peu, puis arrivons rapidement à un point de vue magnifique. Il y a de l'eau et des montagnes tout autour. Certaines n'ont pas quitté les nuages depuis notre arrivée. Nous continuons encore un peu dans les arbres, mais le chemin redescend et nous ne savons pas exacteent où. Demi-tour donc pour manger au niveau de cette superbe vue. Enfin nous redescendons et récupérons nos affaires chez la dame avant de sonner chez elle pour la remercier. Nous notons le nom sur la boîte aux lettres, ce serait sympa de lui envoyer une carte.",
+					"Redescendus en ville, nous décidons d'acheter de quoi manger le soir. Nous rejoignons ensuite le lieu d'embarquement pour le ferry. Un bateau énorme se trouve là ; mais nous demandons et il ne s'agit pas du nôtre. Il nous faudra attendre longtemps. Nous nous allongeons et endormons au soleil. Le groupe de français est là ; eux prennent le grand bateau car ils ont prévu un itinéraire différent. Enfin les gens commencent à s'aligner près de l'endroit où nous voyons des ferry accoster et repartir depuis tout à l'heure. Nous décidons d'en faire autant afin de s'assurer une place. On nous annonce un léger retard mais rapidement on nous fait écrire nos noms sur la liste et payer.",
+					"Le bateau arrive enfin et les barrières se lèvent. Nous suivons les indications jusqu'au salon des passagers. Il y a très peu de monde comparé à la capacité. Nous choisissons trois sièges tout devant. Le bateau démarre ; nous nous amusons à comprendre quelles sont les îles que nous voyons grâce à la localisation sur nos portables. Le bateau tangue d'abord légèrement de droite à gauche, puis d'avant en arrière, de plus en plus fort. On sent quand il monte l'appréhension de la chute ; on le sent claquer contre les vagues quand il redescend. Il faut respirer calmement, en phase avec les montées et descentes successives. Je commence à ne plus me sentir très bien. Heureusement je m'endors. A mon réveil il fait nuit, il pleut, et la houle me donne toujours autant mal au coeur ; je me rendors.",
+					"Enfin, je me réveille et l'arrivée est proche. Difficile de distinguer les îles. On voit d'abord la lumière d'un phare qui danse ; puis se stabilise, puis d'autres lumières. Le bateau accoste et nous voilà vite sur la terre ferme. Entre les voitures qui sorte et les files de celles qui doivent embarquer, difficile de trouver son chemin. Il pleut et il fait très noir. Nous finissons par trouver la Volkwagen bleue de notre hôte qui nous accueille chaleureusement. Il ne nous faut pas longtemps pour atteindre Sørvagen. Nous nous arrêtons devant une grande maison. A l'arrière, une partie du rez-de-chaussée est aménagée en petit logement, qui sera le nôtre le temps d'une nuit. C'est bien chauffée et très agréable.",
+					"Après de monstrueuses assiettes de pâtes au pesto et des douches, nous décidons, aidées de la documentation à notre disposition, de quoi faire le lendemain, puis de l'heure de lever. Nous ne nous coucherons pas très tard ; la nuit précédente a été éprouvante, la journée fatiguante, et il nous faut de l'énergie pour demain."
+				],
+				images: [
+					{
+						image: "img/030/day030_01.JPG",
+						legend: "Après de longues minutes sur la route, voilà un chemin !",
+					},
+					{
+						image: "img/030/day030_02.JPG",
+						legend: "Après quelques minutes, on sait déjà que la vue va être impressionnante.",
+					},
+					{
+						image: "img/030/day030_03.JPG",
+						legend: "Maxime (en rouge) et Antoine (en bleu).",
+					},
+					{
+						image: "img/030/day030_04.JPG",
+						legend: "Le 'lac' que j'avais repéré sur la carte !",
+					},
+					{
+						image: "img/030/day030_05.JPG",
+						legend: "Cette montagne restera dans les nuages toute la journée.",
+					},
+					{
+						image: "img/030/day030_06.JPG",
+						legend: "Pour une randonnée au hasard, ça s'annonce plutôt bien !",
+					},
+					{
+						image: "img/030/day030_07.JPG",
+						legend: "Pause observation.",
+					},
+					{
+						image: "img/030/day030_08.JPG",
+						legend: "Et voilà, Bodø et son fjord !",
+					},
+					{
+						image: "img/030/day030_09.JPG",
+						legend: "Il y a même un banc pour profiter...sur lequel nous mangerons.",
+					},
+					{
+						image: "img/030/day030_10.JPG",
+						legend: "",
+					},
+					{
+						image: "img/030/day030_11.JPG",
+						legend: "",
+					},
+					{
+						image: "img/030/day030_12.JPG",
+						legend: "",
+					},
+					{
+						image: "img/030/day030_13.JPG",
+						legend: "",
+					},
+					{
+						image: "img/030/day030_14.JPG",
+						legend: "Quelques rayons de soleil percent les nuages sur la montagne.",
+					},
+					{
+						image: "img/030/day030_15.JPG",
+						legend: "",
+					},
+					{
+						image: "img/030/day030_16.JPG",
+						legend: "",
+					},
+					{
+						image: "img/030/day030_17.JPG",
+						legend: "Au milieu des arbres on n'a une vue un peu meilleure sur cette partie du paysage.",
+					},
+					{
+						image: "img/030/day030_18.JPG",
+						legend: "",
+					},
+					{
+						image: "img/030/day030_19.JPG",
+						legend: "",
+					},
+					{
+						image: "img/030/day030_20.JPG",
+						legend: "Une photo prise sans le vouloir !",
+					},
+					{
+						image: "img/030/day030_21.JPG",
+						legend: "Le bateau est assorti à Maxime...mais on ne le prendra pas !",
+					},
+					{
+						image: "img/030/day030_22.JPG",
+						legend: "Petite sieste au soleil...",
+					},
+					{
+						image: "img/030/day030_23.JPG",
+						legend: "...puis dans le ferry.",
+					},
+					{
+						image: "img/030/day030_24.JPG",
+						legend: "Antoine s'attaque à la cuisson des spaghetti.",
+					},
+					{
+						image: "img/030/day030_25.JPG",
+						legend: "L'endroit est plutôt 'cosy' comme ils aiment dire ici !",
+					}
+				]
+			},
+			{
+				id: "31",
+				title: "De Sørvagen à Leknes",
+				date: "7 octobre",
+				html: [
+					"Lorsque le réveil sonne à sept heures et demie, il est un peu dur de se lever. Nous nous préparons pour sortir à huit heures et demie et prendre le bus peu après neuf heures. Il suffit de laisser la clé sur un crochet à l'extérieur de la maison ; pas de vols en Norvège ! En sortant, nous admirons la vue : comme prévu, montagnes et lacs, c'est magnifique. Nous en profitons tout en marchant vers le présumé arrêt de bus. Nous demandons à quelqu'un dans une supérette de nous l'indiquer ; c'est simplement le bord de la route qui fait office d'arrêt.",
+					"Quelques minutes après le bus arrive effectivement ; ils sont plus à l'heure ici qu'à Trondheim ! Nous demandons à aller à Leknes et nous asseyons. Les paysages que nous traversons sont tous plus beaux les uns que les autres, difficiles de détacher le regard de la vitre. Des personnes montent de temps en temps ; ce sont surtout des jeunes groupes de marcheurs comme nous où des locaux plutôt âgés. Nous regardons où nous nous trouvons grâce à la localisation et repérons ainsi les endroits où nous aimerions revenir.",
+					"Nous descendons dans le centre ville de Leknes. C'est la ville où nous dormons ce soir, mais nous n'avons pas accès au logement pour l'instant, il nous faut donc garder nos sacs. Nous marchons un peu au hasard avant de repérer des endroits intéressants. Cependant, y accéder suppose de suivre la route, ce qui n'est pas intéressant. Nous essayons une première fois de couper par la montagne, mais arrivons dans un chemin privé. Le propriétaire sort de la maison et nous propose son aide sans aucune agressivité. Jusqu'ici ils parlent un anglais correct ! Nous le remercions et partons plus loin.",
+					"Nous suivons la route un moment avant de trouver un moyen de prendre de la hauteur. Le trajet n'est pas évident, le terrain est très humide. Nous sommes obligés d'enjamber des ruisseaux, de traverser des portions de forêts, et de passer par dessus des clotûres électrifiées à plusieurs reprises. Seul Maxime nous le confirmera en y touchant par inadvertance. Après quelques étapes difficiles nous arrivons sur un chemin plus pratiquable, et réalisons au passage que nous aurions pu y accéder depuis la route beaucoup plus simplement que comme nous l'avons fait. Tant pis, c'était dun d'improviser !",
+					"En contnuant nous comprenons la raison d'être des clotûres : des sons de cloches révèlent la présence de brebis. Elles sont postées là, à nous regarder ; nous ou le paysage peut-être. Nous leur faisons peur en arrivant et nous installons à leur place, meilleure vue sur Leknes et son fjord. Nous en profitons pour faire notre pause repas.",
+					"Avant de trop nous refroidir, nous repartons. Cette partie de la marche est beaucoup plus simple mais ne semble jamais finir ; un sommet en cache toujours un autre ! Finalement nous arrivons quand même au point le plus haut, qui nous permet de voir à la fois Leknes et Storfjord de l'autre côté. Le ciel est gris mais la vue n'en n'est pas moins belle.",
+					"Nous décidons de continuer notre route en direction de Storfjord, qui était notre objectif de départ. Nous dévions un peu de notre trajectoire pour s'approcher d'une rampe de saut à ski désafectée. Ensuite, la couleur orangée caractéristique des marécages nous annonce que nous n'allons pas pouvoir continuer tout droit. Nous sommes obligés de contourner la zone en marchant près des arbres pour ne pas risquer de nous enfoncer. Malheureusement cela nous éloigne de la route que nous suivons de haut et nous nous retrouvons dans un milieu boisé. Nous descendons un peu à l'aveuglette. A notre gauche se trouve maintenant un dense forêt. Maxime tient à ce que nous remontions un peu pour la contouner par la gauche, nous rapprochant de la route. Ce faisant, nous croisons à nouveau des moutons et enjambons une dernière clotûre.",
+					"Nous entendons de nouveau la route au loin. Nous ne sommes donc plus perdus, mais nous ne pouvons pas aller tout droit 'sans corde pou faire du rappel', comme dit Antoine. Il nous faut là encore remonter pour trouver une pente plus douce. Finalement, nous traversons une portion de forêt qui nous amène directement sur le bord de la route, au risque d'effrayer les véhicules. Nous décidons de descendre la route jusqu'à un lac, mais il n'est pas accessible. Une pause goûter dans un arrêt de bus me permet de consulter les horaires ; il y en a un dans peu de temps. Nous partons donc à pied vers un fjord ; d'en bas aussi le paysage est beau. Antoine croit apercevoir un phoque ; c'est possible ici après tout. Sur ma photo, cela ressemble beaucoup à un chien.",
+					"Nous finissons par faire demi-tour pour attendre le bus. Le prenons et marchons jusqu'au Rema pour acheter le repas du soir et du lendemain. Nous arrivons plus tôt qu'annoncé à notre logement mais notre hôte est là, et elle est adorable. Là encore l'appartement est une partie du rez-de-chaussée de la maison. Tout est propre et rangé, il y a même un chocolat sur le lit de chacun, et du thé et du café à disposition ! Il n'y a pas vraiment de quoi cuisiner, mais notre hôte nous ayant vu arriver avec nos pizzas surgelées, elle les emmène chez elle et nous les rapporte une fois cuites. Sacré service ! Nous nous couchons là encore pas trop tard après avoir repéré quoi faire le lendemain...et ce ne sera pas rien !"
+				],
+				images: [
+					{
+						image: "img/031/day031_01.JPG",
+						legend: "",
+					},
+
+				]
+			},
+			{
+				id: "32",
+				title: "De Leknes à Vaerøy (en passant par Ramberg, Reine et Sørvagen)",
+				date: "8 octobre",
+				html: [
+					"Cette fois c'est à sept heures que nous nous levons pour sortir de la maison à huit. Nous prenons le bus de huit heures et demie à l'endroit où les précédents nous ont déposé la veille. Nous retournons vers le Sud et les paysages que nous avions traversé à l'aller.",
+					"C'est à Ramberg que nous nous arrêtons. Lorsque le bus s'en approche, je vois la montagne sur laquelle nous allons monter...et je commence à me dire que ça ne va pas être évident. Il n'est déjà pas simple de trouver le début du chemin, caché au bout d'une petite rue entre les maisons, mais nous y arrivons grâce aux indications trouvées sur internet. Finalement il y a bien un chemin, qui monte incroyablement vite. Nous le prenons. Il faut s'arrêter de temps en temps pour reprendre son souffle ; mes mollets brûlent, le sac est lourd. Il ne vaut mieux pas regarder en bas en montant non plus. En montant, je croyais que nous aurions une belle bue sur la plage de Ramberg. C'est le cas, mais une bien meilleure surprise nous attend en haut : de l'autre côté, nous avons vue sur des fjords éclairés par le soleil levé depuis seulement quelques heures ; c'est un spectacle magnifique. Nous décidons de laisser nos sacs ici le temps de monter sur un point plus élevé ; après tout il n'y a pas de vols en Norvège, et personne ici.",
+					"Après quelques photos, et la rencontre d'un lapin mort mais intact, nous récupérons nos sacs et décidons de monter plus haut sur l'autre partie de la montagne. Nous prenons un premier chemin qui ne monte pas trop, mais il s'arrête sur un pierrier vertigineux. Nous reroussons chemin pour en prendre un second. Celui-ci aussi s'arrête, bien qu'un peu plus haut. Nous montons donc comme nous pouvons jusqu'au chemin encore au-dessus. Il ne faut vraiment pas regarder en bas cette fois. Ni tomber, de préférence. Enfin nous voyons Ramberg et les environs. Nous prenons le temps d'admirer. Il y a une petite crête sur laquelle il est évident que des gens sont allés, mais ça nous semble un peu trop dangereux. Nous ne disposons plus non plus d'assez de temps pour continuer en espérant voir plus ; c'est le bon moment pour faire demi-tour.",
+					"Avant d'atteindre l'endroit de notre première pause, un grand rapace nous survole. Les garçons pensent que c'est un aigle. Nous sommes derrière une butte et ne le voyons pas faire, mais quand nous arrivons, le lapin n'est plus aussi intact qu'au départ. Après une dissection visuelle et une mise en abîme photograpique du lapin mort, nous poursuivons notre route. Nous avons prévu beaucoup de temps pour descendre ; ça ne va pas être simple. Nous nous mettons d'accord : nous nous espaçons, chacun prend son temps, va à son rythme. Le sol est pentu et glissant ; il faut assurer ses pieds, les poser perpendiculairement à la pente. On est vite emporté par le poids de son sac ; il faut être très méfiant. Les garçons me distancent un peu mais m'attendent en bas. Je glisse plusieurs fois mais je suis sur mes gardes et le fait de s'attendre à une chute évite de s'y faire mal. Nous sommes descendus beaucoup plus vite que prévu et disposons donc d'une heure pour manger tranquillement. Nous optons sur la plage.",
+					"Il n'y a pas meilleur repas que celui qu'on sait mériter. On a vraiment faim et on apprécie ce moment. Il fait plutôt beau ; ce sont les montagnes qui cachaient le soleil jusque-là, mais le voilà qui commence à passer au dessus. Nous allons tremper nos pieds dans la mer ; au-dessus du cercle polaire ! C'est tellement froid que c'en est paralysant. Nous prenons quelques photos promotionnelles pour l'ENSEA puis repartons à la station essence attendre le bus.",
+					"C'est la première fois que le bus est en retard, mais de peu. Nous arrivons à Reine à quatorze heures après avoir traversé le fjord en bus. C'est sans aucun doute possible le plus bel endroit du voyage. Et il fait incroyablement beau pour un mois d'octobre ; pas un nuage à l'horizon. 'Au Nord vais-je, là où brille le soleil...' Antoine et moi avons repéré une randonnée très célèbre mais déconseillée pour sa difficulté et sa dangerosité en l'état actuel. Nous comprenons en voyant la-dite montagne que cela ne sera probablement pas pour cette fois. Nous allons voir le début du chemin par acquis de conscience mais décidons qu'il n'est pas raisonnable de tenter le coup. Nous avons de lourds sacs, la fatigue d'une randonnée difficile ce matin, et la montée se fait cachée du fjord et du soleil ; si nous n'arrivons pas au bout nous ne serons recompensée d'aucune vue sur le lieu. Nous trouvons cependant largement de quoi nous balader dans les environs pendant les quelques heures dont nous disposons. Je réalise avec bonheur que je vois certainement parmi les plus beaux paysages de ma vie.",
+					"au moment de reprendre le bus vers Moskenes, où nous reprenons le ferry, question : faut-il plutôt aller là-bas ou au restaurant à Sørvagen ? Pas sûr qu'il y ait quoi que ce soit pour manger ou attendre à Moskenes, et nous avons plusieurs heures à occuper...dans la nuit et le froid. Sur les indications d'une vendeuse de Reine, nous descendons quand même à Moskenes où se trouve une brasserie au camping. Cependant sur place, elle se révèle fermée ; on est hors-saison. il ne nous reste plus qu'à marcher jusqu'à Sørvagen, faisant ainsi une boucle dans notre voyage. Nous mangeons dans un restaurant gastronomique réputé, 'Maren Anna'. Il nous est demandé de laisser nos sacs à l'entrée, de toute façon il n'y a pas de vol en Norvège. Le serveur finit par percer notre accent français et révéler qu'il l'est lui aussi. Il a d'abord habité à Oslo avant d'opter pour ce lieu il y a six ans, qui lui permet de pratiquer le surf tous les jours. 'J'ai pas choisi le métier, j'ai choisi les à-côté'...voilà qui fait rêver. Le repas est cher mais super bon.",
+					"Après un passage dans une supérette pour acheter le repas du midi suivant, nous retournons à Moskenes à pied. Je suis devant, lampe blanche sur le front. Antoine derrière, lumière clignotante rouge et bandes réféchissantes dans le dos. Prudence est mère de sureté, paraît-il. Le port est joli de nuit. Nous n'attendons pas trop avant de monter dans le ferry...qui est encore plus vide que la première fois. Le trajet est complètement de nuit et ne permet pas de voir quoi que ce soit, nous dormons un peu.",
+					"A notre arrivée, c'est cette fois une voiture blanche qui nous attend. Elle nous emmène à destination tout en nous montrant les lumières sur les montagnes pour nous conseiller où randonner demain. La nuit est claire, on voit plein d'étoiles. Les montagnes de nuit ont un aspect menaçant. Cette fois le logement est aménagé dans un grand hangar face à un bateau ; on dirait une habitation de pêcheur ! C'est un peu moins moderne que les précédents mais ça fait très typique et l'ambiance tamiée des lumières est agréable. Nous nous endormons bien vite après cette longue journée."
+				],
+				images: [
+					{
+						image: "img/032/day032_01.JPG",
+						legend: "",
+					},
+
+				]
+			},
+			{
+				id: "33",
+				title: "De Vaerøy à Bodø",
+				date: "9 octobre",
+				html: [
+					"Toujours plus tôt ! C'est à six heures quarante-cinq que le réveil sonne cette fois. Nous nous extirpons du sommeil puis de l'habitation, vers sept heures et demie. Le but est d'assister au lever du soleil sur la mer. Nous laissons simplement les clés sur la porte comme demandé. Décidément, ils ont confiance. Nous sommes effectivement en pleine zone de pêche, au milieu des installations qui servent à faire sécher les morues. Cela explique la permanente odeur de poisson partout sur les îles ! Et pourtant il n'y en a pas en ce moment, je n'ose pas imaginer en saison. Nous marchons jusqu'à la mer. Pari gagné ; nous asistons au lever du soleil. Le ciel est couvert d'un plafond nuageux ; seule une bande à l'horizon nous permet de distinguer des montagnes au loin. Nous croyons au départ qu'il s'agit des Lofoten, Susan a dit qu'on pouvait les voir d'ici. Nous attendons que le soleil monte assez haut pour être caché dans les nuages et partons grimper sur la montagne que nous avons repéré.",
+					"Le chemin commence par des pierres. Ensuite, il monte assez violemment jusqu'à un point assez élevé. Nous voyons des îles de l'autre côté...c'est le reste de Vaerøy ? Je regarde la carte. Ah non, ce sont les Lofoten, génial ! Mais alors, les montagnes de l'autre côté de la mer...c'est le continent ! Incroyable. En y regardant mieux, nous sommes cernés de toute parts par les montagnes. A gauche le reste des Lofoten : Moskenesøy, Vestvagøy... plus au loin probablement Narvik, là où nous voyons moins. Ensuite la côté, dont certainement Bodø. Plus à droite , la suite de la côté... Et enfin la dernière île des Lofoten, Røst. Sans oublier la vue quasi-complète de l'île sur laquelle nous sommes, Vaerøy. C'est incroyable.",
+					"Là où nous sommes, le chemin s'arrête. Mais, comme je me suis faite plusieurs fois la réflexion cette semaine, il est humain de vouloir toujours aller plus haut. Dépasser ses limites. Nous avons envie de continuer. Nous laissons là nos sacs (parce qu'en Norvège...bref) pour monter plus aisément. Là ça relève de l'escalade. Ou peut-être de la folie. Je n'ai jamais fait beaucoup de bêtises, mais là on est carrément dans l'inconscience de la jeunesse, on se sent invincible...alors que je n'ose pas imaginer le résultat d'une chute. Je place bien mes pieds en tâtonnant toujours plusieurs fois pour m'assurer que je ne vais pas glisser. La descente ne va pas être simple ! En haut, c'est vertigineux. Je ne m'approche pas trop du bord. Mais la vue en vaut vraiment la peine. Je fais encore un tour panoramique pour constater que les montagnes et l'eau sont partout.",
+					"Comble de la folie ; Maxime décide de s'engager sur la crête pour atteindre un autre point de vue. Ca a l'air plus simple, nous le suivons. Ca l'est effectivement, mais c'est aussi tout à fait effrayant. Il y a des trous de temps en temps, il faut être méfiant. Nous passons un moment là ; nous nous sommes donnés du mal pour y arriver ! Finalement nosu revenons de notre escapade. En prenant notre temps dans la descente, comme la veille. Pour ne pas faire d'erreur. Aucune honte à être lent, à étudier le meilleur chemin avant de s'engager ou à s'asseoir pour faciliter le passage. Nous atteignons finalement nos sacs et faisons une pause goûter. Nous trouvons un moyen un peu plus simple de redescendre ensuite.",
+					"Nous voilà en bas de la montagne, sur les rochers. Je prends une photo ; c'est mieux de la prendre après coup. Comme des enfants, nous jouons à repérer les coquillages et les crabes dans les rochers. Il y en a plein ! Finalement nous nous dirigeons vers l'autre côté de l'île. Ah, il y aurait eu une autre randonnée sympa à faire ici...je note. Nous montons sur une petite bute derrière les maisons, qui donne vue sur un petit fjord et sur Røst. En redescendant nous nous dirigeons tranquillement vers le ferry...et le terme de notre périple.",
+					"Le lieu d'embarquement est désert. Une voiture était là à l'instant mais s'en est allée. Pas l'ombre d'un ferry ni indice de son arrivée. Nous commençons à nous inquiéter. Puis à franchement paniquer, sans se l'avouer les uns aux autres. Nous appelons le numéro d'information et tombons sur quelqu'un à l'intérieur du ferry qui nous dit être juste à l'extérieur du port. Alors seulement les voitures et les piétons commencent à arriver ; puis nous apercevons le ferry. Je regarde ma montre : il est parfaitement à l'heure, nous avons simplement eu peur car les précédents avaient toujours de l'avance ou des gens sur place pour nous informer. Nous montons à bord ; là encore il y aura peu de passagers.",
+					"Nous mangeons dans le ferry avant de nous endormir. Les Lofoten ont vite disparu derrière, dans leur plafond de nuages. Mais le spectacle de la côté qui s'approche est plus beau à chaque réveil. Nous allons vers cette bande de beau temps que nous voyons ce matin...bientôt il n'y a plus un nuage. D'ailleurs, la mer est très calme.",
+					"Après avoir pleinement profité du soleil sur les montagnes, révélant les reliefs ou faisant des montagnes des ombres par couches successives, nous arrivons à Bodø. Nous accostons ; et nous voilà en ville pour six heures. Nous allons nous asseoir près du port, au soleil, pendant une heure. Nous allons ensuite sur la jetée admirer le soleil sur la mer. Nous allons ensuite vers le centre ville où nous nous arrêtons un moment. Il n'y a pas grand chose dans cette ville. Les sacs se font lourds ; les consignes à la gare étaient trop chères.",
+					"Nous réussissons à patienter suffisamment pour aller manger dans une pizzeria. Nous y restons le plus longtemps possible, au chaud. En sortant, nous jouons à un jeu lumineux dans la rue. Il y a plusieurs modes, notamment pour apprendre aux enfants à compter ou à ranger dans l'ordre alphabétique. Mais le plus drôle est le jeu qui consiste à choisir une couleur et à la toucher quand elle apparaît ; on dispose d'un temps imparti de plus en plus court pour courir jusqu'au plot où elle s'affiche. Nous nous prenons au jeu, riant. Cela nous réchauffe de courir !",
+					"Finalement, nous nous dirigeons tranquillement vers la gare. Le train est là mais fermé ; nous y entrons dès l'ouverture des portes. Nous ne respectons pas nos places cette fois ; mais la contrôleuse nous demande de le faire car celles que nous avons choisies sont prises. Nous nous séparons donc ; peu importe puisqu'il faut dormir."
+				],
+				images: [
+					{
+						image: "img/033/day033_01.JPG",
+						legend: "",
+					},
+
+				]
+			},
+			{
+				id: "34",
+				title: "De Bodø à Trondheim",
+				date: "Nuit du 9 au 10 octobre",
+				html: [
+					"Avec la fatigue du voyage, il est bien moins difficile de dormir. Même si cela reste par intermittence. Comme à l'aller, les contrôleurs sont aux petits soins, réveillant les gens avant leur arrêt et passant et repassant dans le train. Le jour finit par se lever. Le spectacle n'est pas aussi beau, mais c'est quand même sympa de voir le soleil se lever sur les alentours de Trondheim.",
+					"Malheureusement il n'y a pas de bus aussi tôt un dimanche matin. Nous rentrons à pied. Trondheim se réveille. Les rues sont désertes. Le soleil se lève, illuminant les maisons de couleurs chaudes. Les vitrines restées allumées toute la nuit sont pathétiques et brillent par leur inutilité en ce dimanche matin. Les panneaux semble eux aussi hors propos. Revoir des endroits connus sous cette lumière est génial. L'herbe sur le bord des routes est gelée.",
+					"Nous faisons un léger détour pour éviter la terrible côte de Moholt. Assez de montées pour un moment. Le sac fait vraiment mal au dos maintenant. Arrivés chez nous, nous nous séparons pour une douche et un repos bien mérités. Il va falloir un sas pour revenir doucement à la réalité, après un tel dépaysement et une présence en permanence. L'appartement est dans un état déplorable, conformément au mail de contrôle du nettoyage que j'ai reçu, mais tant pis. Je vais me reposer et m'endors, apaisée."
+				],
+				images: [
+					{
+						image: "img/034/day034_01.jpg",
+						legend: "Les premières lumières du soleil...",
+					},
+					{
+						image: "img/034/day034_02.jpg",
+						legend: "Les fjords autour de Trondheim.",
+					},
+					{
+						image: "img/034/day034_03.jpg",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_04.jpg",
+						legend: "Le port.",
+					},
+					{
+						image: "img/034/day034_05.jpg",
+						legend: "Le place centrale, à l'angle de Kongens (rue du roi) et Prinsens (rue du prince). La figure et les marques au sol forment un cadran solaire.",
+					},
+					{
+						image: "img/034/day034_06.jpg",
+						legend: "Cette vue bien connue.",
+					},
+					{
+						image: "img/034/day034_07.jpg",
+						legend: "Une partie de la colline prend de superbe couleurs.",
+					},
+					{
+						image: "img/034/day034_08.jpg",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_09.jpg",
+						legend: "",
 					}
 				]
 			}
