@@ -1604,7 +1604,7 @@
 					"",
 					"Mon réveil m'aide à sortir du lit vers dix heures. Il fait plutôt beau, ce qui est de bonne augure pour la randonnée. On s'occupe des réservations Airbnb avec Maxime, on se sentira mieux quand tout sera prêt. Le temps en profite pour tourner ; il pleut des trombes d'eau. Je commence à hésiter, après tout j'ai beaucoup de choses à faire... Mais miraculeusement un rayon de soleil perce vers midi. Je me prépare à toute vitesse pour être dans les temps. Je m'habille quand même pour la pluie, au cas où.",
 					"En sortant de chez moi, j'ai la même sensation qu'au ski, quand on sent le froid qui nous attrape au visage mais qu'on est par aileurs très protégé. Je prends le bus et descend près du parc où est le point de rendez-vous ; j'espère trouver facilement. Je repère vite le groupe et me joins à eux. Un iranien que j'ai rencontré au cours de West Coast Swing est là et me présente un ami brésilien. Ma buddy est là aussi, mais on ne se parlera presque pas du parcours. La pluie a repris, espérons que ça cesse.",
-					"Après quelques minutes d'attente, la pluie s'arrête, comme ne cessait de le prédire les norvégiens. Nous nous mettons en route. Quelques minutes plus tard à peine, nous longeons déjà un cours d'eau ; on semble avoir juste quitté la ville et la nature est pourtant déjà là. Cela monte beaucoup ; je peine un peu et me retrouve vite à l'arrière du groupe. Mais je ne suis pas trop loin et les organisateurs sont indulgents ; ils savent bien qu'un événement ouvert à tous suppose d'attendre tout le monde. Et ils me rassurent en me disant que la première partie est la plus difficile.",
+					"Après quelques minutes d'attente, la pluie s'arrête, comme ne cessait de le prédire les norvégiens. Nous nous mettons en route, direction Geitfjellet ! Quelques minutes plus tard à peine, nous longeons déjà un cours d'eau ; on semble avoir juste quitté la ville et la nature est pourtant déjà là. Cela monte beaucoup ; je peine un peu et me retrouve vite à l'arrière du groupe. Mais je ne suis pas trop loin et les organisateurs sont indulgents ; ils savent bien qu'un événement ouvert à tous suppose d'attendre tout le monde. Et ils me rassurent en me disant que la première partie est la plus difficile.",
 					"Nous nous retrouvons vite en pleine forêt. Nous avions été avertis que le chemin serait boueux, mais je ne pensais pas à ce point ! Au début il faut encore beaucoup monter, après ça va effectivement un peu mieux. Les guides s'arrêtent de temps en temps pour attendre tout le monde. A mi-parcours, il faut presque escalader des roches pour bénéficier de la vue. On fait une courte pause, juste le temps de boire un peu et de prendre quelques photos. Redescendus de ce promontoire, nous continuons notre route. Le terrain se fait plus humide encore. Cela m'importait peu au début puisque mes chaussures ne craignent pas l'eau, mais là les pieds s'enfoncent ; il faut apprendre vite à repérer les pierres, branches et racines pour s'appuyer. Les norvégiens sont très à l'aise pour ça ! D'ailleurs, nous croisons beaucoup de marcheurs, y compris des enfants et des personnes assez âgées, qui se promènent sur ce chemin loin d'être facile. Il y a même des coureurs !",
 					"A un moment, nous arrivons face à une zone marécageuse. Je repère une branche sur laquelle je pense pouvoir traverser, mais il me faut faire un pas pour l'atteindre. Une fille derrière moi pousse un cri quand ma jambe gauche s'enfonce jusqu'au genou. Une norvégienne me dit de revenir, mais en faisant un pas en arrière c'est mon autre jambe qui se retrouve prise. Je ne panique pas une seconde, puisque c'est parfaitement inutile, et accepte leur aide pour m'extirper de là. Ah tiens, mes chaussures ne sont pas imperméables par au-dessus...et l'eau va rester à l'intérieur maintenant. Hormis cette frayeur, le reste du parcours se passe sans encombre. Des pontons en bois sont installés par endroit pour permettre la traversée des zones trop humides, indiquées par une végétation jaune et une absence d'arbres. Zones magnifiques par ailleurs. Il faut encore presque escalader pour arriver au sommet. Mais on est largement récomposé de ses efforts tant la vue est superbe. Nous en profitons, ainsi que du soleil, pendant un moment. Chacun se restaure avant que nous fassions une photo de groupe. Quand on commence à se refroidir, c'est qu'il est temps de repartir.",
 					"La descente est beaucoup plus facile et sera faite d'une traite. Il faut juste est très prudent car tout glisse. Il fait aussi plus froid. La dernière partie descend beaucoup, cela la rend plus dangereuse mais cela me fait aussi réaiser que c'était vraiment le plus difficile à l'aller. On retrouve vite la ville et tout le monde se sépare. Je comptais prendre le bus pour rentrer me reposer au plus vite, mais les deux gars rencontrés au début proposent d'aller dans un café et cela me semble une bonne idée.",
@@ -1709,8 +1709,43 @@
 						legend: "Je ne m'en lasse pas.",
 					},
 					{
-						image: "img/027/day027_25.jpg",
+						image: "img/027/day027_25.JPG",
 						legend: "Pas d'aurores...mais les étoiles !",
+					}
+				]
+			},
+			{
+				id: "29",
+				title: "Juste avant de partir",
+				date: "4, 5 octobre",
+				html: [
+					"Le réveil sonne à sept heures. Au moins bingt minutes après, il s'immisce dans mon rêve, qui pourtant refuse de finir. Une histoire loufoque de maîtrise de taureau et de communication en langage des signes entre mon coloc allemand et des élèves de l'ENSEA. Je finis par sortir du rêve, mais mes yeux refuse de s'ouvrir. Le reste de mon corps non plus ne veut pas bouger. Au prix d'un terrible effort, je cherche mon portable sur le sol en tatônnant avec mon bras. Je me force à ouvrir les yeux pour constater qu'il es t sept heures quarante. Il me faudra en quelques longues minutes pour que mon corps sorte de sa paralysie. Bonjour hypersomnie, tu as bien dormi ? Apparemment oui...",
+					"Le TP d'aujourd'hui n'est pas trop difficile. Après manger, je me remets à mes devoirs et oh surprise, réussis une nouvelle fois en moins d'une heure ce sur quoi j'avais bloqué la fois précédente. La fin de l'après-midi me sera fatale en revanche : après que mon ordinateur ait cherché en vain le fichier 'sssssssssssssssss' (et encore, il y en avait bien plus) à cause de la touche sur laquelle je m'étais assoupie, je finis par m'endormir complètement. D'un sommeil profond qui ne me libèrera que deux heures plus tard. Heureusement que j'ai fini l'essentiel de mes préparatifs et que j'aurai encore un peu de temps demain ; c'est très énervant de perdre deux heures pour rien. Les aurores sont probables ce soir mais apparemment je ne verrais rien, je ne suis pas productive côté travail le soir... Autant rédiger les journées précédentes riches en activité !"
+				],
+				images: [
+					{
+						image: "img/028/day028_01.jpg",
+						legend: "Oui je sais, c'est inintéressant, mais il faisait tellement beau ce matin que j'avais envie d'immortaliser ce moment.",
+					},
+					{
+						image: "img/028/day028_02.jpg",
+						legend: "Expérience culinaire n°47 : C'est écrit 'la meilleure pizza au pepperoni de Norvège'. Ce n'est tellement pas le cas que j'ai dû ajouter du ketchup.",
+					},
+					{
+						image: "img/028/day028_03.jpg",
+						legend: "Expérience culinaire n°48 : Comment se fait-il que je n'ai pas découvert ce gâteau à l'amande avant ?",
+					},
+					{
+						image: "img/028/day028_04.jpg",
+						legend: "Expérience culinaire n°49 : Wienerbrød, le dernier de la série. Pour conclure, je préfère la pâte feuilletée à l'aspect beignet.",
+					},
+					{
+						image: "img/028/day028_05.JPG",
+						legend: "Expérience culinaire n°50 : Le retour de la canelle.",
+					},
+					{
+						image: "img/028/day028_06.JPG",
+						legend: "Expérience culinaire n°51 : Alpen, ah ah ah. Ces barres seront utiles pour notre excursion.",
 					}
 				]
 			}
