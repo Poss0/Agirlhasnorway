@@ -1720,7 +1720,9 @@
 				date: "4, 5 octobre",
 				html: [
 					"Le réveil sonne à sept heures. Au moins bingt minutes après, il s'immisce dans mon rêve, qui pourtant refuse de finir. Une histoire loufoque de maîtrise de taureau et de communication en langage des signes entre mon coloc allemand et des élèves de l'ENSEA. Je finis par sortir du rêve, mais mes yeux refuse de s'ouvrir. Le reste de mon corps non plus ne veut pas bouger. Au prix d'un terrible effort, je cherche mon portable sur le sol en tatônnant avec mon bras. Je me force à ouvrir les yeux pour constater qu'il es t sept heures quarante. Il me faudra en quelques longues minutes pour que mon corps sorte de sa paralysie. Bonjour hypersomnie, tu as bien dormi ? Apparemment oui...",
-					"Le TP d'aujourd'hui n'est pas trop difficile. Après manger, je me remets à mes devoirs et oh surprise, réussis une nouvelle fois en moins d'une heure ce sur quoi j'avais bloqué la fois précédente. La fin de l'après-midi me sera fatale en revanche : après que mon ordinateur ait cherché en vain le fichier 'sssssssssssssssss' (et encore, il y en avait bien plus) à cause de la touche sur laquelle je m'étais assoupie, je finis par m'endormir complètement. D'un sommeil profond qui ne me libèrera que deux heures plus tard. Heureusement que j'ai fini l'essentiel de mes préparatifs et que j'aurai encore un peu de temps demain ; c'est très énervant de perdre deux heures pour rien. Les aurores sont probables ce soir mais apparemment je ne verrais rien, je ne suis pas productive côté travail le soir... Autant rédiger les journées précédentes riches en activité !"
+					"Le TP d'aujourd'hui n'est pas trop difficile. Après manger, je me remets à mes devoirs et oh surprise, réussis une nouvelle fois en moins d'une heure ce sur quoi j'avais bloqué la fois précédente. La fin de l'après-midi me sera fatale en revanche : après que mon ordinateur ait cherché en vain le fichier 'sssssssssssssssss' (et encore, il y en avait bien plus) à cause de la touche sur laquelle je m'étais assoupie, je finis par m'endormir complètement. D'un sommeil profond qui ne me libèrera que deux heures plus tard. Heureusement que j'ai fini l'essentiel de mes préparatifs et que j'aurai encore un peu de temps demain ; c'est très énervant de perdre deux heures pour rien. Les aurores sont probables ce soir mais apparemment je ne verrais rien, je ne suis pas productive côté travail le soir... Autant rédiger les journées précédentes riches en activité !",
+					"",
+					"Mardi, c'est le jour du grand départ. La journée se déroule normalement et le TP se passe plutôt dans la bonne humeur. Nous aboutissons à une heure décente, ce qui me permet d'aller aider le groupe de Security Software pour notre devoir commun, puis de m'éclipser en ville recharger ma carte SIM en vue du voyage. A mon retour des amis de Pascal sont là, mais je risque de ne pas beaucoup les voir !"
 				],
 				images: [
 					{
@@ -1740,12 +1742,20 @@
 						legend: "Expérience culinaire n°49 : Wienerbrød, le dernier de la série. Pour conclure, je préfère la pâte feuilletée à l'aspect beignet.",
 					},
 					{
-						image: "img/028/day028_05.JPG",
+						image: "img/028/day028_05.jpg",
 						legend: "Expérience culinaire n°50 : Le retour de la canelle.",
 					},
 					{
-						image: "img/028/day028_06.JPG",
+						image: "img/028/day028_06.jpg",
 						legend: "Expérience culinaire n°51 : Alpen, ah ah ah. Ces barres seront utiles pour notre excursion.",
+					},
+					{
+						image: "img/028/day028_07.jpg",
+						legend: "Oh allez, l'interface est jolie, vous oublierez bien les spaghetti !",
+					},
+					{
+						image: "img/028/day028_08.jpg",
+						legend: "C'était par terre devant l'arrêt de bus. C'est un compliment. Il ne m'était pas adressé, mais ça donne toujours le sourire de voir des trucs comme ça.",
 					}
 				]
 			}
