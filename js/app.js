@@ -1969,9 +1969,184 @@
 				images: [
 					{
 						image: "img/031/day031_01.JPG",
+						legend: "Sacrée vue au lever !",
+					},
+					{
+						image: "img/031/day031_02.JPG",
+						legend: "Ah ces nuages collés au sommet des montagnes...",
+					},
+					{
+						image: "img/031/day031_03.JPG",
+						legend: "'Allez allez, on y va !'",
+					},
+					{
+						image: "img/031/day031_04.JPG",
+						legend: "Ce serait incroyable d'habiter là non ?",
+					},
+					{
+						image: "img/031/day031_05.JPG",
 						legend: "",
 					},
-
+					{
+						image: "img/031/day031_06.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_07.JPG",
+						legend: "Un tout petit musée près de l'arrêt de bus !",
+					},
+					{
+						image: "img/031/day031_08.JPG",
+						legend: "Dans le bus, on découvre encore plus de beaux paysages.",
+					},
+					{
+						image: "img/031/day031_09.JPG",
+						legend: "Mais dites-moi, c'est magnifique cet endroit ! Ne vous inquiétez pas, on y reviendra...",
+					},
+					{
+						image: "img/031/day031_10.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_11.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_12.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_13.JPG",
+						legend: "Début de la balade ! Enfin, plus exactement, après plus d'une heure à trouver un moyen d'arriver jusque-là. Le plus dur de la matinée est passé !",
+					},
+					{
+						image: "img/031/day031_14.JPG",
+						legend: "Le paysage est très vert ici.",
+					},
+					{
+						image: "img/031/day031_15.JPG",
+						legend: "Antoine prend de l'avance.",
+					},
+					{
+						image: "img/031/day031_16.JPG",
+						legend: "On commence à avoir une vue sympa.",
+					},
+					{
+						image: "img/031/day031_17.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_18.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_19.JPG",
+						legend: "Maxime défie les animaux de son appareil photo...",
+					},
+					{
+						image: "img/031/day031_20.JPG",
+						legend: "Et voilà sa photo !",
+					},
+					{
+						image: "img/031/day031_21.JPG",
+						legend: "Expérience culinaire n°52 : Un roulé 'taco'. Pas mal comme invention !",
+					},
+					{
+						image: "img/031/day031_22.JPG",
+						legend: "Allez, c'est reparti ! Cette fois c'est Maxime le premier...",
+					},
+					{
+						image: "img/031/day031_23.JPG",
+						legend: "...Antoine plus loin...",
+					},
+					{
+						image: "img/031/day031_24.JPG",
+						legend: "...et je suis quelque part au milieu !",
+					},
+					{
+						image: "img/031/day031_25.JPG",
+						legend: "On a atteint un point plus haut. On voit un peu moins bien de ce côté mais...",
+					},
+					{
+						image: "img/031/day031_26.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_27.JPG",
+						legend: "...on voit de l'autre en même temps !",
+					},
+					{
+						image: "img/031/day031_28.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_29.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_30.JPG",
+						legend: "Dans cette deuxième partie, la végétation change. Le vert laisse place aux arbres hivernaux, qui précèdent les marécages puis la forêt...",
+					},
+					{
+						image: "img/031/day031_31.JPG",
+						legend: "Mais qu'est-ce que c'est ?",
+					},
+					{
+						image: "img/031/day031_32.JPG",
+						legend: "A priori, une rampe de saut à ski.",
+					},
+					{
+						image: "img/031/day031_33.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_34.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_35.JPG",
+						legend: "La végétation dans laquelle nous allons nous lancer maintenant ressemble un peu à celle d'en face, avec ses arbres orangés. Le lac semle proche et pourtant, on est bien loin de l'atteindre !",
+					},
+					{
+						image: "img/031/day031_36.JPG",
+						legend: "Une fois en bas, on se balade autour d'un fjord plutôt sympa...",
+					},
+					{
+						image: "img/031/day031_37.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_38.JPG",
+						legend: "Chien ou phoque ? Le mystère subsiste...",
+					},
+					{
+						image: "img/031/day031_39.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_40.JPG",
+						legend: "Là encore, sacré endroit pour habiter !",
+					},
+					{
+						image: "img/031/day031_41.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_42.JPG",
+						legend: "",
+					},
+					{
+						image: "img/031/day031_43.JPG",
+						legend: "Le lac, enfin !",
+					},
+					{
+						image: "img/031/day031_44.JPG",
+						legend: "L'appartement est une nouvelle fois une partie de la maison et très agréable.",
+					},
+					{
+						image: "img/031/day031_45.JPG",
+						legend: "On a même chacun un chocolat en forme de coeur !",
+					}
 				]
 			},
 			{
