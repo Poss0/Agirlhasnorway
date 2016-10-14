@@ -1935,14 +1935,18 @@
 					},
 					{
 						image: "img/030/day030_23.JPG",
-						legend: "...puis dans le ferry.",
+						legend: "...puis dans le ferry...",
 					},
 					{
 						image: "img/030/day030_24.JPG",
-						legend: "Antoine s'attaque à la cuisson des spaghetti.",
+						legend: "...pour tout le monde !",
 					},
 					{
 						image: "img/030/day030_25.JPG",
+						legend: "Antoine s'attaque à la cuisson des spaghetti.",
+					},
+					{
+						image: "img/030/day030_26.JPG",
 						legend: "L'endroit est plutôt 'cosy' comme ils aiment dire ici !",
 					}
 				]
