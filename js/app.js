@@ -1811,10 +1811,22 @@
 					},
 					{
 						image: "img/029/day029_10.jpg",
-						legend: "Waouh.",
+						legend: "Difficile de rendre compte de la beauté du lieu avec des photos.",
 					},
 					{
 						image: "img/029/day029_11.jpg",
+						legend: "Encore un peu de neige...",
+					},
+					{
+						image: "img/029/day029_12.JPG",
+						legend: "Et encore un peu de lever de soleil !",
+					},
+					{
+						image: "img/029/day029_13.jpg",
+						legend: "Waouh.",
+					},
+					{
+						image: "img/029/day029_14.jpg",
 						legend: "Notre train à l'arrivée en gare de Bodø !",
 					}
 				]
