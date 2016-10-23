@@ -1963,7 +1963,7 @@
 					"En contnuant nous comprenons la raison d'être des clotûres : des sons de cloches révèlent la présence de brebis. Elles sont postées là, à nous regarder ; nous ou le paysage peut-être. Nous leur faisons peur en arrivant et nous installons à leur place, meilleure vue sur Leknes et son fjord. Nous en profitons pour faire notre pause repas.",
 					"Avant de trop nous refroidir, nous repartons. Cette partie de la marche est beaucoup plus simple mais ne semble jamais finir ; un sommet en cache toujours un autre ! Finalement nous arrivons quand même au point le plus haut, qui nous permet de voir à la fois Leknes et Storfjord de l'autre côté. Le ciel est gris mais la vue n'en n'est pas moins belle.",
 					"Nous décidons de continuer notre route en direction de Storfjord, qui était notre objectif de départ. Nous dévions un peu de notre trajectoire pour s'approcher d'une rampe de saut à ski désafectée. Ensuite, la couleur orangée caractéristique des marécages nous annonce que nous n'allons pas pouvoir continuer tout droit. Nous sommes obligés de contourner la zone en marchant près des arbres pour ne pas risquer de nous enfoncer. Malheureusement cela nous éloigne de la route que nous suivons de haut et nous nous retrouvons dans un milieu boisé. Nous descendons un peu à l'aveuglette. A notre gauche se trouve maintenant un dense forêt. Maxime tient à ce que nous remontions un peu pour la contouner par la gauche, nous rapprochant de la route. Ce faisant, nous croisons à nouveau des moutons et enjambons une dernière clotûre.",
-					"Nous entendons de nouveau la route au loin. Nous ne sommes donc plus perdus, mais nous ne pouvons pas aller tout droit 'sans corde pou faire du rappel', comme dit Antoine. Il nous faut là encore remonter pour trouver une pente plus douce. Finalement, nous traversons une portion de forêt qui nous amène directement sur le bord de la route, au risque d'effrayer les véhicules. Nous décidons de descendre la route jusqu'à un lac, mais il n'est pas accessible. Une pause goûter dans un arrêt de bus me permet de consulter les horaires ; il y en a un dans peu de temps. Nous partons donc à pied vers un fjord ; d'en bas aussi le paysage est beau. Antoine croit apercevoir un phoque ; c'est possible ici après tout. Sur ma photo, cela ressemble beaucoup à un chien.",
+					"Nous entendons de nouveau la route au loin. Nous ne sommes donc plus perdus, mais nous ne pouvons pas aller tout droit 'sans corde pour faire du rappel', comme dit Antoine. Il nous faut là encore remonter pour trouver une pente plus douce. Finalement, nous traversons une portion de forêt qui nous amène directement sur le bord de la route, au risque d'effrayer les véhicules. Nous décidons de descendre la route jusqu'à un lac, mais il n'est pas accessible. Une pause goûter dans un arrêt de bus me permet de consulter les horaires ; il y en a un dans peu de temps. Nous partons donc à pied vers un fjord ; d'en bas aussi le paysage est beau. Antoine croit apercevoir un phoque ; c'est possible ici après tout. Sur ma photo, cela ressemble beaucoup à un chien.",
 					"Nous finissons par faire demi-tour pour attendre le bus. Le prenons et marchons jusqu'au Rema pour acheter le repas du soir et du lendemain. Nous arrivons plus tôt qu'annoncé à notre logement mais notre hôte est là, et elle est adorable. Là encore l'appartement est une partie du rez-de-chaussée de la maison. Tout est propre et rangé, il y a même un chocolat sur le lit de chacun, et du thé et du café à disposition ! Il n'y a pas vraiment de quoi cuisiner, mais notre hôte nous ayant vu arriver avec nos pizzas surgelées, elle les emmène chez elle et nous les rapporte une fois cuites. Sacré service ! Nous nous couchons là encore pas trop tard après avoir repéré quoi faire le lendemain...et ce ne sera pas rien !"
 				],
 				images: [
@@ -2151,7 +2151,7 @@
 			},
 			{
 				id: "32",
-				title: "De Leknes à Vaerøy (en passant par Ramberg, Reine et Sørvagen)",
+				title: "De Leknes à Ramberg",
 				date: "8 octobre",
 				html: [
 					"Cette fois c'est à sept heures que nous nous levons pour sortir de la maison à huit. Nous prenons le bus de huit heures et demie à l'endroit où les précédents nous ont déposé la veille. Nous retournons vers le Sud et les paysages que nous avions traversé à l'aller.",
@@ -2159,21 +2159,162 @@
 					"Après quelques photos, et la rencontre d'un lapin mort mais intact, nous récupérons nos sacs et décidons de monter plus haut sur l'autre partie de la montagne. Nous prenons un premier chemin qui ne monte pas trop, mais il s'arrête sur un pierrier vertigineux. Nous reroussons chemin pour en prendre un second. Celui-ci aussi s'arrête, bien qu'un peu plus haut. Nous montons donc comme nous pouvons jusqu'au chemin encore au-dessus. Il ne faut vraiment pas regarder en bas cette fois. Ni tomber, de préférence. Enfin nous voyons Ramberg et les environs. Nous prenons le temps d'admirer. Il y a une petite crête sur laquelle il est évident que des gens sont allés, mais ça nous semble un peu trop dangereux. Nous ne disposons plus non plus d'assez de temps pour continuer en espérant voir plus ; c'est le bon moment pour faire demi-tour.",
 					"Avant d'atteindre l'endroit de notre première pause, un grand rapace nous survole. Les garçons pensent que c'est un aigle. Nous sommes derrière une butte et ne le voyons pas faire, mais quand nous arrivons, le lapin n'est plus aussi intact qu'au départ. Après une dissection visuelle et une mise en abîme photograpique du lapin mort, nous poursuivons notre route. Nous avons prévu beaucoup de temps pour descendre ; ça ne va pas être simple. Nous nous mettons d'accord : nous nous espaçons, chacun prend son temps, va à son rythme. Le sol est pentu et glissant ; il faut assurer ses pieds, les poser perpendiculairement à la pente. On est vite emporté par le poids de son sac ; il faut être très méfiant. Les garçons me distancent un peu mais m'attendent en bas. Je glisse plusieurs fois mais je suis sur mes gardes et le fait de s'attendre à une chute évite de s'y faire mal. Nous sommes descendus beaucoup plus vite que prévu et disposons donc d'une heure pour manger tranquillement. Nous optons sur la plage.",
 					"Il n'y a pas meilleur repas que celui qu'on sait mériter. On a vraiment faim et on apprécie ce moment. Il fait plutôt beau ; ce sont les montagnes qui cachaient le soleil jusque-là, mais le voilà qui commence à passer au dessus. Nous allons tremper nos pieds dans la mer ; au-dessus du cercle polaire ! C'est tellement froid que c'en est paralysant. Nous prenons quelques photos promotionnelles pour l'ENSEA puis repartons à la station essence attendre le bus.",
+				],
+				images: [
+					{
+						image: "img/032/day032_01.jpg",
+						legend: "Le lever du soleil à Leknes.",
+					},
+					{
+						image: "img/032/day032_02.JPG",
+						legend: "Déjà de magnifiques paysages aujourd'hui dans le bus !",
+					},
+					{
+						image: "img/032/day032_03.JPG",
+						legend: "",
+					},
+					{
+						image: "img/032/day032_04.jpg",
+						legend: "C'est aride, on ne se croirait pas en Norvège !",
+					},
+					{
+						image: "img/032/day032_05.jpg",
+						legend: "",
+					},
+					{
+						image: "img/032/day032_06.jpg",
+						legend: "",
+					},
+					{
+						image: "img/032/day032_07.JPG",
+						legend: "A peine arrivés à Ramberg, on grimpe déjà ! Ce réservoir d'eau nous a servi à repérer le chemin.",
+					},
+					{
+						image: "img/032/day032_08.JPG",
+						legend: "Ca grimpe dur !",
+					},
+					{
+						image: "img/032/day032_09.JPG",
+						legend: "De l'autre côté, une bonne surprise nous attend !",
+					},
+					{
+						image: "img/032/day032_10.JPG",
+						legend: "Il y a encore de quoi faire...",
+					},
+					{
+						image: "img/032/day032_11.JPG",
+						legend: "Le premier chemin s'arrête là, avec vue sur la plage.",
+					},
+					{
+						image: "img/032/day032_12.JPG",
+						legend: "",
+					},
+					{
+						image: "img/032/day032_13.JPG",
+						legend: "",
+					},
+					{
+						image: "img/032/day032_14.JPG",
+						legend: "",
+					},
+					{
+						image: "img/032/day032_15.JPG",
+						legend: "Deuxième chemin, pas possible de continuer non plus, on est au pied d'un gouffre !",
+					},
+					{
+						image: "img/032/day032_16.JPG",
+						legend: "Le troisième et dernier chemin que nous prendrons nous mène encore plus haut ! Bon, on ne s'aventurera pas sur cette crête.",
+					},
+					{
+						image: "img/032/day032_17.jpg",
+						legend: "",
+					},
+					{
+						image: "img/032/day032_18.jpg",
+						legend: "Des gens sont passés par là !",
+					},
+					{
+						image: "img/032/day032_19.JPG",
+						legend: "Mise en abîme du lapin : 1",
+					},
+					{
+						image: "img/032/day032_20.jpg",
+						legend: "Mise en abîme du lapin : 2",
+					},
+					{
+						image: "img/032/day032_21.jpg",
+						legend: "Mise en abîme du lapin : 3",
+					},
+					{
+						image: "img/032/day032_22.jpg",
+						legend: "Des structures pour faire sécher le poisson... Ca sent jusqu'ici !",
+					},
+					{
+						image: "img/032/day032_23.jpg",
+						legend: "Les gars m'ont un peu semée.",
+					},
+					{
+						image: "img/032/day032_24.jpg",
+						legend: "Vous voyez toujours le réservoir...donc on a attaqué la montagne par là !",
+					},
+					{
+						image: "img/032/day032_25.jpg",
+						legend: "",
+					},
+					{
+						image: "img/032/day032_26.jpg",
+						legend: "C'était même indiqué.",
+					},
+					{
+						image: "img/032/day032_27.jpg",
+						legend: "Alerte à Ramberg !",
+					},
+					{
+						image: "img/032/day032_28.jpg",
+						legend: "Les pieds presque dans l'eau au-dessus du cercle polaire !",
+					},
+					{
+						image: "img/032/day032_29.jpg",
+						legend: "Les pieds DANS l'eau au-dessus du cercle polaire !",
+					},
+					{
+						image: "img/032/day032_30.jpg",
+						legend: "Eh ! Je ne sens plus mes pieds...",
+					},
+					{
+						image: "img/032/day032_31.jpg",
+						legend: "Le soleil est passé au dessus de la montagne, c'est le moment idéal pour faire un peu de pub.",
+					},
+					{
+						image: "img/032/day032_32.JPG",
+						legend: "Selfie !",
+					},
+					{
+						image: "img/032/day032_33.jpg",
+						legend: "En attendant le bus...",
+					}
+				]
+			},
+			{
+				id: "33",
+				title: "De Ramberg à Vaerøy (en passant par Reine et Sørvagen)",
+				date: "8 octobre",
+				html: [
 					"C'est la première fois que le bus est en retard, mais de peu. Nous arrivons à Reine à quatorze heures après avoir traversé le fjord en bus. C'est sans aucun doute possible le plus bel endroit du voyage. Et il fait incroyablement beau pour un mois d'octobre ; pas un nuage à l'horizon. 'Au Nord vais-je, là où brille le soleil...' Antoine et moi avons repéré une randonnée très célèbre mais déconseillée pour sa difficulté et sa dangerosité en l'état actuel. Nous comprenons en voyant la-dite montagne que cela ne sera probablement pas pour cette fois. Nous allons voir le début du chemin par acquis de conscience mais décidons qu'il n'est pas raisonnable de tenter le coup. Nous avons de lourds sacs, la fatigue d'une randonnée difficile ce matin, et la montée se fait cachée du fjord et du soleil ; si nous n'arrivons pas au bout nous ne serons recompensée d'aucune vue sur le lieu. Nous trouvons cependant largement de quoi nous balader dans les environs pendant les quelques heures dont nous disposons. Je réalise avec bonheur que je vois certainement parmi les plus beaux paysages de ma vie.",
-					"au moment de reprendre le bus vers Moskenes, où nous reprenons le ferry, question : faut-il plutôt aller là-bas ou au restaurant à Sørvagen ? Pas sûr qu'il y ait quoi que ce soit pour manger ou attendre à Moskenes, et nous avons plusieurs heures à occuper...dans la nuit et le froid. Sur les indications d'une vendeuse de Reine, nous descendons quand même à Moskenes où se trouve une brasserie au camping. Cependant sur place, elle se révèle fermée ; on est hors-saison. il ne nous reste plus qu'à marcher jusqu'à Sørvagen, faisant ainsi une boucle dans notre voyage. Nous mangeons dans un restaurant gastronomique réputé, 'Maren Anna'. Il nous est demandé de laisser nos sacs à l'entrée, de toute façon il n'y a pas de vol en Norvège. Le serveur finit par percer notre accent français et révéler qu'il l'est lui aussi. Il a d'abord habité à Oslo avant d'opter pour ce lieu il y a six ans, qui lui permet de pratiquer le surf tous les jours. 'J'ai pas choisi le métier, j'ai choisi les à-côté'...voilà qui fait rêver. Le repas est cher mais super bon.",
+					"Au moment de reprendre le bus vers Moskenes, où nous reprenons le ferry, question : faut-il plutôt aller là-bas ou au restaurant à Sørvagen ? Pas sûr qu'il y ait quoi que ce soit pour manger ou attendre à Moskenes, et nous avons plusieurs heures à occuper...dans la nuit et le froid. Sur les indications d'une vendeuse de Reine, nous descendons quand même à Moskenes où se trouve une brasserie au camping. Cependant sur place, elle se révèle fermée ; on est hors-saison. il ne nous reste plus qu'à marcher jusqu'à Sørvagen, faisant ainsi une boucle dans notre voyage. Nous mangeons dans un restaurant gastronomique réputé, 'Maren Anna'. Il nous est demandé de laisser nos sacs à l'entrée, de toute façon il n'y a pas de vol en Norvège. Le serveur finit par percer notre accent français et révéler qu'il l'est lui aussi. Il a d'abord habité à Oslo avant d'opter pour ce lieu il y a six ans, qui lui permet de pratiquer le surf tous les jours. 'J'ai pas choisi le métier, j'ai choisi les à-côté'...voilà qui fait rêver. Le repas est cher mais super bon.",
 					"Après un passage dans une supérette pour acheter le repas du midi suivant, nous retournons à Moskenes à pied. Je suis devant, lampe blanche sur le front. Antoine derrière, lumière clignotante rouge et bandes réféchissantes dans le dos. Prudence est mère de sureté, paraît-il. Le port est joli de nuit. Nous n'attendons pas trop avant de monter dans le ferry...qui est encore plus vide que la première fois. Le trajet est complètement de nuit et ne permet pas de voir quoi que ce soit, nous dormons un peu.",
 					"A notre arrivée, c'est cette fois une voiture blanche qui nous attend. Elle nous emmène à destination tout en nous montrant les lumières sur les montagnes pour nous conseiller où randonner demain. La nuit est claire, on voit plein d'étoiles. Les montagnes de nuit ont un aspect menaçant. Cette fois le logement est aménagé dans un grand hangar face à un bateau ; on dirait une habitation de pêcheur ! C'est un peu moins moderne que les précédents mais ça fait très typique et l'ambiance tamiée des lumières est agréable. Nous nous endormons bien vite après cette longue journée."
 				],
 				images: [
 					{
-						image: "img/032/day032_01.JPG",
+						image: "img/033/day033_01.JPG",
 						legend: "",
 					},
 
 				]
 			},
 			{
-				id: "33",
+				id: "34",
 				title: "De Vaerøy à Bodø",
 				date: "9 octobre",
 				html: [
@@ -2190,14 +2331,14 @@
 				],
 				images: [
 					{
-						image: "img/033/day033_01.JPG",
+						image: "img/034/day034_01.JPG",
 						legend: "",
 					},
 
 				]
 			},
 			{
-				id: "34",
+				id: "35",
 				title: "De Bodø à Trondheim",
 				date: "Nuit du 9 au 10 octobre",
 				html: [
@@ -2207,39 +2348,39 @@
 				],
 				images: [
 					{
-						image: "img/034/day034_01.jpg",
+						image: "img/035/day035_01.jpg",
 						legend: "Les premières lumières du soleil...",
 					},
 					{
-						image: "img/034/day034_02.jpg",
+						image: "img/035/day035_02.jpg",
 						legend: "Les fjords autour de Trondheim.",
 					},
 					{
-						image: "img/034/day034_03.jpg",
+						image: "img/035/day035_03.jpg",
 						legend: "",
 					},
 					{
-						image: "img/034/day034_04.jpg",
+						image: "img/035/day035_04.jpg",
 						legend: "Le port.",
 					},
 					{
-						image: "img/034/day034_05.jpg",
+						image: "img/035/day035_05.jpg",
 						legend: "Le place centrale, à l'angle de Kongens (rue du roi) et Prinsens (rue du prince). La figure et les marques au sol forment un cadran solaire.",
 					},
 					{
-						image: "img/034/day034_06.jpg",
+						image: "img/035/day035_06.jpg",
 						legend: "Cette vue bien connue.",
 					},
 					{
-						image: "img/034/day034_07.jpg",
+						image: "img/035/day035_07.jpg",
 						legend: "Une partie de la colline prend de superbe couleurs.",
 					},
 					{
-						image: "img/034/day034_08.jpg",
+						image: "img/035/day035_08.jpg",
 						legend: "",
 					},
 					{
-						image: "img/034/day034_09.jpg",
+						image: "img/035/day035_09.jpg",
 						legend: "",
 					}
 				]
