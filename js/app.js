@@ -2302,15 +2302,138 @@
 				html: [
 					"C'est la première fois que le bus est en retard, mais de peu. Nous arrivons à Reine à quatorze heures après avoir traversé le fjord en bus. C'est sans aucun doute possible le plus bel endroit du voyage. Et il fait incroyablement beau pour un mois d'octobre ; pas un nuage à l'horizon. 'Au Nord vais-je, là où brille le soleil...' Antoine et moi avons repéré une randonnée très célèbre mais déconseillée pour sa difficulté et sa dangerosité en l'état actuel. Nous comprenons en voyant la-dite montagne que cela ne sera probablement pas pour cette fois. Nous allons voir le début du chemin par acquis de conscience mais décidons qu'il n'est pas raisonnable de tenter le coup. Nous avons de lourds sacs, la fatigue d'une randonnée difficile ce matin, et la montée se fait cachée du fjord et du soleil ; si nous n'arrivons pas au bout nous ne serons recompensée d'aucune vue sur le lieu. Nous trouvons cependant largement de quoi nous balader dans les environs pendant les quelques heures dont nous disposons. Je réalise avec bonheur que je vois certainement parmi les plus beaux paysages de ma vie.",
 					"Au moment de reprendre le bus vers Moskenes, où nous reprenons le ferry, question : faut-il plutôt aller là-bas ou au restaurant à Sørvagen ? Pas sûr qu'il y ait quoi que ce soit pour manger ou attendre à Moskenes, et nous avons plusieurs heures à occuper...dans la nuit et le froid. Sur les indications d'une vendeuse de Reine, nous descendons quand même à Moskenes où se trouve une brasserie au camping. Cependant sur place, elle se révèle fermée ; on est hors-saison. il ne nous reste plus qu'à marcher jusqu'à Sørvagen, faisant ainsi une boucle dans notre voyage. Nous mangeons dans un restaurant gastronomique réputé, 'Maren Anna'. Il nous est demandé de laisser nos sacs à l'entrée, de toute façon il n'y a pas de vol en Norvège. Le serveur finit par percer notre accent français et révéler qu'il l'est lui aussi. Il a d'abord habité à Oslo avant d'opter pour ce lieu il y a six ans, qui lui permet de pratiquer le surf tous les jours. 'J'ai pas choisi le métier, j'ai choisi les à-côté'...voilà qui fait rêver. Le repas est cher mais super bon.",
-					"Après un passage dans une supérette pour acheter le repas du midi suivant, nous retournons à Moskenes à pied. Je suis devant, lampe blanche sur le front. Antoine derrière, lumière clignotante rouge et bandes réféchissantes dans le dos. Prudence est mère de sureté, paraît-il. Le port est joli de nuit. Nous n'attendons pas trop avant de monter dans le ferry...qui est encore plus vide que la première fois. Le trajet est complètement de nuit et ne permet pas de voir quoi que ce soit, nous dormons un peu.",
+					"Après un passage dans une supérette pour acheter le repas du midi suivant, nous retournons à Moskenes à pied. Je suis devant, lampe blanche sur le front. Antoine derrière, lumière clignotante rouge et bandes réféchissantes dans le dos. Prudence est mère de sureté, paraît-il. Il y a un camion de glace ; en pleine nuit c'est assez improbable. Mais comme la nuit tombe avant vingt heures, pourquoi pas. Le port est joli de nuit. Nous n'attendons pas trop avant de monter dans le ferry...qui est encore plus vide que la première fois. Le trajet est complètement de nuit et ne permet pas de voir quoi que ce soit, nous dormons un peu.",
 					"A notre arrivée, c'est cette fois une voiture blanche qui nous attend. Elle nous emmène à destination tout en nous montrant les lumières sur les montagnes pour nous conseiller où randonner demain. La nuit est claire, on voit plein d'étoiles. Les montagnes de nuit ont un aspect menaçant. Cette fois le logement est aménagé dans un grand hangar face à un bateau ; on dirait une habitation de pêcheur ! C'est un peu moins moderne que les précédents mais ça fait très typique et l'ambiance tamiée des lumières est agréable. Nous nous endormons bien vite après cette longue journée."
 				],
 				images: [
 					{
-						image: "img/033/day033_01.JPG",
+						image: "img/033/day033_01.jpg",
+						legend: "Passage de l'autre côté de l'île...au soleil !",
+					},
+					{
+						image: "img/033/day033_02.jpg",
+						legend: "Ca promet d'être beau...",
+					},
+					{
+						image: "img/033/day033_03.jpg",
+						legend: "...mais en fait c'est magnifique !",
+					},
+					{
+						image: "img/033/day033_04.jpg",
 						legend: "",
 					},
-
+					{
+						image: "img/033/day033_05.JPG",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_06.JPG",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_07.JPG",
+						legend: "Pourquoi y a-t-il du ciel par terre ?",
+					},
+					{
+						image: "img/033/day033_08.JPG",
+						legend: "Là encore c'est dingue ! L'eau est parfaitement lisse.",
+					},
+					{
+						image: "img/033/day033_09.JPG",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_10.JPG",
+						legend: "Toujours ces mêmes structures pour la morue.",
+					},
+					{
+						image: "img/033/day033_11.JPG",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_12.JPG",
+						legend: "Petit bémol : ici non plus les ligne électriques ne font pas défaut.",
+					},
+					{
+						image: "img/033/day033_13.JPG",
+						legend: "Et qu'on ne vienne pas me dire qu'il ne fait pas beau en Norvège.",
+					},
+					{
+						image: "img/033/day033_14.JPG",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_15.JPG",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_16.jpg",
+						legend: "Bodø est là au loin...",
+					},
+					{
+						image: "img/033/day033_17.JPG",
+						legend: "Reinebringen, cette fameuse montagne qu'on n'escaladera pas (cette fois !).",
+					},
+					{
+						image: "img/033/day033_18.JPG",
+						legend: "Il y a bien des gens là-haut.",
+					},
+					{
+						image: "img/033/day033_19.JPG",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_20.jpg",
+						legend: "Retour à Moskenes, où on cherche à manger au camping.",
+					},
+					{
+						image: "img/033/day033_21.jpg",
+						legend: "Puis on marche le long du port pour trouver un restaurant. Pendant ce temps, le soleil se couche doucement.",
+					},
+					{
+						image: "img/033/day033_22.jpg",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_23.jpg",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_24.jpg",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_25.jpg",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_26.jpg",
+						legend: "'Graved' salmon : ni vraiment fumé ni vraiment cuit, mais super bon !",
+					},
+					{
+						image: "img/033/day033_27.jpg",
+						legend: "",
+					},
+					{
+						image: "img/033/day033_28.jpg",
+						legend: "Vous voyez comme la montagne est menaçante de nuit ?",
+					},
+					{
+						image: "img/033/day033_29.jpg",
+						legend: "La cale du ferry, où stationnent les voitures pendant la traversée. Nous sommes parmi les premiers à entrer ! Mais à pied.",
+					},
+					{
+						image: "img/033/day033_30.jpg",
+						legend: "Selferry !",
+					},
+					{
+						image: "img/033/day033_31.JPG",
+						legend: "Et un nouvel appartement 'cosy' pour les trois aventuriers !",
+					},
+					{
+						image: "img/033/day033_32.JPG",
+						legend: "La fenêtre du salon donne sur ce bateau de pêcheur.",
+					}
 				]
 			},
 			{
