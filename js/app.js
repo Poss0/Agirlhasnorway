@@ -2438,7 +2438,7 @@
 			},
 			{
 				id: "34",
-				title: "De Vaerøy à Bodø",
+				title: "Vaerøy",
 				date: "9 octobre",
 				html: [
 					"Toujours plus tôt ! C'est à six heures quarante-cinq que le réveil sonne cette fois. Nous nous extirpons du sommeil puis de l'habitation, vers sept heures et demie. Le but est d'assister au lever du soleil sur la mer. Nous laissons simplement les clés sur la porte comme demandé. Décidément, ils ont confiance. Nous sommes effectivement en pleine zone de pêche, au milieu des installations qui servent à faire sécher les morues. Cela explique la permanente odeur de poisson partout sur les îles ! Et pourtant il n'y en a pas en ce moment, je n'ose pas imaginer en saison. Nous marchons jusqu'à la mer. Pari gagné ; nous asistons au lever du soleil. Le ciel est couvert d'un plafond nuageux ; seule une bande à l'horizon nous permet de distinguer des montagnes au loin. Nous croyons au départ qu'il s'agit des Lofoten, Susan a dit qu'on pouvait les voir d'ici. Nous attendons que le soleil monte assez haut pour être caché dans les nuages et partons grimper sur la montagne que nous avons repéré.",
@@ -2446,7 +2446,148 @@
 					"Là où nous sommes, le chemin s'arrête. Mais, comme je me suis faite plusieurs fois la réflexion cette semaine, il est humain de vouloir toujours aller plus haut. Dépasser ses limites. Nous avons envie de continuer. Nous laissons là nos sacs (parce qu'en Norvège...bref) pour monter plus aisément. Là ça relève de l'escalade. Ou peut-être de la folie. Je n'ai jamais fait beaucoup de bêtises, mais là on est carrément dans l'inconscience de la jeunesse, on se sent invincible...alors que je n'ose pas imaginer le résultat d'une chute. Je place bien mes pieds en tâtonnant toujours plusieurs fois pour m'assurer que je ne vais pas glisser. La descente ne va pas être simple ! En haut, c'est vertigineux. Je ne m'approche pas trop du bord. Mais la vue en vaut vraiment la peine. Je fais encore un tour panoramique pour constater que les montagnes et l'eau sont partout.",
 					"Comble de la folie ; Maxime décide de s'engager sur la crête pour atteindre un autre point de vue. Ca a l'air plus simple, nous le suivons. Ca l'est effectivement, mais c'est aussi tout à fait effrayant. Il y a des trous de temps en temps, il faut être méfiant. Nous passons un moment là ; nous nous sommes donnés du mal pour y arriver ! Finalement nosu revenons de notre escapade. En prenant notre temps dans la descente, comme la veille. Pour ne pas faire d'erreur. Aucune honte à être lent, à étudier le meilleur chemin avant de s'engager ou à s'asseoir pour faciliter le passage. Nous atteignons finalement nos sacs et faisons une pause goûter. Nous trouvons un moyen un peu plus simple de redescendre ensuite.",
 					"Nous voilà en bas de la montagne, sur les rochers. Je prends une photo ; c'est mieux de la prendre après coup. Comme des enfants, nous jouons à repérer les coquillages et les crabes dans les rochers. Il y en a plein ! Finalement nous nous dirigeons vers l'autre côté de l'île. Ah, il y aurait eu une autre randonnée sympa à faire ici...je note. Nous montons sur une petite bute derrière les maisons, qui donne vue sur un petit fjord et sur Røst. En redescendant nous nous dirigeons tranquillement vers le ferry...et le terme de notre périple.",
-					"Le lieu d'embarquement est désert. Une voiture était là à l'instant mais s'en est allée. Pas l'ombre d'un ferry ni indice de son arrivée. Nous commençons à nous inquiéter. Puis à franchement paniquer, sans se l'avouer les uns aux autres. Nous appelons le numéro d'information et tombons sur quelqu'un à l'intérieur du ferry qui nous dit être juste à l'extérieur du port. Alors seulement les voitures et les piétons commencent à arriver ; puis nous apercevons le ferry. Je regarde ma montre : il est parfaitement à l'heure, nous avons simplement eu peur car les précédents avaient toujours de l'avance ou des gens sur place pour nous informer. Nous montons à bord ; là encore il y aura peu de passagers.",
+					"Le lieu d'embarquement est désert. Une voiture était là à l'instant mais s'en est allée. Pas l'ombre d'un ferry ni indice de son arrivée. Nous commençons à nous inquiéter. Puis à franchement paniquer, sans se l'avouer les uns aux autres. Nous appelons le numéro d'information et tombons sur quelqu'un à l'intérieur du ferry qui nous dit être juste à l'extérieur du port. Alors seulement les voitures et les piétons commencent à arriver ; puis nous apercevons le ferry. Je regarde ma montre : il est parfaitement à l'heure, nous avons simplement eu peur car les précédents avaient toujours de l'avance ou des gens sur place pour nous informer. Nous montons à bord ; là encore il y aura peu de passagers."
+				],
+				images: [
+					{
+						image: "img/034/day034_01.JPG",
+						legend: "Le bateau même bateau le lendemain matin au lever du soleil !",
+					},
+					{
+						image: "img/034/day034_02.jpg",
+						legend: "Ai-je besoin d'expliquer à nouveau de quoi il s'agit ?",
+					},
+					{
+						image: "img/034/day034_03.JPG",
+						legend: "Le lever du soleil !",
+					},
+					{
+						image: "img/034/day034_04.JPG",
+						legend: "On voit les montagnes de la côte, au loin.",
+					},
+					{
+						image: "img/034/day034_05.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_06.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_07.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_08.jpg",
+						legend: "Cette fois c'est cette pyramide qui me servira de repère de distance.",
+					},
+					{
+						image: "img/034/day034_09.jpg",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_10.jpg",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_11.jpg",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_12.JPG",
+						legend: "Plus haut !",
+					},
+					{
+						image: "img/034/day034_13.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_14.JPG",
+						legend: "Mais ces îles, ce sont...mais oui, les Lofoten ! Wouaaaah !",
+					},
+					{
+						image: "img/034/day034_15.JPG",
+						legend: "End of the road ! La rando s'arrête là...où l'escalade commence.",
+					},
+					{
+						image: "img/034/day034_16.JPG",
+						legend: "Toujours plus haut !",
+					},
+					{
+						image: "img/034/day034_17.jpg",
+						legend: "Vraiment Maxime, c'est safe, on peut te suivre ?",
+					},
+					{
+						image: "img/034/day034_18.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_19.JPG",
+						legend: "Sur la gauche, au loin, on distingue la dernière île des Lofoten, Røst.",
+					},
+					{
+						image: "img/034/day034_20.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_21.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_22.jpg",
+						legend: "On redescend ! Non non Antoine ne tente pas un camouflage dans la montagne, il prend juste une fleur bleue en photo, qui poussait là au milieu des rochers.",
+					},
+					{
+						image: "img/034/day034_23.jpg",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_24.jpg",
+						legend: "Mieux vaut regarder après coup hein ?",
+					},
+					{
+						image: "img/034/day034_25.jpg",
+						legend: "Bulotville !",
+					},
+					{
+						image: "img/034/day034_26.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_27.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_28.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_29.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_30.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_31.JPG",
+						legend: "Serait-ce un rayon de soleil ?",
+					},
+					{
+						image: "img/034/day034_32.JPG",
+						legend: "",
+					},
+					{
+						image: "img/034/day034_33.jpg",
+						legend: "Et voilà, le 'Vaerøy' qui nous ramènera à Bodø !",
+					}
+				]
+			},
+			{
+				id: "35",
+				title: "De Vaerøy à Bodø",
+				date: "9 octobre",
+				html: [
 					"Nous mangeons dans le ferry avant de nous endormir. Les Lofoten ont vite disparu derrière, dans leur plafond de nuages. Mais le spectacle de la côté qui s'approche est plus beau à chaque réveil. Nous allons vers cette bande de beau temps que nous voyons ce matin...bientôt il n'y a plus un nuage. D'ailleurs, la mer est très calme.",
 					"Après avoir pleinement profité du soleil sur les montagnes, révélant les reliefs ou faisant des montagnes des ombres par couches successives, nous arrivons à Bodø. Nous accostons ; et nous voilà en ville pour six heures. Nous allons nous asseoir près du port, au soleil, pendant une heure. Nous allons ensuite sur la jetée admirer le soleil sur la mer. Nous allons ensuite vers le centre ville où nous nous arrêtons un moment. Il n'y a pas grand chose dans cette ville. Les sacs se font lourds ; les consignes à la gare étaient trop chères.",
 					"Nous réussissons à patienter suffisamment pour aller manger dans une pizzeria. Nous y restons le plus longtemps possible, au chaud. En sortant, nous jouons à un jeu lumineux dans la rue. Il y a plusieurs modes, notamment pour apprendre aux enfants à compter ou à ranger dans l'ordre alphabétique. Mais le plus drôle est le jeu qui consiste à choisir une couleur et à la toucher quand elle apparaît ; on dispose d'un temps imparti de plus en plus court pour courir jusqu'au plot où elle s'affiche. Nous nous prenons au jeu, riant. Cela nous réchauffe de courir !",
@@ -2454,14 +2595,169 @@
 				],
 				images: [
 					{
-						image: "img/034/day034_01.JPG",
+						image: "img/035/day035_01.JPG",
+						legend: "Départ du port de Vaerøy !",
+					},
+					{
+						image: "img/035/day035_02.JPG",
+						legend: "En s'en éloignant viens le beau temps...",
+					},
+					{
+						image: "img/035/day035_03.JPG",
+						legend: "...ce qui est confirmé lorsqu'on regarde l'île s'éloigner à l'arrière du bateau.",
+					},
+					{
+						image: "img/035/day035_04.JPG",
 						legend: "",
 					},
-
+					{
+						image: "img/035/day035_05.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_06.JPG",
+						legend: "Comme au cinéma !",
+					},
+					{
+						image: "img/035/day035_07.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_08.JPG",
+						legend: "On approche de Bodø !",
+					},
+					{
+						image: "img/035/day035_09.jpg",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_10.jpg",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_11.jpg",
+						legend: "Arrivés !",
+					},
+					{
+						image: "img/035/day035_12.jpg",
+						legend: "Un demi-tour pour se mettre à quai, et nous pourrons descendre.",
+					},
+					{
+						image: "img/035/day035_13.jpg",
+						legend: "Petite pause au soleil.",
+					},
+					{
+						image: "img/035/day035_14.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_15.JPG",
+						legend: "Le port de Bodø.",
+					},
+					{
+						image: "img/035/day035_16.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_17.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_18.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_19.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_20.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_21.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_22.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_23.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_24.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_25.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_26.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_27.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_28.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_29.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_30.JPG",
+						legend: "Délire l'église !",
+					},
+					{
+						image: "img/035/day035_31.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_32.JPG",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_33.jpg",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_34.jpg",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_35.jpg",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_36.jpg",
+						legend: "Drôle d'oiseau !",
+					},
+					{
+						image: "img/035/day035_37.jpg",
+						legend: "Après l'effort, le réconfort ! Bon d'accord, on avait déjà été récompensés, mais on est bien fatigués !",
+					},
+					{
+						image: "img/035/day035_38.jpg",
+						legend: "",
+					},
+					{
+						image: "img/035/day035_39.JPG",
+						legend: "Ce jeu lumineux, conçu initialement pour les enfants, intrigue et occupe aussi les plus grands !",
+					},
+					{
+						image: "img/035/day035_40.jpg",
+						legend: "Allez, il n'y a personne, je peux prendre deux sièges non ?",
+					}
 				]
 			},
 			{
-				id: "35",
+				id: "36",
 				title: "De Bodø à Trondheim",
 				date: "Nuit du 9 au 10 octobre",
 				html: [
@@ -2471,39 +2767,39 @@
 				],
 				images: [
 					{
-						image: "img/035/day035_01.jpg",
+						image: "img/036/day036_01.jpg",
 						legend: "Les premières lumières du soleil...",
 					},
 					{
-						image: "img/035/day035_02.jpg",
+						image: "img/036/day036_02.jpg",
 						legend: "Les fjords autour de Trondheim.",
 					},
 					{
-						image: "img/035/day035_03.jpg",
+						image: "img/036/day036_03.jpg",
 						legend: "",
 					},
 					{
-						image: "img/035/day035_04.jpg",
+						image: "img/036/day036_04.jpg",
 						legend: "Le port.",
 					},
 					{
-						image: "img/035/day035_05.jpg",
+						image: "img/036/day036_05.jpg",
 						legend: "Le place centrale, à l'angle de Kongens (rue du roi) et Prinsens (rue du prince). La figure et les marques au sol forment un cadran solaire.",
 					},
 					{
-						image: "img/035/day035_06.jpg",
+						image: "img/036/day036_06.jpg",
 						legend: "Cette vue bien connue.",
 					},
 					{
-						image: "img/035/day035_07.jpg",
+						image: "img/036/day036_07.jpg",
 						legend: "Une partie de la colline prend de superbe couleurs.",
 					},
 					{
-						image: "img/035/day035_08.jpg",
+						image: "img/036/day036_08.jpg",
 						legend: "",
 					},
 					{
-						image: "img/035/day035_09.jpg",
+						image: "img/036/day036_09.jpg",
 						legend: "",
 					}
 				]
