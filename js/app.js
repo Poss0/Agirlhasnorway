@@ -3035,15 +3035,15 @@
 						legend: "La barque est prisonnière du lac !",
 					},
 					{
-						image: "img/038/day038_03.JPG",
+						image: "img/038/day038_38.JPG",
 						legend: "Photo de groupe !",
 					},
 					{
-						image: "img/038/day038_03.JPG",
+						image: "img/038/day038_39.JPG",
 						legend: "So fun!",
 					},
 					{
-						image: "img/038/day038_03.JPG",
+						image: "img/038/day038_40.JPG",
 						legend: "La cabine en pleine nuit.",
 					}
 				]
