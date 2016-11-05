@@ -2867,6 +2867,332 @@
 						legend: "Expérience culinaire n°55 : Une tuerie ces gâteaux. Ca ressemble aux granolas sans le chocolat, avec le point commun qu'on ne peut pas parier qu'on n'en mangera qu'un.",
 					}
 				]
+			},
+			{
+				id: "38",
+				title: "A l'assaut de Kammtjønnkoia",
+				date: "15 octobre",
+				html: [
+					"On s'est donné rendez-vous tôt pour partir ; il y a plus de deux heures de route suivies de quatre heures de marche. Tout le monde met son sac dans le coffre et embarque dans la voiture. 'Mathilde, tu as bien les clés ?' Ce qui devait être une vérification de routine, dont la réponse positive était une évidence, se trnasforme en drame le temps d'un instant. Elle ne les a pas.",
+					"On préfère en rire, rien ne sert de la blâmer, elle s'en veut déjà assez. Et puis ça arrive, et personne ne lui a rappelé. Nous réfléchissons un moment, mais il nous semble hors de question de rentrer chez nous de cette manière. Nous décidons de partir quand même, cherchant pendant le trajet et par tous les moyens à contacter ceux qui étaient dans la cabine la nuit précédente. Nous envisageons la possibilité de faire l'aller-retour dans la journée et de dormir dans une autre cabine pas loin dont nous savons qu'elle ne possède pas de clé ; et où il reste de la place.",
+					"Après deux heures de route dans l'attente d'une réponse des personnes contactées, mais sans succès, nous approchons de notre destination. Il y a un grand lac, il fait beau, hormis l'incident des clés tout est idyllique. Nous commençons à marcher. La première partie entre les arbres n'est pas trop compliquée. Le sol est sec, nous avons beaucoup de chance. On traverse des ruisseaux qui commencent à geler. Quittant les arbres, le paysage qui s'offre à nous est extrêmement aride semble-t-il ; on se croirait plus dans les montagnes aux Etats-Unis (d'après Mathilde, et l'idée qu'on s'en fait avec les photos) qu'en Norvège.",
+					"Le chemin longe une rivière partiellement gelée. Nous savons depuis le début qu'il nous faudra la traverser, mais il faut être stratégique sur le choix de l'endroit pour ne pas se mouiller. Le chemin, d'ailleurs très bien indiqué, nous fait remonter jusqu'à ce qu'une flèche nous montre clairement que c'est là qu'il faut traverser. Nous nous exécutons. De l'autre côté, nous nous rendons compte que nous sommes peut-être allés un peu trop loin et dévions du chemin que tout le monde semble suivre pour nous aventurer dans une zone qui doit être un marécage gelé. C'est assez traître, on ne sait jamais trop où on met les pieds.",
+					"Nous décidons de nous arrêter pour manger, près d'une partie de la rivire cette fois encore plus gelée, sans cesser de guetter un message ou un groupe de quatre personnes pour obtenir la clé. Après le repas, nous repérons des gens qui pourraient être les étudiants que nous cherchons. Florian part en courant à leur rencontre pendant que nous allons droit sur un groupe poser des questions. Personne ne correspond au groupe cependant, et les gens nous donnent des indications contradictoires à propos de la cabine que nous cherchons. En effet, la cabine étant de difficulté élevée, nous nous attendons à une longue marche, un relief difficile ou qu'elle soit difficile à trouver.",
+					"Toujours sans clés, nous continuons notre route. Arrive une bifurcation : nous pouvons continuer vers la cabine ou monter pour avoir une meilleure vue. Si nous avions les clés de la cabine, c'est le genre d'excursion que nous aimerions faire le lendemain matin ; c'est donc peut-être là que sont les précédents dormeurs. En conséquence, nous décidons de nous séparer : Florian et Mathilde vont monter 'à la rencontre' éventuelle des autres, et Marjolaine, Judith et moi partons à la recherche de la cabine. Bien que la cabine semble plus proche en passant par la gauche du lac, nous le contournons par la droite comme indique le chemin, qui n'est certainement pas là pour rien.",
+					"A peine de l'autre côté, Marjolaine reçoit un appel. Nous percevons dans sa voix que les clés ont été interceptées, mais attendons qu'elle raccroche pour qu'elle nous le confirme et que nous sautions de joie. C'est soulagées que nous poursuivons notre recherche. Cette fois c'est une montagne qui nous barre la route. Nous tentons d'atteindre la cabine par la droite comme conseillé, à la rencontre de la neige. Mais tombons à plusieurs reprises sur les plaques de glace et faisons demi-tour. C'est à ce moment que Florian et Mathilde nous rejoignent, et nous partons ensemble à l'assaut du flanc gauche de la montagne. Marjolaine, Judith et moi descendons un peu pour l'attaquer de moins haut ; nous ne sommes pas rassurées par les empilements de pierre qui glissent les unes sur les autres.",
+					"Nous revoilà donc près du lac, dont nous découvrons la séparation entre partie gelée et non gelée. La glace est épaisse mais parfaitement transparente ; on peut marcher sur l'eau, c'est donc l'occasion de faire quelques photos. Nous rejoignons ensuite Florian et Mathilde qui ont déjà ouvert la porte et posé leurs affaires. La cabine est là, non loin d'une cabine privée, et au bord d'un lac cette fois complètement gelé. Florian coupe du bois ; nous allons chercher de l'eau un peu plus bas (le lac étant gelé !) pour faire du thé. Marjolaine a fait des gâteaux maison, c'est top ! Nous allons sur le deuxième lac, au pied de notre cabine. On joue à se faire peur en allant le plus loin possible.",
+					"Près de la cabine, nous avons trouvé très peu de bois. Nous sommes censés en apporter autant que nous en utilisons pour que les suivants en aient à leur arrivée. Le bois ne pouvant pas être acheminé jusqu'à la cabine autrement qu'à pied, une carte à l'intérieur nous indique où devrait se trouver la pile. C'était sur le chemin, mais nous avons dû la manquer. Nous y retournons, mais rien à faire, nous ne trouvons rien. J'espère que l'approvisionnement sera refait bientôt, sinon ceux qui s'y rendront en hiver vont peiner. Nous récoltons quelques planches et restes de feu de camp pour ne pas rentrer bredrouilles ; mais c'est tout de même une maigre récolte.",
+					"Au retour Florian lance le feu ; il fait 25°C à l'intérieur ! Nous mangeons : cacahuètes, spaghetti au pesto, thé, chocolat, noisettes, amandes : chacun a apporté sa contribution pour le groupe. Il y a une guitare mais personne ne sait en jouer ; ce sera donc jeu de carte à la bougie.",
+					"La nuit tombée, nous décidons de nous aventurer dehors. Ce n'est absolument pas rassurant, mais la pleine Lune donne une lumière largement suffisante pour que nous puissions nous déplacer sans problème. La vue sur les lacs et sur le paysage d'une manière générale est absolument magique. Nous prenons quelques photos avant de retourner nous aventurer sur le lac ; c'est encore plus drôle de nuit. Un grand craquement de la glace, semblable à un grognement animal, effraye tout le monde et nous nous réfugions sur la rive. Il est temps d'aller se coucher. Florian décide de sortir son matelas pour dormir dehors."
+				],
+				images: [
+					{
+						image: "img/038/day038_01.jpg",
+						legend: "Déjà dans la voiture, on sent qu'on va profiter d'un paysage sublime.",
+					},
+					{
+						image: "img/038/day038_02.jpg",
+						legend: "Dans les starting blocks : se procurera-t-on la clé ?",
+					},
+					{
+						image: "img/038/day038_03.JPG",
+						legend: "On prend de la hauteur sur le lac...qui ne sera pas le dernier qu'on verra.",
+					},
+					{
+						image: "img/038/day038_04.JPG",
+						legend: "Bienvenue en Norvège ! Ah bon ?",
+					},
+					{
+						image: "img/038/day038_05.JPG",
+						legend: "C'est déjà gelé ici...imaginez plus haut !",
+					},
+					{
+						image: "img/038/day038_06.JPG",
+						legend: "Glissade garantie.",
+					},
+					{
+						image: "img/038/day038_07.JPG",
+						legend: "La météo semble avec nous.",
+					},
+					{
+						image: "img/038/day038_08.JPG",
+						legend: "La rivière se sépare en deux bras.",
+					},
+					{
+						image: "img/038/day038_09.jpg",
+						legend: "La flèche pointe dans la direction de la rivière...c'est le moment de traverser.",
+					},
+					{
+						image: "img/038/day038_10.jpg",
+						legend: "Ca n'a pas l'air trop compliqué.",
+					},
+					{
+						image: "img/038/day038_11.JPG",
+						legend: "Waouh.",
+					},
+					{
+						image: "img/038/day038_12.jpg",
+						legend: "La couleur jaune indique bien une zone marécageuse, mais le gel nous protège de ses dangers.",
+					},
+					{
+						image: "img/038/day038_13.JPG",
+						legend: "Pause repas bien méritée.",
+					},
+					{
+						image: "img/038/day038_14.JPG",
+						legend: "On avance vers l'ombre...",
+					},
+					{
+						image: "img/038/day038_15.JPG",
+						legend: "...avant d'y être vraiment. Il fait plus froid d'un seul coup !",
+					},
+					{
+						image: "img/038/day038_16.JPG",
+						legend: "Ah, premier lac gelé qui devrait nous aider à trouver la cabine. Elle est là-bas sur la gauche, mais mieux vaut contourner le lac entièrement par la droite pour l'atteindre.",
+					},
+					{
+						image: "img/038/day038_17.JPG",
+						legend: "Ce n'était pas le bon côté pour atteindre la cabine, mais on a retrouvé un peu de soleil !",
+					},
+					{
+						image: "img/038/day038_18.JPG",
+						legend: "Cela ne durera pas, il va bientôt passer derrière les montagnes.",
+					},
+					{
+						image: "img/038/day038_19.jpg",
+						legend: "Pas de doute, on est en altitude !",
+					},
+					{
+						image: "img/038/day038_20.JPG",
+						legend: "Retour près du lac, mais de l'autre côté cette fois.",
+					},
+					{
+						image: "img/038/day038_21.JPG",
+						legend: "C'est du solide cette glace !",
+					},
+					{
+						image: "img/038/day038_22.JPG",
+						legend: "La démarquation est impressionnante...pourquoi cela gèle-t-il de cette façon ?",
+					},
+					{
+						image: "img/038/day038_23.JPG",
+						legend: "Une cabine privée, un peu avant la nôtre.",
+					},
+					{
+						image: "img/038/day038_24.JPG",
+						legend: "Enfin, Kamtjønnkoia !",
+					},
+					{
+						image: "img/038/day038_25.JPG",
+						legend: "We did it!",
+					},
+					{
+						image: "img/038/day038_26.JPG",
+						legend: "We've got the keys!",
+					},
+					{
+						image: "img/038/day038_27.jpg",
+						legend: "Un peu de pub.",
+					},
+					{
+						image: "img/038/day038_28.jpg",
+						legend: "Trop marrant ces bulles emprisonnées dans la glace, là encore je me demande comment c'est possible... Mais ça donne une idée de la profondeur.",
+					},
+					{
+						image: "img/038/day038_29.jpg",
+						legend: "Instant publicité encore...",
+					},
+					{
+						image: "img/038/day038_30.jpg",
+						legend: "Une dernière pour la route.",
+					},
+					{
+						image: "img/038/day038_31.jpg",
+						legend: "Tchou-tchou !",
+					},
+					{
+						image: "img/038/day038_32.jpg",
+						legend: "De retour sur le premier lac, vous l'aurez remarqué.",
+					},
+					{
+						image: "img/038/day038_33.jpg",
+						legend: "eureusement que t'es là toi ! Nous réchauffer, nous faire à manger, rendre notre eau potable...autant de choses indispensables auxquels ont ne pense même pa d'habitude !",
+					},
+					{
+						image: "img/038/day038_34.jpg",
+						legend: "Thé (et bière ?) à la bougie.",
+					},
+					{
+						image: "img/038/day038_35.JPG",
+						legend: "Si si, c'est bien la Lune qui donne toute cette lumière.",
+					},
+					{
+						image: "img/038/day038_36.JPG",
+						legend: "La grande Ourse (enfin, surtout la casserole). Il y a trop de lumière pour observer les étoiles malheureusement.",
+					},
+					{
+						image: "img/038/day038_37.JPG",
+						legend: "La barque est prisonnière du lac !",
+					},
+					{
+						image: "img/038/day038_03.JPG",
+						legend: "Photo de groupe !",
+					},
+					{
+						image: "img/038/day038_03.JPG",
+						legend: "So fun!",
+					},
+					{
+						image: "img/038/day038_03.JPG",
+						legend: "La cabine en pleine nuit.",
+					}
+				]
+			},
+			{
+				id: "39",
+				title: "Toujours plus haut !",
+				date: "16 octobre",
+				html: [
+					"Le lendemain matin, Florian entre dans la cabine pour nous réveiller. Je me lève ; il me propose d'aller voir le lever du soleil là où nous étions hier soir. Les couleurs rose orange sur la neige sont superbes. Nous prenons notre petit-déjeuner, faisons la vaisselle, puis nous lancons un défi : toutes les filles en sous-vêtements pour des photos déjantées sur le lac gelé. Il fait certes froid, mais ce n'est pas si terrible, on s'y fait. Une fois rhabillée, les photos font place à du patinage et à du curling humain ; grand moment de fou rire. Mais il nous faut partir si on veut profiter de la journée et ne pas rentrer trop tard.",
+					"Le rangement de rigueur effectué, nous attaquons la montagne tout droit sans trop nous poser de questions. La montée est extrêmement difficile, ma tête dit 'vas-y tu peux le faire' quand mon corps dit 'arrête je n'en peux plus'. Heureusement tout le monde et patient est j'arriverai à monter aussi haut que les autres. Nous marchons le long de ce que nous croyons être une crête, les pieds dans la neige. La vue est magnifique de tout les côtés. Il y a là de nouveau un lac ; cette fois inutile de chercher de l'eau liquide sous la glace.",
+					"Nous amorçons la descente, qui sera très pénible et traumatisante pour le corps. Mais nous profitons de la vue et du grand air et discutons tranquillement ; c'est ça être au présent. Dès que nous atteignons un endroit à l'abri du vent, nous mangeons. La rivière est plus gelée que la veille. J'imagine que nous avons eu beaucoup de chance ; cette cabine doit être très difficile d'accès lorsque le terrain est humide ou par temps neigeux. Ce qui explique que quelqu'un y soit mort (je fais bien de ne vous dire ça qu'après hein ?).",
+					"La grande rivière retraversée, nous apercevons un groupe d'animaux. Des cerfs ? Des élans ? Non, c'est un troupeau de rennes ! Ils sont là, dans leur environnement naturel. Nous ne nous approchons pas de trop mais les observons un moment avant de redescendre. Puis nous longeons la rivière, replongeons dans les arbres, retraversons les ruisseaux - gelés cette fois.",
+					"La voiture atteinte, nous repartons, heureux. Parce que, sans les clés, c'était loin d'être gagné ! Le trajet retour sera ponctué de conversations très intéressantes sur les différences culturelles : alimentation, éducation, langages, ce sont des sujets de notre quotidien qui sont abordés. Il ne fait nul doute que cette expérience modifiera nos habitudes pour toujours. Je rentre et m'écroule d'un sommeil bien mérité."
+				],
+				images: [
+					{
+						image: "img/039/day038_41.JPG",
+						legend: "Lever du soleil dans les montagnes.",
+					},
+					{
+						image: "img/039/day038_42.JPG",
+						legend: "Kamtjønnkoia se réveille doucement...",
+					},
+					{
+						image: "img/039/day038_43.JPG",
+						legend: "Ces couleurs, c'est dingue !",
+					},
+					{
+						image: "img/039/day038_44.JPG",
+						legend: "Ca passe au jaune maintenant.",
+					},
+					{
+						image: "img/039/day038_45.JPG",
+						legend: "La barque, toujours emprisonnée.",
+					},
+					{
+						image: "img/039/day038_46.JPG",
+						legend: "Séance de patinage.",
+					},
+					{
+						image: "img/039/day038_47.JPG",
+						legend: "Mon appareil est posé sur le lac.",
+					},
+					{
+						image: "img/039/day038_48.JPG",
+						legend: "Je suis encore impressionée de cette transparence, on voit sa propre ombre au fond de l'eau.",
+					},
+					{
+						image: "img/039/day038_49.JPG",
+						legend: "Curling humain !",
+					},
+					{
+						image: "img/039/day038_50.JPG",
+						legend: "Florian s'incruste sur la photo avec sa perceuse à glace, mais il n'arrivera pas à bout du lac.",
+					},
+					{
+						image: "img/039/day038_51.JPG",
+						legend: "La montée ayant été trop difficile pour prendre des photos, c'est au sommet que je prends les montagnes enneigées de l'autre côté.",
+					},
+					{
+						image: "img/039/day038_52.jpg",
+						legend: "Selfie : toujours en vie !",
+					},
+					{
+						image: "img/039/day038_53.jpg",
+						legend: "Apparemment, quelqu'un a une fonction panoramique.",
+					},
+					{
+						image: "img/039/day038_54.JPG",
+						legend: "Trop de publicité peut-être.",
+					},
+					{
+						image: "img/039/day038_55.jpg",
+						legend: "Le soleil dans les yeux !",
+					},
+					{
+						image: "img/039/day038_56.jpg",
+						legend: "C'est mieux dans ce sens-là.",
+					},
+					{
+						image: "img/039/day038_57.JPG",
+						legend: "On voit de nouveau le tout premier lac en bas.",
+					},
+					{
+						image: "img/039/day038_58.JPG",
+						legend: "Et on voit toujours les montagnes.",
+					},
+					{
+						image: "img/039/day038_59.JPG",
+						legend: "Ce lac là est vraiment gelé, mais Marjolaine s'y aventure quand même !",
+					},
+					{
+						image: "img/039/day038_60.jpg",
+						legend: "Et voilà ce qu'elle voit !",
+					},
+					{
+						image: "img/039/day038_61.jpg",
+						legend: "Bon ben à bientôt Marjo, bonnes glissades !",
+					},
+					{
+						image: "img/039/day038_62.JPG",
+						legend: "Le deuxième bras de la rivière est bien gelé aujourd'hui.",
+					},
+					{
+						image: "img/039/day038_63.JPG",
+						legend: "Courte pause ; le vent ne permet pas de s'arrêter longtemps.",
+					},
+					{
+						image: "img/039/day038_64.JPG",
+						legend: "La configuration du lieu vu de haut ! A gauche, le lac à moitié gelé. A droite, le lac gelé. Au milieu, une petite montagne qu'il faut contourner pour atteindre la cabine, cachée derrière. Sans doute pour la protéger du vent, bien qu'elle ait déjà été soufflée deux fois.",
+					},
+					{
+						image: "img/039/day038_65.jpg",
+						legend: "Oui oui je descend, mais il faut être prudent !",
+					},
+					{
+						image: "img/039/day038_66.jpg",
+						legend: "Sur la route du retour.",
+					},
+					{
+						image: "img/039/day038_67.JPG",
+						legend: "Des rennes !",
+					},
+					{
+						image: "img/039/day038_68.JPG",
+						legend: "Bon j'avoue j'ai triché avec le zoom, nous n'étions pas si près.",
+					},
+					{
+						image: "img/039/day038_69.JPG",
+						legend: "Le troupeau compte entre vingt et trente individus.",
+					},
+					{
+						image: "img/039/day038_70.JPG",
+						legend: "Les couleurs de pelage sont variées, et l'un d'entre eux semble marqué par un genre de collier-balise.",
+					},
+					{
+						image: "img/039/day038_71.JPG",
+						legend: "C'est drôle les souvenirs qu'on associe à une photo. Je sais par exemple que j'ai attendu que les écarts entre eux soit les mêmes pour appuyer sur le déclencheur. Et que Marjolaine nous racontait son expérience en Afrique du Sud.",
+					},
+					{
+						image: "img/039/day038_72.JPG",
+						legend: "Retour des arbres dans le paysage. Le bois potentiel est bien loin de la cabine !",
+					},
+					{
+						image: "img/039/day038_73.jpg",
+						legend: "Photo finish : avec les clés !",
+					},
+				]
 			}
 		];
 
