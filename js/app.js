@@ -2803,6 +2803,70 @@
 						legend: "",
 					}
 				]
+			},
+			{
+				id: "37",
+				title: "Sas de décompression : d'un voyage vers la réalité, de la réalité vers un nouveau voyage",
+				date: "10, 11, 12, 13, 14 octobre",
+				html: [
+					"Et voilà, retour à la réalité ! Il faut vite récupérer pour se remettre sur les rails : lessive, courses, devoirs... La semaine se déroule sans encombres même si ce n'est pas évident d'accepter de reprendre une vie normale.",
+					"Les coefficients sont élevés et on voit quelques faibles aurores, mais à chaque fois qu'on sort pour avoir un meilleur panorama, elles disparaissent ! Mais bon, même faibles, c'est incroyable de se dire qu'elles sont là, par la fenêtre.",
+					"On envisage un voyage le week-end suivant : randonnée vers la cabine la plus difficile, Kamtjønnkoia. Vendredi soir, ce sera donc courses et activité sandwiches !"
+				],
+				images: [
+					{
+						image: "img/037/day037_01.jpg",
+						legend: "Ca y est, le gel nous attaque ! Cachée du soleil par les bâtiments, cette parcelle d'herbe ne dégèle pas de la journée.",
+					},
+					{
+						image: "img/037/day037_02.jpg",
+						legend: "Ah, le brouillard aussi nous attaque !",
+					},
+					{
+						image: "img/037/day037_03.jpg",
+						legend: "Passée en rouge le jour de la célébration de la réunification allemande (mais c'est probablement une coïncidence), la tour de Tyholt nous gêne moins quand on chasse les aurores boréales.",
+					},
+					{
+						image: "img/037/day037_04.jpg",
+						legend: "Comme je n'ai pas beaucoup à raconter cette semaine, je ressors des photos du déut que j'ai récupérées des autres. Ici, la contre-photo de groupe puisqu'on n'apparaît pas sur la vraie !",
+					},
+					{
+						image: "img/037/day037_05.jpg",
+						legend: "Et une autre !",
+					},
+					{
+						image: "img/037/day037_06.jpg",
+						legend: "Et encore !",
+					},
+					{
+						image: "img/037/day037_07.jpg",
+						legend: "La photo de propagande à la forteresse, au-dessus de la ville.",
+					},
+					{
+						image: "img/037/day037_08.jpeg",
+						legend: "A Bakklandet pendant la semaine d'orientation.",
+					},
+					{
+						image: "img/037/day037_09.jpeg",
+						legend: "Le jour des hamburgers dans le jardin de la International House !",
+					},
+					{
+						image: "img/037/day037_10.jpg",
+						legend: "Expérience culinaire n°52 : Bon, je ne suis toujours pas convaincue par le pain 'français' ici, mais ça fera l'affaire pour mes sandwiches.",
+					},
+					{
+						image: "img/037/day037_11.jpg",
+						legend: "Expérience culinaire n°53 : Je ne suis pas plus convaincue par le jambon. Je serai contente d'en retrouver du vrai en France !",
+					},
+					{
+						image: "img/037/day037_12.jpeg",
+						legend: "Expérience culinaire n°54 : C'est la première fois que j'achète du fromage norvégien ! Ca n'a pas beaucoup de goût, mais ça me manquait.",
+					},
+					{
+						image: "img/037/day037_13.jpeg",
+						legend: "Expérience culinaire n°55 : Une tuerie ces gâteaux. Ca ressemble aux granolas sans le chocolat, avec le point commun qu'on ne peut pas parier qu'on n'en mangera qu'un.",
+					}
+				]
 			}
 		];
 
