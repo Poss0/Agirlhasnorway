@@ -3786,19 +3786,134 @@
 					},
 					{
 						image: "img/045/day045_02.jpg",
-						legend: "Et ensuite, une longue journée de projet...",
+						legend: "Le Toblerone de Marjo ! Que de cadeaux alimentaires !",
 					},
 					{
 						image: "img/045/day045_03.jpg",
-						legend: "Puis une assiette de dégustation française. Merci encore papa !",
+						legend: "Et ensuite, une longue journée de projet...",
 					},
 					{
 						image: "img/045/day045_04.jpg",
-						legend: "La blague préférée des Enséarques !",
+						legend: "Puis une assiette de dégustation française. Merci encore papa !",
 					},
 					{
 						image: "img/045/day045_05.jpg",
+						legend: "La blague préférée des Enséarques !",
+					},
+					{
+						image: "img/045/day045_06.jpg",
 						legend: "Et pour finir, un super gâteau ! Merci Marjo ! Et merci aux autres bien sûr.",
+					}
+				]
+			},
+			{
+				id: "46",
+				title: "Show must go on!",
+				date: "9, 10, 11, 12, 13, 14, 15, 16 novembre",
+				html: [
+					"Cette semaine n'est pas seulement celle de mon anniversaire, c'est aussi celle des derniers cours de danse avant le spectacle ! Mercredi, on fait les derniers ajustements en danse contemporaine, et jeudi en hip-hop. Ensuite, j'ai organisé un repas avec Marjolaine, Mathilde et mon coloc Pascal. Toasts au pâté, saucisse sèche, quiche lorraine, fromage français apporté par Marjo, salade de fruits à la crème fraîche préparée par Pascal et Michele (qui a tenu à participer même s'il n'a pas mangé avec nous) et crumble pomme-banane de Marjo ; un repas au top ! La soirée se finit quand Michele (qui nous a rejoint) et Pascal partent en soirée.",
+					"Samedi, c'est la journée de répétition au studio de danse Nyhavna, de l'autre côté de la ville. Comme pour l'atelier d'octobre, pas de bol : un cours est à midi et l'autre à cinq heures, ce qui me laisse très peu de temps chez moi entre les deux ! Alors que le cours du matin dure une heure, celui de l'après-midi en nécessitera deux et demie. Mais au moins, on est au point !",
+					"Mardi, c'est la dernière séance de projet avant l'évaluation. Nous arrivons à faire un système qui marche même si le projet n'est pas terminé. Les norvégiens et leur bruit en travaillant nous épuisent, vivement la fin !",
+					"A quinze heures trente il me faut partir pour la répétition générale à Studentersamfundet. Le rendez-vous est à seize heures pour démarrer à seize heures trente. Je pensais que trois heures suffiraient, mais je suis loin du compte. La salle est remplie de danseurs, et je comprends que nous ne pourrons pas assister au spectacle le jour J. Il y a trente danses ! Elle sont d'abord exécutées toutes une fois, en prenant le temps que chacun mémorise ses placements. Certaines sont tellement belles qu'elles me font pleurer, d'autres sont à éclater de rire. Puis Lars, mon instructeur de hip-hop, apprend à tout le monde la danse finale. Enfin nous faisons la répétition générale dans l'ordre avec les lumières. L'ensemble s'achèvera à vingt-deux heures trente et je suis bien contente de rentrer enfin.",
+					"Mercredi, je me lève tard, n'ai pas le temps de faire grand chose, puis me prépare pour le show. Sur place, on fait un dernier ajustement des placements, puis tous les danseurs se retranchent dans les vestiaires, où il faut être le plus silencieux possible. J'emprunte les éléments de costume dont j'ai besoin pour le hip-hop, me maquille pour ne pas paraître pâle sous les lumières, et c'est parti ! Je fais une grosse erreur et ai du mal à sourire avec le stress, mais je me suis amusée. Même chose en danse contemporaine, où nous sommes plusieurs à faire de petites erreurs. Finalement je profite de la danse finale avant de rentrer. Apparemment, le public a apprécié l'ensemble.",
+					"Jeudi, même journée à cela près que je remets enfin mon blog au présent !"
+				],
+				images: [
+					{
+						image: "img/046/day046_01.jpg",
+						legend: "J'ai déplacé mon bureau !",
+					},
+					{
+						image: "img/046/day046_02.jpg",
+						legend: "Ah bon, ça existe les centimes ici ?!",
+					},
+					{
+						image: "img/046/day046_03.jpg",
+						legend: "Un gratin dauphinois maison, cool ! (Je marche sur les plates-bandes de tata Sophie)",
+					},
+					{
+						image: "img/046/day046_04.jpg",
+						legend: "Eh oui, vélo et neige ne font pas bon ménage ! Pourtant, il y en a encore beaucoup en ville.",
+					},
+					{
+						image: "img/046/day046_05.jpg",
+						legend: "L'église de jour !",
+					},
+					{
+						image: "img/046/day046_06.jpg",
+						legend: "Noël is coming !",
+					},
+					{
+						image: "img/046/day046_07.jpg",
+						legend: "La panoplie de l'hiver : carte de bus et bande réfléchissante.",
+					},
+					{
+						image: "img/046/day046_08.jpg",
+						legend: "Même le lait a pris un air de Noël",
+					},
+					{
+						image: "img/046/day046_09.jpg",
+						legend: "",
+					},
+					{
+						image: "img/046/day046_10.jpg",
+						legend: "Le projet final...",
+					},
+					{
+						image: "img/046/day046_11.jpg",
+						legend: "Si si c'est bien rangé !",
+					},
+					{
+						image: "img/046/day046_12.jpg",
+						legend: "Les danseurs remplissent la salle lors de la répét...",
+					},
+					{
+						image: "img/046/day046_13.jpg",
+						legend: "Expérience culinaire n°66 : Des Granola norvégiens !",
+					},
+					{
+						image: "img/046/day046_14.jpg",
+						legend: "Expérience culinaire n°67 : Des oignons frits...",
+					},
+					{
+						image: "img/046/day046_15.jpg",
+						legend: "Expérience culinaire n°68 : Des pains à hot-dogs...",
+					},
+					{
+						image: "img/046/day046_16.jpg",
+						legend: "Expérience culinaire n°69 : Et des saucisses ! La panoplie hot-dogs parfaite !",
+					},
+					{
+						image: "img/046/day046_17.jpg",
+						legend: "Le planning du show !",
+					},
+					{
+						image: "img/046/day046_18.jpg",
+						legend: "A seize heures, il fait déjà presque nuit. Les restes de coucher de soleil sont visibles dans la fenêtre en face.",
+					},
+					{
+						image: "img/046/day046_19.jpg",
+						legend: "Retour sur le début d'année : le groupe de hip-hop !",
+					},
+					{
+						image: "img/046/day046_20.jpg",
+						legend: "Placement du groupe de danse contemporaine !",
+					},
+					{
+						image: "img/046/day046_21.jpg",
+						legend: "Le groupe de hip-hop avant le show !",
+					},
+					{
+						image: "img/046/day046_22.jpg",
+						legend: "Le groupe après ! (Je suis déjà prête pour ma danse suivante)",
+					},
+					{
+						image: "img/046/day046_23.jpg",
+						legend: "La danse finale...",
+					},
+					{
+						image: "img/046/day046_24.jpg",
+						legend: "...et encore !",
 					}
 				]
 			}
