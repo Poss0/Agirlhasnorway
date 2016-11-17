@@ -3901,22 +3901,18 @@
 					},
 					{
 						image: "img/046/day046_21.jpg",
-						legend: "Le groupe de hip-hop avant le show !",
-					},
-					{
-						image: "img/046/day046_22.jpg",
 						legend: "Le groupe après ! (Je suis déjà prête pour ma danse suivante)",
 					},
 					{
-						image: "img/046/day046_23.jpg",
+						image: "img/046/day046_22.jpg",
 						legend: "La danse finale...",
 					},
 					{
-						image: "img/046/day046_24.jpg",
+						image: "img/046/day046_23.jpg",
 						legend: "...et encore !",
 					},
 					{
-						image: "img/046/day046_25.jpg",
+						image: "img/046/day046_24.jpg",
 						legend: "Les coulisses jeudi !",
 					}
 				]
