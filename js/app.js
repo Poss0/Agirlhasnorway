@@ -3816,7 +3816,7 @@
 					"Mardi, c'est la dernière séance de projet avant l'évaluation. Nous arrivons à faire un système qui marche même si le projet n'est pas terminé. Les norvégiens et leur bruit en travaillant nous épuisent, vivement la fin !",
 					"A quinze heures trente il me faut partir pour la répétition générale à Studentersamfundet. Le rendez-vous est à seize heures pour démarrer à seize heures trente. Je pensais que trois heures suffiraient, mais je suis loin du compte. La salle est remplie de danseurs, et je comprends que nous ne pourrons pas assister au spectacle le jour J. Il y a trente danses ! Elle sont d'abord exécutées toutes une fois, en prenant le temps que chacun mémorise ses placements. Certaines sont tellement belles qu'elles me font pleurer, d'autres sont à éclater de rire. Puis Lars, mon instructeur de hip-hop, apprend à tout le monde la danse finale. Enfin nous faisons la répétition générale dans l'ordre avec les lumières. L'ensemble s'achèvera à vingt-deux heures trente et je suis bien contente de rentrer enfin.",
 					"Mercredi, je me lève tard, n'ai pas le temps de faire grand chose, puis me prépare pour le show. Sur place, on fait un dernier ajustement des placements, puis tous les danseurs se retranchent dans les vestiaires, où il faut être le plus silencieux possible. J'emprunte les éléments de costume dont j'ai besoin pour le hip-hop, me maquille pour ne pas paraître pâle sous les lumières, et c'est parti ! Je fais une grosse erreur et ai du mal à sourire avec le stress, mais je me suis amusée. Même chose en danse contemporaine, où nous sommes plusieurs à faire de petites erreurs. Finalement je profite de la danse finale avant de rentrer. Apparemment, le public a apprécié l'ensemble.",
-					"Jeudi, même journée à cela près que je remets enfin mon blog au présent !"
+					"Jeudi, même journée à cela près que je remets enfin mon blog au présent ! C'est l'autre groupe qui danse le hip-hop cette fois, donc je dois attendre un moment avant de danser. Cette fois je fais tout sans erreur. C'est incroyable de se sentir appartenir à un tout, un si grand groupe de danseurs, un si grand spectacle. Et pourtant la prestation va si vite ! Je fais la danse finale et je rentre ; le défi de suivre des cours de danse en anglais et en norvégien est réussi !"
 				],
 				images: [
 					{
@@ -3914,6 +3914,10 @@
 					{
 						image: "img/046/day046_24.jpg",
 						legend: "...et encore !",
+					},
+					{
+						image: "img/046/day046_25.jpg",
+						legend: "Les coulisses jeudi !",
 					}
 				]
 			}
