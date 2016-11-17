@@ -3016,7 +3016,7 @@
 					},
 					{
 						image: "img/038/day038_33.jpg",
-						legend: "eureusement que t'es là toi ! Nous réchauffer, nous faire à manger, rendre notre eau potable...autant de choses indispensables auxquels ont ne pense même pa d'habitude !",
+						legend: "Heureusement que t'es là toi ! Nous réchauffer, nous faire à manger, rendre notre eau potable...autant de choses indispensables auxquelles on ne pense même pas d'habitude !",
 					},
 					{
 						image: "img/038/day038_34.jpg",
@@ -3057,7 +3057,7 @@
 					"Le rangement de rigueur effectué, nous attaquons la montagne tout droit sans trop nous poser de questions. La montée est extrêmement difficile, ma tête dit 'vas-y tu peux le faire' quand mon corps dit 'arrête je n'en peux plus'. Heureusement tout le monde et patient est j'arriverai à monter aussi haut que les autres. Nous marchons le long de ce que nous croyons être une crête, les pieds dans la neige. La vue est magnifique de tout les côtés. Il y a là de nouveau un lac ; cette fois inutile de chercher de l'eau liquide sous la glace.",
 					"Nous amorçons la descente, qui sera très pénible et traumatisante pour le corps. Mais nous profitons de la vue et du grand air et discutons tranquillement ; c'est ça être au présent. Dès que nous atteignons un endroit à l'abri du vent, nous mangeons. La rivière est plus gelée que la veille. J'imagine que nous avons eu beaucoup de chance ; cette cabine doit être très difficile d'accès lorsque le terrain est humide ou par temps neigeux. Ce qui explique que quelqu'un y soit mort (je fais bien de ne vous dire ça qu'après hein ?).",
 					"La grande rivière retraversée, nous apercevons un groupe d'animaux. Des cerfs ? Des élans ? Non, c'est un troupeau de rennes ! Ils sont là, dans leur environnement naturel. Nous ne nous approchons pas de trop mais les observons un moment avant de redescendre. Puis nous longeons la rivière, replongeons dans les arbres, retraversons les ruisseaux - gelés cette fois.",
-					"La voiture atteinte, nous repartons, heureux. Parce que, sans les clés, c'était loin d'être gagné ! Le trajet retour sera ponctué de conversations très intéressantes sur les différences culturelles : alimentation, éducation, langages, ce sont des sujets de notre quotidien qui sont abordés. Il ne fait nul doute que cette expérience modifiera nos habitudes pour toujours. Je rentre et m'écroule d'un sommeil bien mérité."
+					"La voiture atteinte, nous repartons, heureux. Parce que, sans les clés, c'était loin d'être gagné ! Le trajet retour sera ponctué de conversations très intéressantes sur les différences culturelles : alimentation, éducation, langages, ce sont des sujets de notre quotidien qui sont abordés. Il ne fait nul doute que cette expérience modifiera nos habitudes pour toujours. Je rentre et m'écroule d'un sommeil bien mérité...après avoir aidé mes colocs à nettoyer l'appartement pour la vérification qui sera effectuée par SiT le lendemain matin."
 				],
 				images: [
 					{
@@ -3193,7 +3193,504 @@
 						legend: "Photo finish : avec les clés !",
 					},
 				]
-			}
+			},
+			{
+				id: "40",
+				title: "Retour à la réalité",
+				date: "17, 18, 19, 20, 21, 22, 23 octobre",
+				html: [
+					"En me réveillant lundi matin, je regarde sur le tableau : c'est bon, SiT a validé notre nettoyage des espaces communs, nous n'aurons pas à payer le nettoyage, ouf !",
+					"Le reste de la semaine est ponctué par le travail, j'ai un devoir à rendre mercredi et un autre vendredi. Par chance, les deux dates limite sont repoussées d'une semaine. Cela ne nous empêchera pas de passer nos journées entières dans les laboratoires remplis de norvégiens irrespectueux qui ouvrent la fenêtre malgré le froid, parlent très forts, et nous prennent de haut, nous les étranger qui n'y arrivons pas.",
+					"Nous nous accordons une sortie en ville avec Marjolaine un soir de la semaine. J'achète un moule à gâteau, cela fera un peu de réconfort au milieu de tout ça ! Je suis aussi invitée à un before d'anniversaire jeudi. J'ai envie d'aller en soirée avec eux, mais ce n'est pas raisonnable, tant pis !",
+					"Finalement le week-end arrive et avec lui des activités un peu plus sympa. J'inaugure mon moule avec un gâteau au chocolat que nous mangeons avec Marjolaine et Mathilde. S'en suit une discussion jusqu'à deux heures du matin, nous permettant de voir que nous avons toutes les mêmes inquiétudes vis-à-vis du monde et de l'avenir !",
+					"Samedi, je me suis inscrite à un atelier de danse avec des professionnels. Ca vaut le coup ; le cours de danse contemporaine du matin est gé-nial et me laisse zen pour toute la journée. Le temps de rentrer (le studio est à l'autre bout de la ville), je n'ai que très peu de temps chez moi avant le cours de hip-hop de l'après-midi. Il s'avère bien plus difficile, mais le bilan de cette journée est positif. Elle constitue une pause efficace avant de reprendre le travail dimanche."
+				],
+				images: [
+					{
+						image: "img/040/day040_01.jpg",
+						legend: "Le message laissé par SiT pour valider notre grand nettoyage d'automne !",
+					},
+					{
+						image: "img/040/day040_02.jpg",
+						legend: "La canelle, outil indispensable ici !",
+					},
+					{
+						image: "img/040/day040_03.jpg",
+						legend: "En période de travail intense, rien de tel que du pain perdu !",
+					},
+					{
+						image: "img/040/day040_04.jpg",
+						legend: "Expérience culinaire n°56 : Du jus de pomme pétillant.",
+					},
+					{
+						image: "img/040/day040_05.jpg",
+						legend: "Expérience culinaire n°57 : A 3€ la tablette de 100g, je comprends pourquoi le chocolat est un luxe ! Et encore le pâtissier est le moins cher.",
+					},
+					{
+						image: "img/040/day040_06.jpg",
+						legend: "Le gâteau au chocolat dans le four, mmmmmh !",
+					}
+				]
+			},
+			{
+				id: "41",
+				title: "Cuisine et changement d'heure",
+				date: "24, 25, 26, 27, 28, 29, 30 octobre",
+				html: [
+					"La semaine est encore une fois très studieuse, du fait des devoirs à rendre mercredi, vendredi et dimanche. Il fait toujours beau en ce mois d'octobre...jusqu'au milieu de la semaine où cela se dégrade. Pas de chance, ce sont les vacances de la Toussaint et pas mal de français ont leurs copains/copines en visite !",
+					"Je profite du week-end pour cuisiner à nouveau pour avoir du réconfort lors du travail dans la semaine. Dans la nuit de samedi à dimanche, c'est le changement d'heure. Je travaille jusqu'à deux heures du matin, en me disant 'chouette, il me reste un heure de sommeil de plus donc c'est comme s'il était seulement une heure'. Ce n'est qu'après que je découvre que le changement d'heure a déjà eu lieu ; j'ai donc travaillé jusqu'à trois heures. Le lendemain, je décide d'aller faire un tour près de l'église et du cimetière de Moholt. C'est plutôt une bonne idée parce qu'en cette période les tombes doivent être fleuries... Ce que je n'ai pas réalisé, c'est qu'avec le changement d'heure, il fait nuit à seize heures, et je me retrouve dans une situation plutôt glauque ! Il y a des lumières sur les tombes, ce qui est effectivement plus logique que des fleurs ici."
+				],
+				images: [
+					{
+						image: "img/041/day041_01.jpg",
+						legend: "Petit zèbre va bien !",
+					},
+					{
+						image: "img/041/day041_02.jpg",
+						legend: "Réveillée une n-ième fois par le chantier.",
+					},
+					{
+						image: "img/041/day041_03.jpg",
+						legend: "Expérience culinaire n°58 : Le Kanelbolle de chez SiT, tout juste sorti du four. Ca aussi j'exporte !",
+					},
+					{
+						image: "img/041/day041_04.jpg",
+						legend: "Une pause photo, car l'automne c'est beau !",
+					},
+					{
+						image: "img/041/day041_05.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_06.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_07.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_08.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_09.jpg",
+						legend: "Tous les levers de soleil sont superbes. Et avec le changement d'heure, il devient plus facile de les voir ! Sur les trois personnes du chantier, deux sont des femmes.",
+					},
+					{
+						image: "img/041/day041_10.jpg",
+						legend: "A 'berry berry exciting taste'. De l'humour anglais...et pas de traduction en norvégien !",
+					},
+					{
+						image: "img/041/day041_11.jpg",
+						legend: "Ce tableau reste allumé toute la journée juste pour indiquer les bureaux des profs. Paradoxal dans le pays des voitures électriques, des bus, des vélos (et des skis à roulette).",
+					},
+					{
+						image: "img/041/day041_12.jpg",
+						legend: "Le soleil se lève encore (heureusement !).",
+					},
+					{
+						image: "img/041/day041_13.jpg",
+						legend: "Cette fois c'est un gâteau pommme-cannelle qui cuit !",
+					},
+					{
+						image: "img/041/day041_14.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_15.jpg",
+						legend: "L'arrivée de la pluie !",
+					},
+					{
+						image: "img/041/day041_16.jpg",
+						legend: "Moholt kirkegard.",
+					},
+					{
+						image: "img/041/day041_17.jpg",
+						legend: "Strinda kirke.",
+					},
+					{
+						image: "img/041/day041_18.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_19.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_20.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_21.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_22.jpg",
+						legend: "Bizarre de voir un panneau par terre.",
+					},
+					{
+						image: "img/041/day041_23.jpg",
+						legend: "Les maisons éclairées sur la colline au loin, waouh !",
+					},
+					{
+						image: "img/041/day041_24.jpg",
+						legend: "Pâte brisée maison !",
+					},
+					{
+						image: "img/041/day041_25.jpg",
+						legend: "",
+					},
+					{
+						image: "img/041/day041_26.jpg",
+						legend: "Expérience culinaire n°59 : Ah, j'ai enfin trouvé de vrais lardons ! Ils sont très chers et très gras.",
+					},
+					{
+						image: "img/041/day041_27.jpg",
+						legend: "Expérience culinaire n°60 : Pas plus de goût que le précédent.",
+					},
+					{
+						image: "img/041/day041_28.jpg",
+						legend: "Vivement le retour du comté !",
+					},
+					{
+						image: "img/041/day041_29.jpg",
+						legend: "Tentative de torsades...",
+					},
+					{
+						image: "img/041/day041_30.jpg",
+						legend: "Quiche façon cratère !",
+					},
+					{
+						image: "img/041/day041_31.jpg",
+						legend: "'Not bad!'",
+					}
+				]
+			},
+			{
+				id: "42",
+				title: "Avant la tempête",
+				date: "31 octobre, 1er, 2 novembre",
+				html: [
+					"La semaine s'annonçait une nouvelle fois studieuse, mais elle est heureusement marque par l'arrivée d'un colis de papa et d'Eloi ! Chouette !"
+				],
+				images: [
+					{
+						image: "img/042/day042_01.jpg",
+						legend: "Ces claviers norvégiens nous donnent du fil à retordre !",
+					},
+					{
+						image: "img/042/day042_02.jpg",
+						legend: "Ah ah, j'ai hâte d'être à ce soir pour le récupérer !",
+					},
+					{
+						image: "img/042/day042_03.jpg",
+						legend: "J'ai rarement été aussi excitée à l'idée d'ouvrir un paquet !",
+					},
+					{
+						image: "img/042/day042_04.jpg",
+						legend: "Tout est bien protégé !",
+					},
+					{
+						image: "img/042/day042_05.jpg",
+						legend: "Il y en a qui se sont bien amusés !",
+					},
+					{
+						image: "img/042/day042_06.jpg",
+						legend: "Je n'ai pas pu résister à tout ouvrir et à faire une photo générale, mais promis, je ne mangerai pas tout d'un coup ! J'ai même pu lire le journal !",
+					},
+					{
+						image: "img/042/day042_07.jpg",
+						legend: "Ciel bleu mais feuilles d'automnes...",
+					},
+					{
+						image: "img/042/day042_08.jpg",
+						legend: "A seize heures, le soleil se couche déjà, donnant cette jolie couleur !",
+					},
+					{
+						image: "img/042/day042_09.jpg",
+						legend: "Expérience culinaire n°61 : Test comparatif de brunost ! Le gagnant sera-t-il pur lait de vache ou moitié lait de chèvre ?",
+					},
+					{
+						image: "img/042/day042_10.jpg",
+						legend: "Pour que vous voyez à quoi ça ressemble.",
+					},
+					{
+						image: "img/042/day042_11.jpg",
+						legend: "Expérience culinaire n° 62 : Les produits pour Jul, les festivités de début décembre, sont déjà en magasin ! Ces bâtonnets à l'amande en font partie.",
+					},
+					{
+						image: "img/042/day042_12.jpg",
+						legend: "Expérience culinaire n° 63 : Des petits briques de lait au chocolat vendues un peu partout, y compris dans les cafétérias du campus. Et déjà déguisées pour décembre.",
+					}
+				]
+			},
+			{
+				id: "43",
+				title: "Il neige à Trondheim !",
+				date: "3 novembre",
+				html: [
+					"Quand j'ouvre les rideaux ce matin, je constate qu'il neige ! Marjolaine et moi décidons d'aller nous promener pour voir la ville sous la neige. Avec la nuit qui tombe tôt et les lumières des rues, cette journée fait très esprit de Noël ! En rentrant, je constate que tous les habitants de Moholt s'en sont donné à coeur joie ; des bonhommes de neige ont poussé partout. Dans la soirée, je recevrai des boules dans ma fenêtre, ce qui m'obligera à descendre me battre avec les autres."
+				],
+				images: [
+					{
+						image: "img/043/day043_01.jpg",
+						legend: "La vue de ma fenêtre au réveil.",
+					},
+					{
+						image: "img/043/day043_02.jpg",
+						legend: "Et de celle de la cuisine.",
+					},
+					{
+						image: "img/043/day043_03.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_04.jpg",
+						legend: "Timelapse...",
+					},
+					{
+						image: "img/043/day043_05.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_06.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_07.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_08.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_09.jpg",
+						legend: "Ca ne vous chiffone pas, vous, cette plaque d'égout qui ne s'enneige pas ?",
+					},
+					{
+						image: "img/043/day043_10.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_11.jpg",
+						legend: "Séance photo pour mon CV. D'évidence ce ne sera pas celle-ci. Tu me cherches recruteur ?",
+					},
+					{
+						image: "img/043/day043_12.jpg",
+						legend: "Quelques centimètres en début d'après-midi déjà !",
+					},
+					{
+						image: "img/043/day043_13.jpg",
+						legend: "Mon immeuble !",
+					},
+					{
+						image: "img/043/day043_14.jpg",
+						legend: "Automne ou hiver ?",
+					},
+					{
+						image: "img/043/day043_15.jpg",
+						legend: "Parée pour le froid !",
+					},
+					{
+						image: "img/043/day043_16.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_17.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_18.jpg",
+						legend: "Il en faudra plus pour arrêter les bus !",
+					},
+					{
+						image: "img/043/day043_19.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_20.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_21.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_22.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_23.jpg",
+						legend: "Automne ou hiver ?",
+					},
+					{
+						image: "img/043/day043_24.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_25.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_26.jpg",
+						legend: "Gløshaugen !",
+					},
+					{
+						image: "img/043/day043_27.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_28.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_29.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_30.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_31.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_32.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_33.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_34.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_35.jpg",
+						legend: "Un peu de pub...",
+					},
+					{
+						image: "img/043/day043_36.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_37.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_38.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_39.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_40.jpg",
+						legend: "Au risque de me répéter, automne ou hiver ?",
+					},
+					{
+						image: "img/043/day043_41.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_42.jpg",
+						legend: "Ca y est, la nuit tombe...",
+					},
+					{
+						image: "img/043/day043_43.jpg",
+						legend: "Hiiii !",
+					},
+					{
+						image: "img/043/day043_44.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_45.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_46.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_47.jpg",
+						legend: "J'ai froid brrr !",
+					},
+					{
+						image: "img/043/day043_48.jpg",
+						legend: "La cathédrale !",
+					},
+					{
+						image: "img/043/day043_49.jpg",
+						legend: "Et son cimetière.",
+					},
+					{
+						image: "img/043/day043_50.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_51.jpg",
+						legend: "Ce pont près de Bakklandet, qu'on aime aller voir et revoir...",
+					},
+					{
+						image: "img/043/day043_52.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_53.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_54.jpg",
+						legend: "C'est presque Noël !",
+					},
+					{
+						image: "img/043/day043_55.jpg",
+						legend: "On peut acheter des patins à glace dans n'importe quel magasin de sport.",
+					},
+					{
+						image: "img/043/day043_56.jpg",
+						legend: "Ainsi que des skis, et des luges d'une qualité bien supérieure à celles qu'on trouve en France !",
+					},
+					{
+						image: "img/043/day043_57.jpg",
+						legend: "Retour sur le premier pont. La nuit est tombée ; la forteresse et la tour de Tyholt surplombent toujours la ville.",
+					},
+					{
+						image: "img/043/day043_58.jpg",
+						legend: "Il y a même des stalactites par endroits !",
+					},
+					{
+						image: "img/043/day043_59.jpg",
+						legend: "Dans la série 'concepts inexportables', ces chaussures en vrac dans l'entrée des vestiaires. On ne marche pas avec ses chaussures d'extérieur à l'intérieur, et on est sûr de retrouver ses chaussures en sortant !",
+					},
+					{
+						image: "img/043/day043_60.jpg",
+						legend: "Une pub avec l'aide de Kygo !",
+					},
+					{
+						image: "img/043/day043_61.jpg",
+						legend: "Une armada de bonhommes de neige !",
+					},
+					{
+						image: "img/043/day043_62.jpg",
+						legend: "",
+					},
+					{
+						image: "img/043/day043_63.jpg",
+						legend: "Celui de Maxime, à l'effigie de l'ENSEA !",
+					},
+					{
+						image: "img/043/day043_64.jpg",
+						legend: "Et cette fameuse plaque d'égout qui doit être chauffée...",
+					},
+				]
+			},
 		];
 
 		$scope.latestArticle = $scope.articles[$scope.articles.length - 1];
