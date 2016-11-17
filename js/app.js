@@ -3430,7 +3430,7 @@
 				title: "Il neige à Trondheim !",
 				date: "3 novembre",
 				html: [
-					"Quand j'ouvre les rideaux ce matin, je constate qu'il neige ! Marjolaine et moi décidons d'aller nous promener pour voir la ville sous la neige. Avec la nuit qui tombe tôt et les lumières des rues, cette journée fait très esprit de Noël ! En rentrant, je constate que tous les habitants de Moholt s'en sont donné à coeur joie ; des bonhommes de neige ont poussé partout. Dans la soirée, je recevrai des boules dans ma fenêtre, ce qui m'obligera à descendre me battre avec les autres."
+					"Quand j'ouvre les rideaux ce matin, je constate qu'il neige ! Sans me poser une seconde la question, je vais quand même prendre le bus, qui arrive parfaitement à l'heure. Marjolaine et moi décidons d'aller nous promener pour voir la ville sous la neige. Un stand de l'association des cyclistes de Norvège donne des lumières pour le vélo de Marjolaine et une bande réfléchissante pour moi. Avec la nuit qui tombe tôt et les lumières des rues, cette journée fait très esprit de Noël ! En rentrant, je constate que tous les habitants de Moholt s'en sont donné à coeur joie ; des bonhommes de neige ont poussé partout. Dans la soirée, je recevrai des boules dans ma fenêtre, ce qui m'obligera à descendre me battre avec les autres."
 				],
 				images: [
 					{
@@ -3691,6 +3691,117 @@
 					},
 				]
 			},
+			{
+				id: "44",
+				title: "Après la tempête",
+				date: "4, 5, 6, 7 novembre",
+				html: [
+					"La vie reprend son cours après une parenthèse enneigée. Le froid et l'arrivée des évaluations de projet et des examens rend tout le monde bien moins actif !"
+				],
+				images: [
+					{
+						image: "img/044/day044_01.jpg",
+						legend: "Le beau temps est parti, mais la neige est toujours là !",
+					},
+					{
+						image: "img/044/day044_02.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_03.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_04.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_05.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_06.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_07.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_08.jpg",
+						legend: "Grosse fatigue.",
+					},
+					{
+						image: "img/044/day044_09.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_10.jpg",
+						legend: "Pas de batteur ? Utilise tes bras !",
+					},
+					{
+						image: "img/044/day044_11.jpg",
+						legend: "Des meringues.",
+					},
+					{
+						image: "img/044/day044_12.jpg",
+						legend: "Expérience culinaire n° 64 : Enfin une bonne baguette ! Je ne l'ai trouvée qu'une fois.",
+					},
+					{
+						image: "img/044/day044_13.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_14.jpg",
+						legend: "Timelapse again !",
+					},
+					{
+						image: "img/044/day044_15.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_16.jpg",
+						legend: "",
+					},
+					{
+						image: "img/044/day044_17.jpg",
+						legend: "Expérience culinaire n° 65 : Un 'fromage' norvégien très bizarre.",
+					}
+				]
+			},
+			{
+				id: "45",
+				title: "Gratulerer med dagen!",
+				date: "8 novembre",
+				html: [
+					"Je me réveille aujoud'hui et m'autorise à attaquer ce que je n'ai pas encore déballé de mon colis. Après un bon petit-déjeuner, je me rends au labo comme tous les mardis. Marjolaine arrive, armée d'un Toblerone qu'elle m'offre comme cadeau, trop chou !",
+					"A midi j'ai prévu une part de quiche pour moi, et des meringues à partager, pour continuer sur la lancée de nourriture française ! Marjolaine organise un truc pour ce soir.",
+					"En rentrant, mes deux colocs allemands me souhaitent chaleureusement mon anniversaire. Je mange encore des produits français avant d'aller chez Marjolaine. On fait ensemble un gâteau au chocolat que l'on déguste avec ses colocs et les autres Enséarques. Les filles ont même prévu les bougies, c'est trop gentil ! J'ai apporté des carambars, qui sont français, les autres ne connaissent pas ! Ce n'est pas facile d'expliquer des blagues principalement à base de jeux de mots.",
+					"Quand je retourne chez moi je trouve mes colocs qui jouent au 'Doppelkopf' avec leurs potes. Je leur avais donné des carambars en partant et ils n'ont déchiffré qu'une blague. Leur jeu a l'air compliqué !"
+				],
+				images: [
+					{
+						image: "img/045/day045_01.jpg",
+						legend: "Un bon petit-déjeuner français pour fêter mon anniversaire !",
+					},
+					{
+						image: "img/045/day045_02.jpg",
+						legend: "Et ensuite, une longue journée de projet...",
+					},
+					{
+						image: "img/045/day045_03.jpg",
+						legend: "Puis une assiette de dégustation française. Merci encore papa !",
+					},
+					{
+						image: "img/045/day045_04.jpg",
+						legend: "La blague préférée des Enséarques !",
+					},
+					{
+						image: "img/045/day045_05.jpg",
+						legend: "Et pour finir, un super gâteau ! Merci Marjo ! Et merci aux autres bien sûr.",
+					}
+				]
+			}
 		];
 
 		$scope.latestArticle = $scope.articles[$scope.articles.length - 1];
