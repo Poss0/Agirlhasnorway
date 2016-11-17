@@ -3291,27 +3291,27 @@
 					},
 					{
 						image: "img/041/day041_13.jpg",
-						legend: "Cette fois c'est un gâteau pommme-cannelle qui cuit !",
+						legend: "",
 					},
 					{
 						image: "img/041/day041_14.jpg",
-						legend: "",
+						legend: "Cette fois c'est un gâteau pommme-cannelle qui cuit !",
 					},
 					{
 						image: "img/041/day041_15.jpg",
-						legend: "L'arrivée de la pluie !",
+						legend: "",
 					},
 					{
 						image: "img/041/day041_16.jpg",
-						legend: "Moholt kirkegard.",
+						legend: "L'arrivée de la pluie !",
 					},
 					{
 						image: "img/041/day041_17.jpg",
-						legend: "Strinda kirke.",
+						legend: "Moholt kirkegard.",
 					},
 					{
 						image: "img/041/day041_18.jpg",
-						legend: "",
+						legend: "Strinda kirke.",
 					},
 					{
 						image: "img/041/day041_19.jpg",
@@ -3487,15 +3487,15 @@
 					},
 					{
 						image: "img/043/day043_14.jpg",
-						legend: "Automne ou hiver ?",
+						legend: "",
 					},
 					{
 						image: "img/043/day043_15.jpg",
-						legend: "Parée pour le froid !",
+						legend: "Automne ou hiver ?",
 					},
 					{
 						image: "img/043/day043_16.jpg",
-						legend: "",
+						legend: "Parée pour le froid !",
 					},
 					{
 						image: "img/043/day043_17.jpg",
@@ -3682,7 +3682,7 @@
 						legend: "",
 					},
 					{
-						image: "img/043/day043_63.jpg",
+						image: "img/043/day043_63.jpeg",
 						legend: "Celui de Maxime, à l'effigie de l'ENSEA !",
 					},
 					{
