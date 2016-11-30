@@ -4019,102 +4019,126 @@
 					},
 					{
 						image: "img/048/day048_05.jpg",
-						legend: "Notre montage final ! Qui ne marche pas, hourra !",
+						legend: "Sur la route de l'université...",
 					},
 					{
 						image: "img/048/day048_06.jpg",
+						legend: "Le ciel se fond dans le décor, il n'y a plus d'horizon !",
+					},
+					{
+						image: "img/048/day048_07.jpg",
+						legend: "Notre montage final ! Qui ne marche pas, hourra !",
+					},
+					{
+						image: "img/048/day048_08.jpg",
 						legend: "Hormis les câbles au-dessus, les fils sont quand même vachement bien tirés. Bravo Marjo !",
 					},
 					{
-						image: "img/048/day048_07.JPG",
+						image: "img/048/day048_09.JPG",
 						legend: "Sur le campus.",
 					},
 					{
-						image: "img/048/day048_08.JPG",
+						image: "img/048/day048_10.JPG",
 						legend: "Un peu bizarre ces lettres. Comment ça je lis dans le mauvais sens ?",
 					},
 					{
-						image: "img/048/day048_09.JPG",
+						image: "img/048/day048_11.JPG",
 						legend: "Voilà qui est mieux.",
 					},
 					{
-						image: "img/048/day048_10.JPG",
+						image: "img/048/day048_12.JPG",
 						legend: "Il fallait bien le faire une fois !",
 					},
 					{
-						image: "img/048/day048_11.jpg",
+						image: "img/048/day048_13.jpg",
 						legend: "Tu prends toute la place Pauline !",
 					},
 					{
-						image: "img/048/day048_12.jpg",
+						image: "img/048/day048_14.jpg",
 						legend: "Ah oui, pardon.",
 					},
 					{
-						image: "img/048/day048_13.JPG",
+						image: "img/048/day048_15.JPG",
 						legend: "Nidaros, vue d'une tout autre manière.",
 					},
 					{
-						image: "img/048/day048_14.JPG",
-						legend: "Rien n'arrête un cycliste à Trondheim.",
+						image: "img/048/day048_16.jpg",
+						legend: "Un panorama de Marjo joyeusement compromis par Maxime et moi-même.",
 					},
 					{
-						image: "img/048/day048_15.JPG",
-						legend: "Nidaros again.",
-					},
-					{
-						image: "img/048/day048_16.JPG",
-						legend: "La colline est prise dans les nuages.",
-					},
-					{
-						image: "img/048/day048_17.JPG",
-						legend: "Allez, encore une fois pour la route ! Ca me rappelle mes photos réversibles à Reine.",
+						image: "img/048/day048_17.jpg",
+						legend: "Cette fois c'est mieux.",
 					},
 					{
 						image: "img/048/day048_18.JPG",
-						legend: "On aperçoit Bakklandet au loin...",
+						legend: "Rien n'arrête un cycliste à Trondheim.",
 					},
 					{
 						image: "img/048/day048_19.JPG",
-						legend: "...c'est donc que notre chocolat se rapproche !",
+						legend: "Nidaros again.",
 					},
 					{
 						image: "img/048/day048_20.jpg",
-						legend: "En attente d'un selfie",
+						legend: "Encore un selfie !",
 					},
 					{
-						image: "img/048/day048_21.jpg",
-						legend: "En attente d'une photo de Maxime et moi",
+						image: "img/048/day048_21.JPG",
+						legend: "La colline est prise dans les nuages.",
 					},
 					{
-						image: "img/048/day048_22.jpg",
-						legend: "Avant...",
+						image: "img/048/day048_22.JPG",
+						legend: "Allez, encore une fois pour la route ! Ca me rappelle mes photos réversibles à Reine.",
 					},
 					{
-						image: "img/048/day048_23.jpg",
-						legend: "...juste avant...",
+						image: "img/048/day048_23.JPG",
+						legend: "On aperçoit Bakklandet au loin...",
 					},
 					{
-						image: "img/048/day048_24.jpg",
-						legend: "Après !",
+						image: "img/048/day048_24.JPG",
+						legend: "...c'est donc que notre chocolat se rapproche !",
 					},
 					{
-						image: "img/048/day048_25.JPG",
-						legend: "Toujours cette même vue...",
+						image: "img/048/day048_25.jpg",
+						legend: "Ca a l'air super bon !",
 					},
 					{
-						image: "img/048/day048_26.JPG",
-						legend: "Et ce même pont...",
+						image: "img/048/day048_26.jpg",
+						legend: "Prise en flag ! Mais c'est parce que juste avant...",
 					},
 					{
 						image: "img/048/day048_27.JPG",
+						legend: "...eux aussi prenaient des photos...",
+					},
+					{
+						image: "img/048/day048_28.jpg",
+						legend: "...et je les avais eus ! Avant de manger...",
+					},
+					{
+						image: "img/048/day048_29.jpg",
+						legend: "Juste avant de manger...",
+					},
+					{
+						image: "img/048/day048_30.jpg",
+						legend: "...et après !",
+					},
+					{
+						image: "img/048/day048_31.JPG",
+						legend: "Toujours cette vue !",
+					},
+					{
+						image: "img/048/day048_32.JPG",
+						legend: "Et ce même pont...",
+					},
+					{
+						image: "img/048/day048_33.JPG",
 						legend: "Dont on ne se lasse pas !",
 					},
 					{
-						image: "img/048/day048_28.JPG",
+						image: "img/048/day048_34.JPG",
 						legend: "Et voilà, vers seize heures, c'est la nuit noire.",
 					},
 					{
-						image: "img/048/day048_29.JPG",
+						image: "img/048/day048_35.jpg",
 						legend: "Retour sur le campus pour travailler...",
 					}
 				]
