@@ -3825,7 +3825,7 @@
 					},
 					{
 						image: "img/046/day046_02.jpg",
-						legend: "Ah bon, ça existe les centimes ici ?!",
+						legend: "Ah bon, ça existe les centimes ici ?! Ah non, en fait Marjolaine nous les as donné en pensant qu'ils étaient d'ici, mais ils viennent d'Afrique du Sud !",
 					},
 					{
 						image: "img/046/day046_03.jpg",
@@ -3901,19 +3901,341 @@
 					},
 					{
 						image: "img/046/day046_21.jpg",
-						legend: "Le groupe après ! (Je suis déjà prête pour ma danse suivante)",
+						legend: "Répétition de la danse finale...",
 					},
 					{
 						image: "img/046/day046_22.jpg",
-						legend: "La danse finale...",
+						legend: "...et encore !",
 					},
 					{
 						image: "img/046/day046_23.jpg",
-						legend: "...et encore !",
+						legend: "Une partie du groupe de hip-hop après la danse ! (Je suis déjà prête pour ma danse suivante)",
 					},
 					{
 						image: "img/046/day046_24.jpg",
 						legend: "Les coulisses jeudi !",
+					}
+				]
+			},
+			{
+				id: "47",
+				title: "Towards 'The Miracle Morning'",
+				date: "17, 18, 19, 20, 21",
+				html: [
+					"Epuisée après deux journées un peu particulières, je me lève assez tard. Je me suis mise à faire du sport le matin donc je m'y tiens, mais je ne fais rien de la journée. Avec tant de projets à rendre et les examens qui arrivent, cela m'énerve. Finalement, je décide de faire un planning précis de mes révisions. Ca commence demain, samedi, à dix heures, donc je file me coucher. Il faudra quand même me relever pour signaler à quelqu'un trois étages en-dessous que 'Close this door! It's making too much noise!'. Ok j'ai peut-être un peu exagérée, j'étais nerveuse et je voulais vraiment me coucher tôt pour commencer mon programme en pleine forme.",
+					"Samedi, c'est parti ! Je fais exactement ce qui était prévu, en me ménageant des pauses. Je me rends compte que faire un pause pour sortir se balader à seize heures n'est pas très intelligent, étant donné qu'il fait nuit. Je perds le fil des jours, on se croirait un dimanche. D'ailleurs le dimanche sera plus ou moins un copier-coller du samedi.",
+					"Lundi, c'est notre dernière séance de 'temps réel'. Nous décidons d'abandonner le projet en l'état ; il ne vaut pas beaucoup de points, mieux vaut se concentrer sur le reste. Nous faisons une pause pour préparer notre présentation du lendemain avec Marjo, puis c'est retour aux révisions."
+				],
+				images: [
+					{
+						image: "img/047/day047_01.jpg",
+						legend: "Expérience culinaire n°70 : L'étrange boisson de Noël apporté par Mathilde lors du dernier repas. Elle n'a pas bougé du frigo.",
+					},
+					{
+						image: "img/047/day047_02.jpg",
+						legend: "L'assiette apéritive du vendredi soir ! (Ce qu'il y a de bien avec les révisions, c'est que les jours se ressemblent tellement que je peux prétendre que c'est toujours vendredi)",
+					},
+					{
+						image: "img/047/day047_03.jpg",
+						legend: "Quiche saumon-épinards !",
+					},
+					{
+						image: "img/047/day047_04.jpg",
+						legend: "Vous reprendrez bien un peu de code Gray avec vos hypercubes ? Volontiers, merci.",
+					},
+					{
+						image: "img/047/day047_05.jpg",
+						legend: "Petite virée matinale !",
+					},
+					{
+						image: "img/047/day047_06.jpg",
+						legend: "Difficile de jouer là-dessuss...",
+					},
+					{
+						image: "img/047/day047_07.jpg",
+						legend: "Banc souvent dédié à l'observation des aurores boréales...",
+					},
+					{
+						image: "img/047/day047_08.jpg",
+						legend: "Je voulais faire un avant/après en sautant sur la glace de toute mes forces pour la casser. Face à ce cuisant échec, je n'ai fait qu'une photo.",
+					},
+					{
+						image: "img/047/day047_09.jpg",
+						legend: "C'est de l'anglais ou du norvégien ?!",
+					},
+					{
+						image: "img/047/day047_10.jpg",
+						legend: "J'ai récupéré des photos du show ! Au milieu des nombreuses où je suis coupée, cachée ou hors cadre, j'en ai récupéré quelques-unes où j'apparais !",
+					},
+					{
+						image: "img/047/day047_11.jpg",
+						legend: "Quelques changements de place et un jeté de pull plus tard...",
+					},
+					{
+						image: "img/047/day047_12.jpg",
+						legend: "En place pour la deuxième danse !",
+					},
+					{
+						image: "img/047/day047_13.jpg",
+						legend: "Pas facile de me trouver de dos !",
+					},
+					{
+						image: "img/047/day047_14.jpg",
+						legend: "Là quand même, vous me voyez !",
+					},
+					{
+						image: "img/047/day047_15.jpg",
+						legend: "Là en revanche, plus dur.",
+					}
+				]
+			},
+			{
+				id: "48",
+				title: "Il neige à Trondheim (encore) !",
+				date: "22",
+				html: [
+					"Aujourd'hui, j'ai décidé de mettre mon réveil tôt. Tôt, pour un étudiant en Norvège qui n'a plus de cours puisque c'est la période de révisions, c'est sept heures et demie. J'ai lu des choses vraiment intéressantes sur les bienfaits de faire des activités positives le matin, donc j'ai décidé de m'y mettre sérieusement. Comme j'avais déjà un peu commencé, sans l'aspect lever tôt, j'espère que l'habitude ne sera pas trop difficile à prendre.",
+					"Je me lève donc, et suite très surprise en ouvrant les rideaux de voir une fine couche blanche recouvrir le paysage. Il neige sûrement depuis peu de temps. Après un petit-déjeuner, j'enfile mon jogging pour aller faire un tour. La vue de la ville à l'aube sous son manteau neigeux est géniale. Voilà qui me motive à continuer. Mais déjà il faut rentrer pour finir cette nouvelle routine avec un peu de méditation.",
+					"Après ce rituel positif, j'ai juste le temps de postuler à un stage avant de rejoindre Marjolaine pour aller à l'université à pied. La neige n'a pas cessé de tomber à gros flocons depuis mon réveil ; nous voulons profiter au maximum de cette transformation du paysage. C'est très beau de voir la colline avec tous ses maisons enneigées. Comme tout le monde, nous sommes habillées en conséquence, avec des sacs de randonnée pour bien protéger nos affaires. On n'a vraiment pas l'impression d'aller à une présentation. Mais les Norvégiens ont plus de sens pratique, ils comprendront.",
+					"Arrive la préparation de la présentation. Tout fonctionne bien excepté un bug. Nous essayons de le corriger. Puis, plus rien ne fonctionne. Il nous reste vingt minutes. Nous vérifions, revérifions et rerevérifions toutes les connexions et les sources possibles de bug, mais rien n'y fera : c'est sans support fonctionnel que nous ferons la présentation. Heureusement ceux qui nous évaluent sont très compréhensifs et sympathiques. Nous sommes quand même dégoûtées que ce projet, sur lequel nous avons passé entre huit et dix heures chaque semaine, aboutisse sur un tel échec.",
+					"Pour nous remettre de nos émotions, nous nous offrons un tour en ville. L'objectif est de voir la ville enneigée de jour, cette fois, et de boire un chocolat chaud. Nous dévions de notre route habituelle pour voir la ville différemment et cela s'avère payant, c'est superbe. Nous atterrissons (bon d'accord, c'était prévu) dans un café où ils font les chocolat chauds avec du vrai chocolat et de la crème fouettée. Mmmmh. Cette pause terminée, nous remontons en direction du campus en passant par la galerie commerciale dans le centre. Nous travaillerons dans le laboratoire, bruyant comme à son habitude, jusqu'au soir (en terme d'heure, pas qu'en terme d'ensoleillement, c'est le soir depuis longtemps)."
+				],
+				images: [
+					{
+						image: "img/048/day048_01.jpg",
+						legend: "La ville se réveille sous la neige...",
+					},
+					{
+						image: "img/048/day048_02.jpg",
+						legend: "Il neige vraiment fort, il va y avoir une couche bien plus épaisse que la fois précédente !",
+					},
+					{
+						image: "img/048/day048_03.jpg",
+						legend: "Les routes sont déneigées, mais pas les bancs !",
+					},
+					{
+						image: "img/048/day048_04.jpg",
+						legend: "Ca semble toujours irréel autant de neige sur une branche...",
+					},
+					{
+						image: "img/048/day048_05.jpg",
+						legend: "Notre montage final ! Qui ne marche pas, hourra !",
+					},
+					{
+						image: "img/048/day048_06.jpg",
+						legend: "Hormis les câbles au-dessus, les fils sont quand même vachement bien tirés. Bravo Marjo !",
+					},
+					{
+						image: "img/048/day048_07.JPG",
+						legend: "Sur le campus.",
+					},
+					{
+						image: "img/048/day048_08.JPG",
+						legend: "Un peu bizarre ces lettres. Comment ça je lis dans le mauvais sens ?",
+					},
+					{
+						image: "img/048/day048_09.JPG",
+						legend: "Voilà qui est mieux.",
+					},
+					{
+						image: "img/048/day048_10.JPG",
+						legend: "Il fallait bien le faire une fois !",
+					},
+					{
+						image: "img/048/day048_11.jpg",
+						legend: "Tu prends toute la place Pauline !",
+					},
+					{
+						image: "img/048/day048_12.jpg",
+						legend: "Ah oui, pardon.",
+					},
+					{
+						image: "img/048/day048_13.JPG",
+						legend: "Nidaros, vue d'une tout autre manière.",
+					},
+					{
+						image: "img/048/day048_14.JPG",
+						legend: "Rien n'arrête un cycliste à Trondheim.",
+					},
+					{
+						image: "img/048/day048_15.JPG",
+						legend: "Nidaros again.",
+					},
+					{
+						image: "img/048/day048_16.JPG",
+						legend: "La colline est prise dans les nuages.",
+					},
+					{
+						image: "img/048/day048_17.JPG",
+						legend: "Allez, encore une fois pour la route ! Ca me rappelle mes photos réversibles à Reine.",
+					},
+					{
+						image: "img/048/day048_18.JPG",
+						legend: "On aperçoit Bakklandet au loin...",
+					},
+					{
+						image: "img/048/day048_19.JPG",
+						legend: "...c'est donc que notre chocolat se rapproche !",
+					},
+					{
+						image: "img/048/day048_20.jpg",
+						legend: "En attente d'un selfie",
+					},
+					{
+						image: "img/048/day048_21.jpg",
+						legend: "En attente d'une photo de Maxime et moi",
+					},
+					{
+						image: "img/048/day048_22.jpg",
+						legend: "Avant...",
+					},
+					{
+						image: "img/048/day048_23.jpg",
+						legend: "...juste avant...",
+					},
+					{
+						image: "img/048/day048_24.jpg",
+						legend: "Après !",
+					},
+					{
+						image: "img/048/day048_25.JPG",
+						legend: "Toujours cette même vue...",
+					},
+					{
+						image: "img/048/day048_26.JPG",
+						legend: "Et ce même pont...",
+					},
+					{
+						image: "img/048/day048_27.JPG",
+						legend: "Dont on ne se lasse pas !",
+					},
+					{
+						image: "img/048/day048_28.JPG",
+						legend: "Et voilà, vers seize heures, c'est la nuit noire.",
+					},
+					{
+						image: "img/048/day048_29.JPG",
+						legend: "Retour sur le campus pour travailler...",
+					}
+				]
+			},
+			{
+				id: "49",
+				title: "",
+				date: "23, 24, 25, 26, 27, 28",
+				html: [
+					""
+				],
+				images: [
+					{
+						image: "img/049/day049_01.jpg",
+						legend: "Expérience culinaire n°71 : Dans la série qui est sortie pour Noël, il y a des gâteaux à l'avoine, comme ceux-là. Plutôt bon !",
+					},
+					{
+						image: "img/049/day049_02.jpg",
+						legend: "Prête pour mon premier entretien téléphonique !",
+					},
+					{
+						image: "img/049/day049_03.jpg",
+						legend: "Tiens, un autre colis !",
+					},
+					{
+						image: "img/049/day049_04.jpg",
+						legend: "Je sens que quelqu'un s'est bien amusé !",
+					},
+					{
+						image: "img/049/day049_05.jpg",
+						legend: "Plus qu'à tout déballer !",
+					},
+					{
+						image: "img/049/day049_06.jpg",
+						legend: "Et vive la gastronomie française !",
+					},
+					{
+						image: "img/049/day049_07.jpg",
+						legend: "L'avis de réception du colis est arrivé le lendemain.",
+					},
+					{
+						image: "img/049/day049_08.jpg",
+						legend: "Expérience culinaire n°72 : La truite, moins gras et aussi bon que le saumon !",
+					},
+					{
+						image: "img/049/day049_09.jpg",
+						legend: "Que font les Blues Brothers dans le bus ?",
+					},
+					{
+						image: "img/049/day049_10.jpg",
+						legend: "Un livre repéré dans un café, et qui reflète assez l'expérience qu'on en a eu !",
+					},
+					{
+						image: "img/049/day049_11.jpg",
+						legend: "De nouveau la ville au réveil.",
+					},
+					{
+						image: "img/049/day049_12.jpg",
+						legend: "Ah zut, il faut remonter maintenant.",
+					},
+					{
+						image: "img/049/day049_13.jpg",
+						legend: "Etude comparative de la cuisson des pancakes. Enfin, petit-déjeuner quoi.",
+					},
+					{
+						image: "img/049/day049_14.jpg",
+						legend: "Un joli rayon de soleil quand le ciel ne joue pas à pluie-neige !",
+					},
+					{
+						image: "img/049/day049_15.jpg",
+						legend: "Du pain fait maison avec la levure de boulanger et la recette reçues !",
+					},
+					{
+						image: "img/049/day049_16.jpg",
+						legend: "Et puis une fondue, tiens.",
+					},
+					{
+						image: "img/049/day049_17.jpg",
+						legend: "La ville, encore plus tôt.",
+					}
+				]
+			},
+			{
+				id: "50",
+				title: "Exam round 1/5",
+				date: "29",
+				html: [
+					""
+				],
+				images: [
+					{
+						image: "img/050/day050_01.jpg",
+						legend: "Merci exam pour m'avoir fait lever si tôt !",
+					},
+					{
+						image: "img/050/day050_02.jpg",
+						legend: "Autre jour, ciel plus neigeux, mais même satisfaction de voir ce paysage au réveil !",
+					},
+					{
+						image: "img/050/day050_03.jpg",
+						legend: "Eh, j'ai de la neige dans les yeux !",
+					},
+					{
+						image: "img/050/day050_04.jpg",
+						legend: "Neige...",
+					},
+					{
+						image: "img/050/day050_05.jpg",
+						legend: "Soleil !",
+					},
+					{
+						image: "img/050/day050_06.jpg",
+						legend: "Le Soleil est à son zénith. Allez, faites un effort, ça se voit.",
+					},
+					{
+						image: "img/050/day050_07.jpg",
+						legend: "Et re-neige.",
+					},
+					{
+						image: "img/050/day050_08.jpg",
+						legend: "Un gratin de brocolis (vive le fromage !).",
 					}
 				]
 			}
