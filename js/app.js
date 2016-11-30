@@ -3417,7 +3417,7 @@
 					},
 					{
 						image: "img/042/day042_11.jpg",
-						legend: "Expérience culinaire n° 62 : Les produits pour Jul, les festivités de début décembre, sont déjà en magasin ! Ces bâtonnets à l'amande en font partie.",
+						legend: "Expérience culinaire n° 62 : Les produits pour Jul, c'est-à-dire Noël, sont déjà en magasin ! Ces bâtonnets à l'amande en font partie.",
 					},
 					{
 						image: "img/042/day042_12.jpg",
@@ -3920,7 +3920,7 @@
 			{
 				id: "47",
 				title: "Towards 'The Miracle Morning'",
-				date: "17, 18, 19, 20, 21",
+				date: "17, 18, 19, 20, 21 novembre",
 				html: [
 					"Epuisée après deux journées un peu particulières, je me lève assez tard. Je me suis mise à faire du sport le matin donc je m'y tiens, mais je ne fais rien de la journée. Avec tant de projets à rendre et les examens qui arrivent, cela m'énerve. Finalement, je décide de faire un planning précis de mes révisions. Ca commence demain, samedi, à dix heures, donc je file me coucher. Il faudra quand même me relever pour signaler à quelqu'un trois étages en-dessous que 'Close this door! It's making too much noise!'. Ok j'ai peut-être un peu exagérée, j'étais nerveuse et je voulais vraiment me coucher tôt pour commencer mon programme en pleine forme.",
 					"Samedi, c'est parti ! Je fais exactement ce qui était prévu, en me ménageant des pauses. Je me rends compte que faire un pause pour sortir se balader à seize heures n'est pas très intelligent, étant donné qu'il fait nuit. Je perds le fil des jours, on se croirait un dimanche. D'ailleurs le dimanche sera plus ou moins un copier-coller du samedi.",
@@ -3976,11 +3976,11 @@
 						legend: "En place pour la deuxième danse !",
 					},
 					{
-						image: "img/047/day047_13.jpg",
+						image: "img/047/day047_13.png",
 						legend: "Pas facile de me trouver de dos !",
 					},
 					{
-						image: "img/047/day047_14.jpg",
+						image: "img/047/day047_14.png",
 						legend: "Là quand même, vous me voyez !",
 					},
 					{
@@ -3992,7 +3992,7 @@
 			{
 				id: "48",
 				title: "Il neige à Trondheim (encore) !",
-				date: "22",
+				date: "22 novembre",
 				html: [
 					"Aujourd'hui, j'ai décidé de mettre mon réveil tôt. Tôt, pour un étudiant en Norvège qui n'a plus de cours puisque c'est la période de révisions, c'est sept heures et demie. J'ai lu des choses vraiment intéressantes sur les bienfaits de faire des activités positives le matin, donc j'ai décidé de m'y mettre sérieusement. Comme j'avais déjà un peu commencé, sans l'aspect lever tôt, j'espère que l'habitude ne sera pas trop difficile à prendre.",
 					"Je me lève donc, et suite très surprise en ouvrant les rideaux de voir une fine couche blanche recouvrir le paysage. Il neige sûrement depuis peu de temps. Après un petit-déjeuner, j'enfile mon jogging pour aller faire un tour. La vue de la ville à l'aube sous son manteau neigeux est géniale. Voilà qui me motive à continuer. Mais déjà il faut rentrer pour finir cette nouvelle routine avec un peu de méditation.",
@@ -4121,8 +4121,8 @@
 			},
 			{
 				id: "49",
-				title: "",
-				date: "23, 24, 25, 26, 27, 28",
+				title: "Objectif exam",
+				date: "23, 24, 25, 26, 27, 28 novembre",
 				html: [
 					""
 				],
@@ -4200,7 +4200,7 @@
 			{
 				id: "50",
 				title: "Exam round 1/5",
-				date: "29",
+				date: "29 novembre",
 				html: [
 					""
 				],
