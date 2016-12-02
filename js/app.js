@@ -4148,7 +4148,10 @@
 				title: "Objectif exam",
 				date: "23, 24, 25, 26, 27, 28 novembre",
 				html: [
-					""
+					"Mercredi, le labo de Computer Design est étrangement calme. Les norvéiens bruyants habituels sont en présentation pour un de leurs projets ; nous sommes donc tranquilles. Je finis la journée par le dernier cours de danse contemporaine. Nous avons prévu un cadeau pour nos instructrices, et elles sont très émues. Après une chorégraphie très sympa et un câlin général, je quitte la salle, où je ne reviendrai jamais !",
+					"Jeudi est un jour de révision comme les autres à cela près qu'il est ponctué de mon premier entretien téléphonique. Cela m'angoisse alors je le prépare à fond. Finalement cela se passe très bien. Vendredi, j'ai d'ailleurs une réponse positive de leur part, me demandant de leur répondre avant lundi. Le poste ne me plaisant pas autant que prévu, je préfère décliner. Retour à la case départ ! C'est Black Friday, alors je sors faire quelques achats en ville, mais il pleut des cordes.",
+					"Vient le week-end, qui n'est absolument pas différent de la semaine. Je révise encore et toujours le même cours, tant bien que mal. Dehors le ciel joue à pluie-neige, modifiant encore et encore le paysage.",
+					"Lundi, c'est mon dernier jour de révisions pour le premier examen. Je fais une pause pour aller faire un tour avec Marjolaine après son premier entretien. J'aurai mes deuxième et troisième les deux jours suivants. En fin de journée je rédige la feuille manuscrite que l'on est autorisé à apporter le jour de l'exam, et je me couche tôt pour être en forme."
 				],
 				images: [
 					{
@@ -4224,9 +4227,14 @@
 			{
 				id: "50",
 				title: "Exam round 1/5",
-				date: "29 novembre",
+				date: "29, 30 novembre",
 				html: [
-					""
+					"Cela faisait une éternité que je n'avais pas mis mon réveil aussi tôt. J'ai prévu une routine du matin plus courte que d'habitude pour éviter de perdre du temps de sommeil. Cela fait d'ailleurs une semaine que je m'y tiens ! Comme d'habitude à mon réveil, il fait nuit noire. Je me prépare et je sors pour trouver le bus. Je fais un écart sur mon lieu de photo habituel : c'est vraiment beau de nuit aussi.",
+					"Quand le bus arrive devant l'arrêt, je sais que je ne me suis pas trompée. Il est plein à craquer. Cela ne rend pas le voyage spécialement agréable, mais au moins, je suis sûre maintenant de mon itinéraire. Je descends au même endroit que les autres et n'ai qu'à les suivre pour trouver l'entrée du hangar devant lequel j'arrive. Mon nom est bien sur la liste, ouf. A ma grande surprise, il n'y a pas de places attitrées comme à l'ENSEA. Il faut simplement se placer dans l'une des rangées correspondantes à notre examen. Je découvre les participants de mon cours, auquel je n'ai jamais pu assister, mais que j'ai suivi grâce aux devoirs donnés en ligne. A l'ENSEA les gens qu'on découvre le jour des partiels sont appelés des fantômes. Je suppose qu'ici, je suis l'un d'entre eux.",
+					"Les consignes retentissent dans des haut-parleurs ; d'abord en norvégien puis en anglais. Cela me rappelle les concours de prépa, sauf qu'on est moins nombreux et que personne ne raconte des blagues pour nous détendre. Un surveillant donne des consignes additionnelles en norvégien, tant pis pour moi ! Le silence se fait à la distribution des copies et je démarre, pas spécialement de façon organisée.",
+					"Un peu plus de deux heures après, j'ai terminé. Bien que l'examen dure quatre heures, je préfère quitter la salle avant la fin, comme quatre-vingt pourcents de ceux qui suivent le même cours que moi. Le jour s'est levé. Je me rends à l'arrêt de bus mais il faut attendre douze minutes. Je pars donc à pied pour ne pas avoir froid et récupère le bus quelques arrêts plus loin.",
+					"Une fois rentrée, je prépare mon deuxième entretien téléphonique. Le poste m'intéresse beaucoup plus, j'ai intérêt à assurer. Finalement, cela se passe très bien. Le contact est bon, les questions techniques précises, mais je sais y répondre. Je suis surexcitée après l'appel ; impossible donc de travailler. Ainsi s'achève cette grande journée.",
+					"Mercredi, il est encore une fois difficile de travailler. Le troisième entretien, qui se déroule par Skype, n'est pas très concluant : je ne suis ni convaincue ni convaincante. Mais c'était un bon exercice de le faire tout en anglais. Et par Skype en sachant qu'eux avaient l'image mais pas moi car ça avait planté de mon côté !"
 				],
 				images: [
 					{
