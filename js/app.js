@@ -4270,6 +4270,103 @@
 						legend: "Un gratin de brocolis (vive le fromage !).",
 					}
 				]
+			},
+			{
+				id: "51",
+				title: "Timelapse",
+				date: "1er décembre",
+				html: [
+					"En ce jeudi 1er décembre :",
+					"Début du crépuscule astronomique : 6h21",
+					"Début du crépuscule nautique : 7h18",
+					"Début du crépuscule civil : 8h22",
+					"Lever du Soleil : 9h22",
+					"Zénith du Soleil : 12h07",
+					"Coucher du Soleil : 14h46",
+					"Fin du crépuscule civil : 15h52",
+					"Fin du crépuscule nautique : 16h56",
+					"Fin du crépuscule astrominique : 17h53",
+					"Nous fêtons les : Eloi !",
+					"*Pendant le crépuscule civil, le Soleil est situé entre 0° et 6° sous l'horizon. Les objets sont clairement distingués sans lumière artificielle. Pendant le crépuscule nautique, il est situé entre 6° et 12° sous l'horizon. Les marins peuvent encore naviguer en utilisant la ligne d'horizon comme référence, et à l'aide des étoiles. Pendant le crépuscule astronmique, le Soleil est situé entre 12° et 18° sous l'horizon. En dehors de cette période, le ciel est assez noir pour des observations astronomiques."
+				],
+				images: [
+					{
+						image: "img/051/day051_01.jpg",
+						legend: "7h10",
+					},
+					{
+						image: "img/051/day051_02.jpg",
+						legend: "8h18",
+					},
+					{
+						image: "img/051/day051_03.jpg",
+						legend: "9h07",
+					},
+					{
+						image: "img/051/day051_04.jpg",
+						legend: "9h28",
+					},
+					{
+						image: "img/051/day051_05.jpg",
+						legend: "10h01",
+					},
+					{
+						image: "img/051/day051_06.jpg",
+						legend: "10h30",
+					},
+					{
+						image: "img/051/day051_07.jpg",
+						legend: "11h36",
+					},
+					{
+						image: "img/051/day051_08.jpg",
+						legend: "12h07",
+					},
+					{
+						image: "img/051/day051_09.jpg",
+						legend: "12h58",
+					},
+					{
+						image: "img/051/day051_10.jpg",
+						legend: "13h19",
+					},
+					{
+						image: "img/051/day051_11.jpg",
+						legend: "14h09",
+					},
+					{
+						image: "img/051/day051_12.jpg",
+						legend: "14h45",
+					},
+					{
+						image: "img/051/day051_13.jpg",
+						legend: "15h15",
+					},
+					{
+						image: "img/051/day051_14.jpg",
+						legend: "15h23",
+					},
+					{
+						image: "img/051/day051_15.jpg",
+						legend: "15h39",
+					},
+					{
+						image: "img/051/day051_16.jpg",
+						legend: "16h15",
+					},
+					{
+						image: "img/051/day051_17.jpg",
+						legend: "17h10",
+					},
+					{
+						image: "img/051/day051_18.jpg",
+						legend: "17h40",
+					},
+					{
+						image: "img/051/day051_19.jpg",
+						legend: "21h06",
+					}
+				]
 			}
 		];
 
