@@ -4367,6 +4367,48 @@
 						legend: "21h06",
 					}
 				]
+			},
+			{
+				id: "52",
+				title: "Avant l'excursion",
+				date: "3 décembre",
+				html: [
+					"Difficile de travailler après une semaine comme celle-ci, surtout quand on sait que cette période de révisions se termine puisqu'un superbe week-end se prépare ! Cependant il le faut, justement pour compenser le temps que je ne pourrais pas y passer ce week-end..."
+				],
+				images: [
+					{
+						image: "img/052/day052_01.jpg",
+						legend: "Quelques décorations de Noël, tôt le matin.",
+					},
+					{
+						image: "img/052/day052_02.jpg",
+						legend: "Les étudiants se rendent à l'université de nuit !",
+					},
+					{
+						image: "img/052/day052_03.jpg",
+						legend: "Presque toutes les maisons ont cette étoile lumineuse à leur fenêtre.",
+					},
+					{
+						image: "img/052/day052_04.jpg",
+						legend: "Là aussi.",
+					},
+					{
+						image: "img/052/day052_05.jpg",
+						legend: "Le sapin de Moholt a été installé et illuminé hier soir. Je m'attendais à plus grand !",
+					},
+					{
+						image: "img/052/day052_06.jpg",
+						legend: "Le terrain de beach volley (ou snow volley ?) et le chapiteau, où plus personne ne se réunit.",
+					},
+					{
+						image: "img/052/day052_07.jpg",
+						legend: "Une quiche aux poireaux maison pour la route.",
+					},
+					{
+						image: "img/052/day052_08.jpg",
+						legend: "Staff forever !",
+					}
+				]
 			}
 		];
 
