@@ -4371,7 +4371,7 @@
 			{
 				id: "52",
 				title: "Avant l'excursion",
-				date: "3 décembre",
+				date: "2 décembre",
 				html: [
 					"Difficile de travailler après une semaine comme celle-ci, surtout quand on sait que cette période de révisions se termine puisqu'un superbe week-end se prépare ! Cependant il le faut, justement pour compenser le temps que je ne pourrais pas y passer ce week-end..."
 				],
@@ -4407,6 +4407,253 @@
 					{
 						image: "img/052/day052_08.jpg",
 						legend: "Staff forever !",
+					}
+				]
+			},
+			{
+				id: "53",
+				title: "Le marché de Noël de Røros",
+				date: "3 décembre",
+				html: [
+					"Lever six heures et demie pour un départ à huit : juste le temps d'une routine matinale raccourcie et c'est parti ! Après quelques minutes de marche fastidieuse dans la neige tombée toute la nuit, nous rejoignons la voiture. Elle a été déneigée hier avant de la garer, mais il faut recommencer. Mathilde s'en charge, dégage rapidement les fenêtres et les pare-brise. Je pense 'il faudrait peut-être déneiger le toit', je ne le dis pas. Marjolaine démarre, roule à gauche. 'Euh, tu fais quoi là ? - Ah merde, je confonds avec l'Afrique du Sud !' Une descente plus tard, la neige sur le toit s'écroule brusquement sur le pare-brise, masquant toute visibilité. Stupide moi, j'aurais dû le dire quand j'y ai pensé.",
+					"Un déneigement plus tard, nous repartons. Les chasse-neige sont en pleine action sur les grandes routes, pas de problème. Mais bifurquant sur une plus petite on trouve un route non dégagée ; celle qui nous mènera jusqu'à Røros. Marjolaine gère bien la conduite sur neige (après avoir conduit une 4L dans le désert marocain, elle est au tacquet). Le décor est incroyable ; il semble totalement irréel.",
+					"Arrivées à Røros, nous nous couvrons bien ; il fait froid ! C'est une jolie petite ville. Une couche de neige épaisse recouvre les rues et les toits. Nous nous promenons dans les rues ; les stands du marché proposent des prooduits typiques de Noël que nous goûtons et repérons pour plus tard. Les gens utilisent des petits traineaux pour avancer plus vite dans la neige. Après un tour dans la ville, nous avons faim et froid. C'est le moment idéal pour s'acheter un hamburger avec un steak de rennes et d'élan ; c'est super bon ! Nous allons ensuite nous réchauffer avec un chocolat et un gâteau dans un café.",
+					"Revigorées, nous décidons de nous éloigner un peu de la ville. On se croirait en plein désert ou dans les dunes ; des dunes de neige. On ne distingue pas les distances et à peine le ciel du sol tant tout est blanc. Nous nous battons à coup de poudreuse ; impossible de faire des boules. Nous prenons ensuite un peu de hauteur sur la ville et la vue vaut l'effort fourni à marcher avec de la neige au-dessus des genoux. Une nouvelle fois bien refroidies, nous allons faire un tour à l'intérieur avant de nous mettre dans la file d'attente pour un tour en chiens de traineaux.",
+					"Allongées par deux dans le traineau tiré par cinq ou six chiens, nous faisons un tour qui dure entre cinq et dix minutes. Les chiens ont un peu de mal ; le chauffeur plus deux ça fait beaucoup ! Mais c'était sympa d'essayer. Nous prenons un goûter bien mérité, gaufres en brochette pour les filles, smultringer pour moi : cela m'intriguait, ce sont en fait des donuts.",
+					"Il est temps de rentrer. Je ne sens plus mes pieds, j'ai la sensation qu'ils ont triplé de volumes. Rouler de nuit et sur la neige a un côté stressant, mais l'ambiance est à la détente et aux révisions. Ce soir on sera tous couchés tôt, on a du biathlon à voir demain !"
+				],
+				images: [
+					{
+						image: "img/053/day053_01.jpg",
+						legend: "L'équipe de déneigement d'urgence en action !",
+					},
+					{
+						image: "img/053/day053_02.jpg",
+						legend: "Une jolie église sur la route.",
+					},
+					{
+						image: "img/053/day053_03.jpg",
+						legend: "Sacré paysage !",
+					},
+					{
+						image: "img/053/day053_04.jpg",
+						legend: "Le premier selfie de la journée !",
+					},
+					{
+						image: "img/053/day053_05.jpg",
+						legend: "Un pont au-dessus d'une rivière partiellement gelée.",
+					},
+					{
+						image: "img/053/day053_06.jpg",
+						legend: "Sur le côté gauche de cette route, de l'eau a coulé, laissant place à de nombreux stalactites.",
+					},
+					{
+						image: "img/053/day053_07.jpg",
+						legend: "On s'enfonce dans la forêt sur des kilomètres pour atteindre Røros.",
+					},
+					{
+						image: "img/053/day053_08.jpg",
+						legend: "Des traineaux pour que les gens fassent leurs courses plus facilement ! Les habitants en ont probablement tous car il y a des noms sur certains.",
+					},
+					{
+						image: "img/053/day053_09.JPG",
+						legend: "Et voilà le centre-ville de Røros !",
+					},
+					{
+						image: "img/053/day053_10.JPG",
+						legend: "L'église qui surplombe la ville...",
+					},
+					{
+						image: "img/053/day053_11.JPG",
+						legend: "...accompagnée de son cimetière.",
+					},
+					{
+						image: "img/053/day053_12.JPG",
+						legend: "Il a une sacrée profondeur en dehors de rues !",
+					},
+					{
+						image: "img/053/day053_13.jpg",
+						legend: "Mathilde et Marine.",
+					},
+					{
+						image: "img/053/day053_14.jpg",
+						legend: "Et un deuxième selfie !",
+					},
+					{
+						image: "img/053/day053_15.JPG",
+						legend: "La rue du marché de Noël.",
+					},
+					{
+						image: "img/053/day053_16.jpg",
+						legend: "Expérience culinaire n°73 : Du poisson fermenté ! Moi je trouve ça plutôt bon mais les autres ont eu du mal !",
+					},
+					{
+						image: "img/053/day053_17.jpg",
+						legend: "Expérience culinaire n°74 : Un dessert typique, une crème entre deux galettes. J'avais déjà goûté la version industrielle sans conviction ; c'est un peu meilleur mais sans plus.",
+					},
+					{
+						image: "img/053/day053_18.jpg",
+						legend: "Selfie avec un renne !",
+					},
+					{
+						image: "img/053/day053_19.jpg",
+						legend: "Et voilà le résultat !",
+					},
+					{
+						image: "img/053/day053_20.jpg",
+						legend: "Les flammes indiquent qu'un magasin est ouvert. Et la neige n'empêche pas d'en mettre !",
+					},
+					{
+						image: "img/053/day053_21.jpg",
+						legend: "Une chorale de Noël s'invite dans la rue.",
+					},
+					{
+						image: "img/053/day053_22.jpg",
+						legend: "Puisqu'on vous dit que la neige n'est pas un problème.",
+					},
+					{
+						image: "img/053/day053_23.jpg",
+						legend: "Expérience culinaire n°75 : Un hamburger bien spécial ! Le steak est à base de renne et d'élan. En plus de la salade, il y a des oignons confits, du bleu une sauce aux airelles rouges, les 'tyttebaer' ! C'est délicieux !",
+					},
+					{
+						image: "img/053/day053_24.jpg",
+						legend: "Bon appétit !",
+					},
+					{
+						image: "img/053/day053_25.JPG",
+						legend: "Il est temps de s'eloigner du centre-ville.",
+					},
+					{
+						image: "img/053/day053_26.JPG",
+						legend: "C'est sympa par ici !",
+					},
+					{
+						image: "img/053/day053_27.JPG",
+						legend: "Allez, une nouvelle mise en abîme photographique.",
+					},
+					{
+						image: "img/053/day053_28.jpg",
+						legend: "Voilà un autre point de vue...",
+					},
+					{
+						image: "img/053/day053_29.jpg",
+						legend: "et un dernier !",
+					},
+					{
+						image: "img/053/day053_30.jpg",
+						legend: "Marjolaine et Marine.",
+					},
+					{
+						image: "img/053/day053_31.jpg",
+						legend: "Encore un selfie !",
+					},
+					{
+						image: "img/053/day053_32.jpg",
+						legend: "La tête de quelqu'un qui a de la neige sous les vêtements, sans doute.",
+					},
+					{
+						image: "img/053/day053_33.jpg",
+						legend: "Euh, là, on ne sait pas trop.",
+					},
+					{
+						image: "img/053/day053_34.jpg",
+						legend: "Instant photo !",
+					},
+					{
+						image: "img/053/day053_35.jpg",
+						legend: "Voilà ce qui arrive quand on marche là où ce n'est pas prévu pour.",
+					},
+					{
+						image: "img/053/day053_36.JPG",
+						legend: "Eloignons-nous encore un peu de la ville.",
+					},
+					{
+						image: "img/053/day053_37.jpg",
+						legend: "Tiens, un traineau à chiens !",
+					},
+					{
+						image: "img/053/day053_38.JPG",
+						legend: "On s'éloigne...",
+					},
+					{
+						image: "img/053/day053_39.JPG",
+						legend: "Neige blanche sur fond blanc.",
+					},
+					{
+						image: "img/053/day053_40.JPG",
+						legend: "Le pont de tout à l'heure.",
+					},
+					{
+						image: "img/053/day053_41.JPG",
+						legend: "La photo prise pendant l'instant photo un peu plus tôt...",
+					},
+					{
+						image: "img/053/day053_42.JPG",
+						legend: "1...2...",
+					},
+					{
+						image: "img/053/day053_43.JPG",
+						legend: "3 !",
+					},
+					{
+						image: "img/053/day053_44.JPG",
+						legend: "*Bruit sourd*",
+					},
+					{
+						image: "img/053/day053_45.JPG",
+						legend: "*Rires*",
+					},
+					{
+						image: "img/053/day053_46.JPG",
+						legend: "Photo finish !",
+					},
+					{
+						image: "img/053/day053_47.JPG",
+						legend: "La 'dune' de neige.",
+					},
+					{
+						image: "img/053/day053_48.JPG",
+						legend: "la ville au loin.",
+					},
+					{
+						image: "img/053/day053_49.jpg",
+						legend: "Encore un.",
+					},
+					{
+						image: "img/053/day053_50.JPG",
+						legend: "De retour dans la ville.",
+					},
+					{
+						image: "img/053/day053_51.JPG",
+						legend: "Les chiens de traineau !",
+					},
+					{
+						image: "img/053/day053_52.JPG",
+						legend: "Mathilde et Marjolaine à bord !",
+					},
+					{
+						image: "img/053/day053_53.jpg",
+						legend: "Puis c'est au tour de Marine et moi !",
+					},
+					{
+						image: "img/053/day053_54.jpg",
+						legend: "Brochettes de gaufres !",
+					},
+					{
+						image: "img/053/day053_55.jpg",
+						legend: "Expérience culinaire n°76 : Les smultringer ! C'est l'équivalent des donuts, mais ça me fait plutôt penser à des churros puisque c'est frit.",
+					},
+					{
+						image: "img/053/day053_56.JPG",
+						legend: "La rue du marché by night !",
+					},
+					{
+						image: "img/053/day053_57.JPG",
+						legend: "Une photo de groupe pour finir...",
+					},
+					{
+						image: "img/053/day053_58.jpg",
+						legend: "Et nous voilà de nouveau sur la route, de nuit et sur la neige !",
 					}
 				]
 			}
