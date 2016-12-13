@@ -4656,6 +4656,278 @@
 						legend: "Et nous voilà de nouveau sur la route, de nuit et sur la neige !",
 					}
 				]
+			},
+			{
+				id: "54",
+				title: "Biathlon à Ostersund",
+				date: "4 décembre",
+				html: [
+					"Il est six heures quand nous nous retrouvons sur le parking pour partir. La route se passe bien jusqu'en Suède. Au passage de la frontière, la route devient moins bien déneigée. Il fait nuit noire, impossible de distinguer quoi que ce soit sans la lumière des phares. Nous apercevons un biche sur la route, puis un élan, et enfin un troupeau enter sur le côté. En avançant, les nuages semblent illuminés de blanc. Ce sont en fait des pistes de ski, qui si elles n'étaient pas éclairées, ne pourrait certainement pas être utilisées très longtemps. Cela donne au paysage une atmosphère irréelle.",
+					"Quand le jour se lève enfin, cette ambiance se confirme lorsque nous voyons un lac gelé couvert de neige. Sans savoir que c'est un lac, on se demande pourquoi les maisons s'arrêtent brutalement. Après un moment, nous arrivons finalement à Ostersund. Il y a un parking officiel, payant, mais comme nous n'avons pas de couronnes suédoises, on nous laisse passer.",
+					"A l'entrée, on nous distribue des petits drapeaux. Mais nous avons apporté les nôtres, que nous arborons fièrement. Il y a peu de monde dans les tribunes pour la course des filles, pfff. On voit bien le champ de tir en face, le tour de pénalité à côté, mais une partie du parcours est trop à droite ; nous suivons sur les écrans. Les françaises, pourtant parties avec de l'avance, ne seront pas sur le podium.",
+					"Cette déception passée et un moment passé dans les toilettes pour réchauffer mes pieds que je ne sens plus, nous décidons de sortir voir la partie du circuit qui n'est pas visible depuis les tribunes. Les skieurs français font leur tour de reconnaissance ; nous les voyons de près. Un peu avant le début de la course, nous retournons dans les tribunes.",
+					"Depuis le début nous rencontrons d'autres français et nous groupons pour être plus visibles. Mais malgré tous nos encouragements Martin Fourcade perdra ces quarante secondes d'avance et n'arrivera que troisième. Le plan de Mathilde, qui consistait à lui donner un drapeau s'il gagnait avec de l'avance, s'écroule. Visiblement très contrarié, il ne viendra pas nous voir comme un habitué français nous l'avait dit. Il lance tout de même le bouquet qui lui a été donné dans notre direction ; Marjolaine l'attrappe. Son frère Simon Fourcade lance aussi dans notre direction mais c'est une russe à ma droite qui l'aura. Tant pis, un c'est déjà bien !",
+					"Nous décidons d'aller faire un tour près du lac avant de rentrer. Les vinterbadet, des genre de jacuzzis installés au bord du lac, sont là. Mais nous n'irons finalement pas, nous avons vu à l'aller dans la voiture que c'était déjà complet. Nous partons donc à la nuit tombée. Nous profiterons de la route pour réviser ensemble."
+				],
+				images: [
+					{
+						image: "img/054/day054_01.jpg",
+						legend: "Mais si cherchez bien, il y a un élan !",
+					},
+					{
+						image: "img/054/day054_02.jpg",
+						legend: "Les lumières qui éclairent les pistes sont incroyablement fortes.",
+					},
+					{
+						image: "img/054/day054_03.jpg",
+						legend: "Au lever du jour, on aperçoit une grande étendue blanche. Bizarre que les maisons s'arrêtent net... Ah, c'est un lac gelé recouvert de neige !",
+					},
+					{
+						image: "img/054/day054_04.jpg",
+						legend: "Le Soleil se lève.",
+					},
+					{
+						image: "img/054/day054_05.jpg",
+						legend: "Là on aperçoit le lac gelé.",
+					},
+					{
+						image: "img/054/day054_06.JPG",
+						legend: "Nous voilà dans les tribunes. Plutôt sympa la vue en arrière-plan !",
+					},
+					{
+						image: "img/054/day054_07.JPG",
+						legend: "C'est un peu vide pour l'instant.",
+					},
+					{
+						image: "img/054/day054_08.JPG",
+						legend: "Un panorama fait par Maxime.",
+					},
+					{
+						image: "img/054/day054_09.JPG",
+						legend: "Quelques problèmes de mise au point...",
+					},
+					{
+						image: "img/054/day054_10.JPG",
+						legend: "...puis d'autres.",
+					},
+					{
+						image: "img/054/day054_11.JPG",
+						legend: "Les cibles en face de nous.",
+					},
+					{
+						image: "img/054/day054_12.JPG",
+						legend: "C'est parti !",
+					},
+					{
+						image: "img/054/day054_13.JPG",
+						legend: "Supporters de choc !",
+					},
+					{
+						image: "img/054/day054_14.JPG",
+						legend: "Au coude à coude...",
+					},
+					{
+						image: "img/054/day054_15.JPG",
+						legend: "Synchros !",
+					},
+					{
+						image: "img/054/day054_16.JPG",
+						legend: "L'allemande Laura Dahlmeier, qui finira deuxième.",
+					},
+					{
+						image: "img/054/day054_17.JPG",
+						legend: "La française Justine Braisaz.",
+					},
+					{
+						image: "img/054/day054_18.JPG",
+						legend: "Alors que Justine Braisaz tire encore, Marie Dorin repart !",
+					},
+					{
+						image: "img/054/day054_19.JPG",
+						legend: "Olga Poltoranina.",
+					},
+					{
+						image: "img/054/day054_20.JPG",
+						legend: "La déception française...",
+					},
+					{
+						image: "img/054/day054_21.JPG",
+						legend: "Difficile cette fin de course !",
+					},
+					{
+						image: "img/054/day054_22.JPG",
+						legend: "La tchèque Gabriela Koukalova, gagnante du jour.",
+					},
+					{
+						image: "img/054/day054_23.JPG",
+						legend: "La tchèque et l'allemande citée précédemment, ainsi que l'italienne Dorothea Wierer, pourtant partie dix-neuvième !",
+					},
+					{
+						image: "img/054/day054_24.JPG",
+						legend: "Quelqu'un n'a pas choisi son camp !",
+					},
+					{
+						image: "img/054/day054_25.JPG",
+						legend: "Le français Fabien Claude au départ.",
+					},
+					{
+						image: "img/054/day054_26.JPG",
+						legend: "Un peu de 'penalty loop' Martin ?",
+					},
+					{
+						image: "img/054/day054_27.JPG",
+						legend: "Le français Martin Fourcade, quand il a encore de l'avance.",
+					},
+					{
+						image: "img/054/day054_28.JPG",
+						legend: "Les skieurs se sont dispersés, il y en a de partout !",
+					},
+					{
+						image: "img/054/day054_29.JPG",
+						legend: "Le français Quentin Fillon Maillet.",
+					},
+					{
+						image: "img/054/day054_30.JPG",
+						legend: "Martin Fourcade se fait rattrapper.",
+					},
+					{
+						image: "img/054/day054_31.JPG",
+						legend: "Au tir...",
+					},
+					{
+						image: "img/054/day054_32.JPG",
+						legend: "Le drapeau russe flotte, et pour cause : Anton Babikov et Maxim Tsvetkov ont doublé Martin Fourcade.",
+					},
+					{
+						image: "img/054/day054_33.JPG",
+						legend: "La joie des russes contraste avec la déconfiture française...",
+					},
+					{
+						image: "img/054/day054_34.JPG",
+						legend: "Contents malgré la défaite : on a passé une bonne journée et eu un bouquet !",
+					},
+					{
+						image: "img/054/day054_35.PNG",
+						legend: "Petit passage à la télé : on voit bien Mathilde en bleu et vert. Je suis un peu moins visible, tout à droite...",
+					},
+					{
+						image: "img/054/day054_36.jpg",
+						legend: "Mathilde, Marjolaine et un peu de Maxime, derrière un français qui habite Ostersund depuis 1988.",
+					},
+					{
+						image: "img/054/day054_37.JPG",
+						legend: "Rassemblement de canards !",
+					},
+					{
+						image: "img/054/day054_38.JPG",
+						legend: "Bon, on avance ou bien ?",
+					},
+					{
+						image: "img/054/day054_39.JPG",
+						legend: "Le flocon de neige en forme de coeur est le logo d'Ostersund.",
+					},
+					{
+						image: "img/054/day054_40.JPG",
+						legend: "Etrange statue.",
+					},
+					{
+						image: "img/054/day054_41.JPG",
+						legend: "La nuit tombe déjà.",
+					},
+					{
+						image: "img/054/day054_42.JPG",
+						legend: "On peut voir les bains en face. Les gens en sortent pour alterner avec l'eau froide du lac. Brrr !",
+					},
+					{
+						image: "img/054/day054_43.JPG",
+						legend: "Il est temps de repartir !",
+					}
+				]
+			},
+			{
+				id: "55",
+				title: "Exams week",
+				date: "5, 6, 7, 8, 9, 10 décembre",
+				html: [
+					"Ce lundi, quelque chose ne va pas. Vraiment pas. Mais quoi ? Je me lève, fais ma routine habituelle. Mais mes yeux et ma tête brûlent. Ne comprenant pas tout de suite, je me recouche toute habillée, avec un pull. C'est en me réveillant que je comprends : je n'ai presque pas bu ce week-end en excursion, et j'ai oublié de porter mes lunettes de soleil. Je suis donc deshydratée et ai pris l'équivalent d'un coup de soleil aux yeux. De l'eau et une nuit plus tard, ça ira mieux.",
+					"Mardi, c'est le deuxième examen. Les questions sont innatendues comparé aux années précédentes, mais avec un peu de réflexion, ça se passe plutôt bien. D'ailleurs je termine une nouvelle fois au bout de deux heures et demie, comme beaucoup d'autres. En rentrant je n'ai pas trop le courage de travailler, alors je mets en vente les objets que je n'ai pas l'intention de rapporter et qui ne me sont pas absolument indispensables pour les dernières semaines.",
+					"Mercredi et jeudi sont des jours de révisions. Jeudi midi, j'organise un apéro et un déjeuner puis nous passons l'après-midi à partager nos connaissances avant de manger des crêpes. Cela sera d'une grande aide pour l'examen du lendemain (évidemment je parle des crêpes). Je n'ai plus qu'à réviser les points difficiles que nous avons mis en évidence et à aller me coucher.",
+					"Vendredi, c'est déjà le troisième examen. Je ris en voyant qu'une nouvelle fois, il n'a pas le format des années précédentes. Mais là encore cela reste faisable. Une fois cette étape franchie, nous allons la célébrer avec Marjolaine. Nous longeons la mer ; je ne suis encore jamais passée à cet endroit. Il y a vraiment l'odeur et le bruit des vagues. Puis nous mangeons dans un restaurant norvéien que Maxime nous a conseillé à Bakklandet. C'est très bon. Nous passons ensuite réserver la cabine pour le dernier week-end. Puis, de là jusqu'à samedi soir, ce sera repos."
+				],
+				images: [
+					{
+						image: "img/055/day055_01.jpg",
+						legend: "Expérience culinaire n°77 : Bon, je connaissais déjà, mais ça a l'air très populaire à Noël ici.",
+					},
+					{
+						image: "img/055/day055_02.jpg",
+						legend: "Expérience culinaire n°78 : Smultringer, le retour ! Bon, ceux du marché de Noël étaient bien meilleurs.",
+					},
+					{
+						image: "img/055/day055_03.jpg",
+						legend: "Apéro avec du fromage !",
+					},
+					{
+						image: "img/055/day055_04.jpg",
+						legend: "La vue en sortant du bâtiment après l'exam.",
+					},
+					{
+						image: "img/055/day055_05.jpg",
+						legend: "Photo d'une maniaque qui vend ses affaires...",
+					},
+					{
+						image: "img/055/day055_06.jpg",
+						legend: "Une autre pour la route.",
+					},
+					{
+						image: "img/055/day055_07.jpg",
+						legend: "Mmmmmh, des crêpes !",
+					},
+					{
+						image: "img/055/day055_08.jpg",
+						legend: "Mes premières gougères !",
+					},
+					{
+						image: "img/055/day055_09.jpg",
+						legend: "Petite balade près de la mer.",
+					},
+					{
+						image: "img/055/day055_10.jpg",
+						legend: "Finalement, je ne suis pas allée de l'autre côté du fjord.",
+					},
+					{
+						image: "img/055/day055_11.jpg",
+						legend: "On voit bien l'île prison au milieu de la mer.",
+					},
+					{
+						image: "img/055/day055_12.jpg",
+						legend: "L'intérieur du restaurant, avec cuisine ouverte.",
+					},
+					{
+						image: "img/055/day055_13.jpg",
+						legend: "Expérience culinaire n°79 : Ce poisson était incroyable !",
+					},
+					{
+						image: "img/055/day055_14.jpg",
+						legend: "Expérience culinaire n°80 : Un genre de riz au lait avec des airelles. C'est assez typique, et très bon !",
+					},
+					{
+						image: "img/055/day055_15.jpg",
+						legend: "L'extérieur cette fois, avec comme partout l'étoile de Noël.",
+					},
+					{
+						image: "img/055/day055_16.jpg",
+						legend: "Toujours pas changé de tête, vous me reconnaitrez à mon retour !",
+					},
+					{
+						image: "img/055/day055_17.jpg",
+						legend: "Tu sais que tu es en Norvège quand : - tu portes des chaussettes de ski par dessus ton pantalon à l'intérieur, et ça ne te pose pas de problème ; - il y a de la neige sur le rebord de la fenêtre ; - il fait nuit.",
+					},
+					{
+						image: "img/055/day055_18.jpg",
+						legend: "Parmi les nouvelles photos du spectacle sorties récemment, il y a celle-ci, prise en coulisses avant mon dernier passage.",
+					}
+				]
 			}
 		];
 
