@@ -4928,6 +4928,185 @@
 						legend: "Parmi les nouvelles photos du spectacle sorties récemment, il y a celle-ci, prise en coulisses avant mon dernier passage.",
 					}
 				]
+			},
+			{
+				id: "56",
+				title: "Balade à Bymarka",
+				date: "11 décembre",
+				html: [
+					"Aujourd'hui, Marjolaine et moi avons décidé d'aller marcher à Bymarka pour profiter du paysage enneigé. Nous nous retrouvons à neuf heures et demie pour partir. Coup de chance, c'est la première fois qu'il fait beau depuis des jours, nous décidons donc de partir à pied. Après un passage en ville près de l'eau, nous remontons la rivière à travers la forêt pour monter dans la partie haute de la ville. Partout enfants et parents jouent dans la neige. Nous arrivons à un endroit que Marjolaine reconnait et décidons de suivre ce chemin.",
+					"Marcher dans la neige s'avère très difficile. Il faut marcher dans les pas précédents, ou dans ceux de l'autre, pour moins s'enfoncer et donc dépenser moins d'énergie. C'est assez traumatisant pour les jambes et les chevilles, d'autant que nous ne savons pas combien de temps va nous prendre la balade. Après quelques temps nous atteignons un lac gelé couvert de neige. Après un long moment passé dans la forêt sans croiser personne, nous voyons d'autres promeneurs et skieurs, ce qui est rassurant. Nous décidons de poursuivre.",
+					"Plus nous avançons, plus il y a de neige, moins il y a de traces à suivre. A la fin, nous en avons jusqu'aux genoux, là où personne n'est passé. C'est vraiment difficile, nous avançons lentement. Finalement, nous atteignons une cabine et décidons de manger sur un banc attenant. La vue est sympa. Il y a des stalactites au-dessus de nous ; ils nous gouttent dessus. Manger par un tel froid est un défi ; nous devons vite partir pour ne pas perdre nos mains. Pire que de ne plus les sentir, c'est terriblement douloureux d'avoir froid aux mains.",
+					"Nous ne marchons pas longtemps avant de voir apparaître Studenthytta. Nous profitons de la vue et entrons pour demander à l'intérieur si des bus peuvent nous ramener en ville. En effet il est quatorze heures, et après cinq heures et demie de marche dans le froid, nous ne nous sentons pas capable de faire le retour à pied. D'autant que la nuit tombe dans moins d'une heure et avec elle les dangers de l'obscurité et le froid. Il y a en effet un bus dans une heure un peu plus bas, mais nous ne pouvons pas attendre sans rien faire.",
+					"Nous descendons vérifier l'heure du bus et découvrons Skistua, un genre de refuge pour les skieurs. Bien que nous n'ayons pas de skis (ils nous auraient pourtant été bien utiles !), nous entrons nous réchauffer. Il y a là de quoi s'asseoir et nous pouvons acheter à manger. Je me regarde dans un miroir aux toilettes : pas de doute, j'ai pris des couleurs. Heureusement cette fois je n'ai pas oublié mes lunettes de soleil !",
+					"Le bus arrive et avec lui l'enfilage de chaussures humides et froides. Il est temps de rentrer récupérer et se réchauffer. Mais Maxime propose de manger à la tour de Tyholt pour profiter une dernière fois de l'offre de pizza à volonté. C'est donc tous les trois, ainsi qu'avec Florian et un ami de Marjolaine que nous y allons. La soirée est très sympa et la fatigue encourage les fous rires qui scelleront de bons souvenirs."
+				],
+				images: [
+					{
+						image: "img/056/day056_01.jpg",
+						legend: "Enfin un temps clair ! Ca fait du bien !",
+					},
+					{
+						image: "img/056/day056_02.jpg",
+						legend: "Encore une superbe vue de la cathédrale Nidaros.",
+					},
+					{
+						image: "img/056/day056_03.jpg",
+						legend: "Le soleil !!!",
+					},
+					{
+						image: "img/056/day056_04.jpg",
+						legend: "Trains et bateaux cohabitent.",
+					},
+					{
+						image: "img/056/day056_05.jpg",
+						legend: "Il y a beaucoup de jolies églises ici.",
+					},
+					{
+						image: "img/056/day056_06.jpg",
+						legend: "Pour trouver Bymarka, remonter la rivière !",
+					},
+					{
+						image: "img/056/day056_07.jpg",
+						legend: "Qui a eu cette idée folle, un jour d'inv...de mettre des escaliers ici ?",
+					},
+					{
+						image: "img/056/day056_08.jpg",
+						legend: "Depuis l'escalier.",
+					},
+					{
+						image: "img/056/day056_09.jpg",
+						legend: "J'ai rarement vu un tel paysage si près de la ville.",
+					},
+					{
+						image: "img/056/day056_10.jpg",
+						legend: "Vue sur le fjord.",
+					},
+					{
+						image: "img/056/day056_11.jpg",
+						legend: "Qui y a-t-il d'inhabituel sur cette image ?",
+					},
+					{
+						image: "img/056/day056_12.jpg",
+						legend: "Oui oui, il a un chapeau et des chaussures !",
+					},
+					{
+						image: "img/056/day056_13.jpg",
+						legend: "Nouvelle vue du fjord.",
+					},
+					{
+						image: "img/056/day056_14.jpg",
+						legend: "Nous voilà en pleine forêt.",
+					},
+					{
+						image: "img/056/day056_15.jpg",
+						legend: "Un lac gelé et enneigé !",
+					},
+					{
+						image: "img/056/day056_16.jpg",
+						legend: "Bouh !",
+					},
+					{
+						image: "img/056/day056_17.jpg",
+						legend: "Il ne manque que les skis !",
+					},
+					{
+						image: "img/056/day056_18.jpg",
+						legend: "Marjolaine devant...",
+					},
+					{
+						image: "img/056/day056_19.jpg",
+						legend: "...et moi plus loin.",
+					},
+					{
+						image: "img/056/day056_20.jpg",
+						legend: "Superbe vue pour manger !",
+					},
+					{
+						image: "img/056/day056_21.JPG",
+						legend: "Ce ciel !",
+					},
+					{
+						image: "img/056/day056_22.jpg",
+						legend: "Dernière vue sur le fjord avant de continuer à monter.",
+					},
+					{
+						image: "img/056/day056_23.jpg",
+						legend: "Sacrée vue, sacré ciel encore !",
+					},
+					{
+						image: "img/056/day056_24.jpg",
+						legend: "Studenthytta, que je n'avais pas vue sous la neige.",
+					},
+					{
+						image: "img/056/day056_25.jpg",
+						legend: "Un chocolat chaud avec de la chantilly, une gaufre avec de la confiture de fraise, du bunost et de la crème fraîche...typique norvégien !",
+					},
+					{
+						image: "img/056/day056_26.jpg",
+						legend: "Contentes de la journée !",
+					},
+					{
+						image: "img/056/day056_27.jpg",
+						legend: "Skistua aussi est décorée dans l'ambiance de Noël.",
+					},
+					{
+						image: "img/056/day056_28.jpg",
+						legend: "La vue de Tyholt Tower.",
+					}
+				]
+			},
+			{
+				id: "57",
+				title: "Merry christmas and happy birthday",
+				date: "12 décembre",
+				html: [
+					"Après avoir travaillé et s'être reposées dans la matinée, nous décidons d'aller visiter la cathédrale. Je retrouve Marjolaine en bas de chez nous, armée d'un câlin d'anniversaire et d'une petite tablette de chocolat. Cette joie exprimée, nous descendons en ville à pied. Pas de bol, je me suis trompée dans les horaires, et elle est déjà fermée.",
+					"Les colocs de Marjolaine nous rejoignent pour le marché de Noël. Nous nous baladons toutes les quatre, achetant ce que nous voulons offrir ou faire goûter à notre retour. Beaucoup de produits sont sous vide, ce qui va nous permettre de les ramener facilement. De quoi s'agit-il ? Surprise...",
+					"Quand nous commençons à avoir froid, nous allons prendre une boisson chaude dans un bar éphémère. Pour moi ce sera un julegløgg, comprendre une boisson de Noël équivalente à un vin chaud mais sans alcool, dans laquelle on peut ajouter des raisins et des morceaux d'amande. Pas mal ! Nous rentrons quand il se met à neiger ; il faut déjà se remettre à travailler."
+				],
+				images: [
+					{
+						image: "img/057/day057_01.jpg",
+						legend: "Même petit zèbre médite !",
+					},
+					{
+						image: "img/057/day057_02.jpg",
+						legend: "Un grand sapin a été installé sur la place principale du centre-ville.",
+					},
+					{
+						image: "img/057/day057_03.jpg",
+						legend: "Le marché de Noël.",
+					},
+					{
+						image: "img/057/day057_04.jpg",
+						legend: "Belle brochette de filles (et vive le gløgg) !",
+					},
+					{
+						image: "img/057/day057_05.jpg",
+						legend: "Prises par une employé du bar.",
+					},
+					{
+						image: "img/057/day057_06.jpg",
+						legend: "Eh ouais, lutter contre le froid ça fatigue !",
+					},
+					{
+						image: "img/057/day057_07.jpg",
+						legend: "Expérience culinaire n°81 : C'est rare que j'achète des bonbons, et ils sont bizarres ceux qu'ils ont ici !",
+					},
+					{
+						image: "img/057/day057_08.jpg",
+						legend: "Un gâteau pour Marjolaine !",
+					},
+					{
+						image: "img/057/day057_09.jpg",
+						legend: "Vint-deux ans !",
+					},
+					{
+						image: "img/057/day057_10.jpg",
+						legend: "Ses colocs lui ont offert ce fameux livre, chouette !",
+					}
+				]
 			}
 		];
 
