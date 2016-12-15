@@ -5107,6 +5107,46 @@
 						legend: "Ses colocs lui ont offert ce fameux livre, chouette !",
 					}
 				]
+			},
+			{
+				id: "57",
+				title: "Merry christmas and happy birthday",
+				date: "13, 14, 15, 16 décembre",
+				html: [
+					"Il devient difficile de travailler ces jours-ci. Je passe la plupart de mon temps à manger et à regarder Vikings mardi et mercredi. Ah, et parfois, je révise quelques trucs.",
+					"Jeudi, je réalise qu'il ne me reste que très peu de temps pour faire beaucoup de choses. Beaucoup plus stressée par l'organisation du départ que par les examens, je passe donc naturellement ma journée à faire mes dernières lessives et quelques courses (certains vont être gâtés !). Après quelques objets vendus ces derniers jours, je n'ai plus aucune touche. Je décide donc d'abandonner et d'apporter les affaires qui me restent au magasin Fretex. C'est une enseigne qui récupère des objets et vêtements d'occasion et les vends pour une bonne cause, comme Emmaüs. Je préfère leur donner plutôt que de perdre du temps à essayer de les vendre et devoir les brader ou les donner de toute façon. En fin de journée, je me rends compte qu'il me reste quand même beaucoup à apprendre pour l'examen de samedi et de choses à régler demain. Il va falloir être efficace !",
+
+				],
+				images: [
+					{
+						image: "img/058/day058_01.jpg",
+						legend: "Une jolie Lune !",
+					},
+					{
+						image: "img/058/day058_02.jpg",
+						legend: "Les tablettes de chocolat sont en promo avant noël (pas après), 50% sur cette tablette, chouette !",
+					},
+					{
+						image: "img/058/day058_03.jpg",
+						legend: "Le retour du pain fait maison, c'est pas parfait mais c'est pas mal ! A renforcer (private joke) en France !",
+					},
+					{
+						image: "img/058/day058_04.jpg",
+						legend: "Expérience culinaire n°82 : Les pepperkaker sont des gâteaux au gingembre traditionnels de Noël (une table de Noël norvégienne compte sept types de gâteaux différents). Etant vendus en grosses boîtes, je n'en ai pas acheté, mais ces cookies me permettront d'avoir une idée du goût, et c'est franchement pas mal !",
+					},
+					{
+						image: "img/058/day058_05.jpg",
+						legend: "Expérience culinaire n°83 : Un Lussekatt, brioche au safran (d'où la couleur jaune) mangée pour célébrer la Sainte-Lucie, le 13 décembre !",
+					},
+					{
+						image: "img/058/day058_06.jpg",
+						legend: "En revenant de Fretex, j'admire encore la ville de nuit.",
+					},
+					{
+						image: "img/058/day058_07.jpg",
+						legend: "Il est dix-sept heures (il fait donc nuit depuis plus de deux heures).",
+					}
+				]
 			}
 		];
 
