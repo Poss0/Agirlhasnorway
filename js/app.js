@@ -5063,7 +5063,8 @@
 				html: [
 					"Après avoir travaillé et s'être reposées dans la matinée, nous décidons d'aller visiter la cathédrale. Je retrouve Marjolaine en bas de chez nous, armée d'un câlin d'anniversaire et d'une petite tablette de chocolat. Cette joie exprimée, nous descendons en ville à pied. Pas de bol, je me suis trompée dans les horaires, et elle est déjà fermée.",
 					"Les colocs de Marjolaine nous rejoignent pour le marché de Noël. Nous nous baladons toutes les quatre, achetant ce que nous voulons offrir ou faire goûter à notre retour. Beaucoup de produits sont sous vide, ce qui va nous permettre de les ramener facilement. De quoi s'agit-il ? Surprise...",
-					"Quand nous commençons à avoir froid, nous allons prendre une boisson chaude dans un bar éphémère. Pour moi ce sera un julegløgg, comprendre une boisson de Noël équivalente à un vin chaud mais sans alcool, dans laquelle on peut ajouter des raisins et des morceaux d'amande. Pas mal ! Nous rentrons quand il se met à neiger ; il faut déjà se remettre à travailler."
+					"Quand nous commençons à avoir froid, nous allons prendre une boisson chaude dans un bar éphémère. Pour moi ce sera un julegløgg, comprendre une boisson de Noël équivalente à un vin chaud mais sans alcool, dans laquelle on peut ajouter des raisins et des morceaux d'amande. Pas mal ! Nous rentrons quand il se met à neiger ; il faut déjà se remettre à travailler...puis à faire un gâteau pour Marjo !",
+					"A vingt-et-une heures comme convenu, Maxime arrive, suivi de Marjolaine, puis de ses colocs, et enfin de Maëlys. Je propose à mes colocs de se joindre à nous. Chacun sort des boissons et de la nourriture, les colocs de Marjo lui ont fait une tarte en plus de mon gâteau, et ont même des bougies et un cadeau ! On rigole bien jusqu'à assez tard, c'est un bon moment de partage à ajouter à l'expérience."
 				],
 				images: [
 					{
@@ -5115,7 +5116,8 @@
 				html: [
 					"Il devient difficile de travailler ces jours-ci. Je passe la plupart de mon temps à manger et à regarder Vikings mardi et mercredi. Ah, et parfois, je révise quelques trucs.",
 					"Jeudi, je réalise qu'il ne me reste que très peu de temps pour faire beaucoup de choses. Beaucoup plus stressée par l'organisation du départ que par les examens, je passe donc naturellement ma journée à faire mes dernières lessives et quelques courses (certains vont être gâtés !). Après quelques objets vendus ces derniers jours, je n'ai plus aucune touche. Je décide donc d'abandonner et d'apporter les affaires qui me restent au magasin Fretex. C'est une enseigne qui récupère des objets et vêtements d'occasion et les vends pour une bonne cause, comme Emmaüs. Je préfère leur donner plutôt que de perdre du temps à essayer de les vendre et devoir les brader ou les donner de toute façon. En fin de journée, je me rends compte qu'il me reste quand même beaucoup à apprendre pour l'examen de samedi et de choses à régler demain. Il va falloir être efficace !",
-
+					"C'est déjà vendredi, veille du dernier examen de ma vie ! Mais d'abord, place à l'avant-dernier. Comme d'habitude c'est la nuit, le sol glisse, et il suffit de suivre la masse pour trouver la salle d'examen. Il se passe étonnament bien et je sors au bout de trois heures. Comme prévu, je retrouve Marjolaine devant la cathédrale, que nous visitons. Elle est très sombre, mais dans un état incroyablement bon. J'en ai rarement vu de telles ! Les marbres et les vitraux sont en parfait état. Difficile de croire que cela a été construit il y a des centaines d'années ! En sortant, nous allons manger puis faire un dernier tour au marché de Noël et dans quelques magasins. Je vais enfin à l'International House pour régler les derniers détails administratifs avant le départ. A mon retour je révise un peu seule avant de rejoindre les autres pour travailler en groupe. C'est quand même bien plus efficace et moins ennuyeux de partager les connaissances !",
+					"Je rentre enfin après cette journée dense. Maintenant, il est temps de faire des lasagnes avec ma coloc Yordanos, depuis le temps qu'elle me le demande, parce que 'comme je suis française, je sais probablement en faire de bonnes' ! La pression ! C'est un moment super sympa à partager, elle est enthousiaste. Pendant la cuisson nous discutons : elle a vécu en Corée du Sud pendant sept mois et est depuis plus d'un an en Norvège, le tout en venant d'Ethiopie, autant dire qu'elle a vu des cultures aux antipodes ! On en parle un peu ; elle me dit qu'elle aimerait avoir au moins un enfant ici parce que les aides sont bien supérieures à n'importe où ailleurs, ce qui est flagrant comparé à 'Ethiopie où elles sont inexistantes. A la fin de la cuisson, nous mangeons ensemble. Elle trouve ça super bon, ouf ! Johannes et Pascal font à manger aussi et on finit tous ensemble à table. Cela n'était jamais arrivé, c'est dingue ! Là encore on parle de cultures et de voyages ; l'Ethyopie a son propre calendrier et son propre alphabet, Yordanos prononce quelques lettres, c'est trop drôle ! Je souris encore en l'écrivant. C'est dommage que nous n'ayons pas partagé des moments comme ça avant, je pense que tout le monde a apprécié mais qu'aucun de nous n'en a eu l'initiative avant. Je dis au revoir à Pascal : je pars demain matin tôt et ne reviendrai que dimanche soir ; il sera parti. Ca fait un drôle d'effet... Débuts et fins, ainsi va la vie !"
 				],
 				images: [
 					{
@@ -5145,6 +5147,18 @@
 					{
 						image: "img/058/day058_07.jpg",
 						legend: "Il est dix-sept heures (il fait donc nuit depuis plus de deux heures).",
+					},
+					{
+						image: "img/058/day058_08.jpg",
+						legend: "Une jolie brume sur Trondheim.",
+					},
+					{
+						image: "img/058/day058_09.jpg",
+						legend: "Ah, ces maisons de couleur vont me manquer...",
+					},
+					{
+						image: "img/058/day058_10.jpg",
+						legend: "Encore une photo réversible !",
 					}
 				]
 			}
