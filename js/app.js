@@ -5192,6 +5192,27 @@
 						legend: "Photos à venir...mais pas ce soir, ce soir je dors !",
 					}
 				]
+			},
+			{
+				id: "60",
+				title: "End of the road",
+				date: "19 décembre",
+				html: [
+					"Quand le réveil sonne ce matin, j'ai un peu la flemme de l'écouter. Il faut dire que la fatigue des jours précédents se fait sentir, et que la perspective d'une journée de nettoyage n'est pas des plus réjouissantes. Je finis quand même par me lever et pas improviser un petit-déjeuner avec ce qui me reste ; pas grand chose.",
+					"J'ai du mal à démarrer ma journée ; ce n'est que vers onze heures que j'attaque le nettoyage. Je mets toutes mes affaires en vrac dans l'armoire pour m'occuper du reste : bureau, tiroirs, étagères, vitres, radiateur, sol...il ne faut rien oublier. Je fais une pause pour manger et attends le passage de SiT pour une pré-inspection de nettoyage. Je sens une odeur de gaz, puis Johannes m'annonce qu'il vaut mieux que j'évite d'allumer un feu dans la salle de bain, il vient de vider le liquide de son réchaud de camping dans les toilettes pour pouvoir le transporter dans l'avion.",
+					"Comme SiT tarde à arriver, je commence à faire mes bagages. Evidemment, c'est le moment qu'ils choisissent pour arriver et donc m'interrompre. Seuls quelques points sont à améliorer d'ici mon départ, cela me paraît tout à fait raisonnable. Je finis mes bagages, non sans mal : moi qui pensais être large, je lutte pour fermer les valises. Restera à voir le poids qu'elle font demain...",
+					"Une fois les valises prêtes, je pars à la réception chercher des enveloppes pour rendre les clés, puisque celle-ci sera fermée quand nous partirons. Ensuite, emportée dans un élan de nettoyage, je remets d'aplomb la salle de bain et la cuisine ; c'est probablement plus propre maintenant qu'à mon arrivée en août. Je sors même toutes les poubelles, occasion de faire un dernier tour du côté du Rema.",
+					"Quand je décide enfin que j'en ai assez fait, je m'assois à table avec Johannes, qui est en train de manger. On parle essentiellement de notre retour et des cadeaux que nous rapportons. Cette conversation sonne vraiment comme une fin ! Vers dix-neuf heures, alors qu'un de ses potes arrive, je pars manger chez Marjolaine. Chacun a apporté la nourriture qu'il veut écouler, c'est un peu disparate mais très sympathique. Je profite d'être avec Marjolaine pour m'enregistrer sur les vols et choisir mes sièges.",
+					"La soirée se poursuit dans la bonne humeur, et avec des crêpes. Petit à petit les uns et les autres s'en vont, tout le monde part entre demain et vendredi. Quelques éclats de rire plus tard, il est temps pour moi aussi de rentrer. Je tombe sur Yordanos à qui je dis au revoir. C'est drôle comme 'It was nice to meet you' sonne bien plus sincère lors du départ que 'Nice to meet you' lors de l'arrivée. J'ai mis un peu de temps à tisser des liens avec mes colocs, mais j'ai appris à les apprécier et il vont me manquer. Johannes m'a dit qu'il se lèverait demain matin pour me dire au revoir, ça me fait plaisir.",
+					"Et voilà, quatre mois et demi se sont écoulés et il est déjà temps de rentrer. Mes sentiments sont partagés entre l'accomplissement de cette expérience, la nostalgie déjà de ces bons moments, et l'excitation de rentrer auprès de ma famille et de mes amis. La France est mon pays, mais je me sens maintenant appartenir à quelque chose de plus grand, quelque chose que certains appelent le vaste monde. La personne que vous retrouverez n'est plus tout à fait celle que vous avez quitté.",
+					"Je profite de ce dernier article écrit de l'étranger pour remercier tous ceux qui m'ont lu, régulièrement ou non. J'ai adoré alimenter ce blog, et il ne fait aucun doute que je vais continuer à écrire, d'une manière ou d'une autre. Ce blog va se poursuivre, d'abord parce qu'il faut que je clotûre cette expérience en mettant par écrit ce qu'elle m'a apporté et ce qu'elle a changé dans ma vie. Mais il continuera aussi parce qu'un voyage c'est aussi un retour, et que les fins sont toujours importantes, n'est-ce pas ?"
+				],
+				images: [
+					{
+						image: "img/060/day060_01.jpg",
+						legend: "Photos à venir...mais pas ce soir, ce soir je dors !",
+					}
+				]
 			}
 		];
 
