@@ -5189,8 +5189,288 @@
 				images: [
 					{
 						image: "img/059/day059_01.jpg",
-						legend: "Photos à venir...mais pas ce soir, ce soir je dors !",
-					}
+						legend: "Dernier exam ! Antoine à gauche, Maxime en jaune, Marine derrière et Marjolaine au fond de dos.",
+					},
+					{
+						image: "img/059/day059_02.jpg",
+						legend: "Et moi !",
+					},
+					{
+						image: "img/059/day059_03.jpg",
+						legend: "Facile cinq centimètres de glace sur les trottoirs et parking. Pas facile de se déplacer !",
+					},
+					{
+						image: "img/059/day059_04.jpg",
+						legend: "Parée pour la tombée de la nuit !",
+					},
+					{
+						image: "img/059/day059_05.jpg",
+						legend: "Waouh, la voiture est sale.",
+					},
+					{
+						image: "img/059/day059_06.jpg",
+						legend: "Selfie de départ !",
+					},
+					{
+						image: "img/059/day059_07.jpg",
+						legend: "On passe sur un petit pont au-dessus de la rivière.",
+					},
+					{
+						image: "img/059/day059_08.jpg",
+						legend: "Maxime prend une photo aussi.",
+					},
+					{
+						image: "img/059/day059_09.jpg",
+						legend: "Marjolaine, elle, prend des photos de nous en train d'en prendre.",
+					},
+					{
+						image: "img/059/day059_10.jpg",
+						legend: "Ou de faire des têtes étranges.",
+					},
+					{
+						image: "img/059/day059_11.jpg",
+						legend: "Pont traversé, prêts à continuer.",
+					},
+					{
+						image: "img/059/day059_12.jpg",
+						legend: "Le paysage est sympa.",
+					},
+					{
+						image: "img/059/day059_13.jpg",
+						legend: "La dernière maison.",
+					},
+					{
+						image: "img/059/day059_14.jpg",
+						legend: "Bien chargée !",
+					},
+					{
+						image: "img/059/day059_15.jpg",
+						legend: "Bien folle !",
+					},
+					{
+						image: "img/059/day059_16.jpg",
+						legend: "Il y a encore un bout de route.",
+					},
+					{
+						image: "img/059/day059_17.jpg",
+						legend: "Et assez de lumière pour faire des selfies.",
+					},
+					{
+						image: "img/059/day059_18.jpg",
+						legend: "Mais quand la route s'arrête, il faut marcher en ligne.",
+					},
+					{
+						image: "img/059/day059_19.jpg",
+						legend: "Nous nous repérons grâce à la rivière.",
+					},
+					{
+						image: "img/059/day059_20.jpg",
+						legend: "Dans les traces de skis !",
+					},
+					{
+						image: "img/059/day059_21.jpg",
+						legend: "Derrière aussi.",
+					},
+					{
+						image: "img/059/day059_22.jpg",
+						legend: "Malgré les traces, on s'enfonce en marchant.",
+					},
+					{
+						image: "img/059/day059_23.jpg",
+						legend: "Ce paysage est désertique.",
+					},
+					{
+						image: "img/059/day059_24.jpg",
+						legend: "Et la nuit tombe...",
+					},
+					{
+						image: "img/059/day059_25.jpg",
+						legend: "...de plus en plus.",
+					},
+					{
+						image: "img/059/day059_26.jpg",
+						legend: "Vous voyez les ombres qui tentent de se déplacer au milieu des arbres ?",
+					},
+					{
+						image: "img/059/day059_27.jpg",
+						legend: "Et voilà la cabine ! Heureusement qu'il y a des réflecteurs dessus.",
+					},
+					{
+						image: "img/059/day059_28.JPG",
+						legend: "On entre sur la droite.",
+					},
+					{
+						image: "img/059/day059_29.jpg",
+						legend: "Pas facile d'aller chercher de l'eau avec cette glace !",
+					},
+					{
+						image: "img/059/day059_30.jpg",
+						legend: "J'utilise le journal Le Monde reçu dans un colis pour démarrer le feu !",
+					},
+					{
+						image: "img/059/day059_31.jpg",
+						legend: "Il part bien, mais pas pour longtemps.",
+					},
+					{
+						image: "img/059/day059_32.jpg",
+						legend: "Soirée pâte bouillie à la bougie.",
+					},
+					{
+						image: "img/059/day059_33.jpg",
+						legend: "La Lune derrière les nuages.",
+					},
+					{
+						image: "img/059/day059_34.jpg",
+						legend: "La Lune derrière les arbres.",
+					},
+					{
+						image: "img/059/day059_35.JPG",
+						legend: "Départ le lendemain matin avec les lampes !",
+					},
+					{
+						image: "img/059/day059_36.jpg",
+						legend: "Le Soleil se lève...",
+					},
+					{
+						image: "img/059/day059_37.JPG",
+						legend: "...de plus en plus.",
+					},
+					{
+						image: "img/059/day059_38.JPG",
+						legend: "Cela fait de jolies couleurs dans le ciel.",
+					},
+					{
+						image: "img/059/day059_39.jpg",
+						legend: "Les couleurs varient selon l'appareil photo.",
+					},
+					{
+						image: "img/059/day059_40.jpg",
+						legend: "Comme ici...",
+					},
+					{
+						image: "img/059/day059_41.JPG",
+						legend: "...et là.",
+					},
+					{
+						image: "img/059/day059_42.JPG",
+						legend: "Les arbres sont étranges.",
+					},
+					{
+						image: "img/059/day059_43.jpg",
+						legend: "Et enfin on retraverse le pont.",
+					},
+					{
+						image: "img/059/day059_44.jpg",
+						legend: "La rivière n'a pas bougé.",
+					},
+					{
+						image: "img/059/day059_45.jpg",
+						legend: "Vue sympa depuis la voiture.",
+					},
+					{
+						image: "img/059/day059_46.jpg",
+						legend: "Ce ciel !",
+					},
+					{
+						image: "img/059/day059_47.jpg",
+						legend: "Encore.",
+					},
+					{
+						image: "img/059/day059_48.jpg",
+						legend: "On profite encore du paysage.",
+					},
+					{
+						image: "img/059/day059_49.jpg",
+						legend: "Ah, cette rivière là n'est pas gelée !",
+					},
+					{
+						image: "img/059/day059_50.jpg",
+						legend: "Ah, en fait si.",
+					},
+					{
+						image: "img/059/day059_51.jpg",
+						legend: "On approche de la station de ski.",
+					},
+					{
+						image: "img/059/day059_52.jpg",
+						legend: "Attention, élans.",
+					},
+					{
+						image: "img/059/day059_53.jpg",
+						legend: "Parée et protégée pour skier !",
+					},
+					{
+						image: "img/059/day059_54.jpg",
+						legend: "Top départ en bas du premier télésiège.",
+					},
+					{
+						image: "img/059/day059_55.jpg",
+						legend: "Sur le télésiège...",
+					},
+					{
+						image: "img/059/day059_56.jpg",
+						legend: "...à quatre !",
+					},
+					{
+						image: "img/059/day059_57.jpg",
+						legend: "A deux sur une pioche.",
+					},
+					{
+						image: "img/059/day059_58.jpg",
+						legend: "Mathilde sur ses skis.",
+					},
+					{
+						image: "img/059/day059_59.jpg",
+						legend: "A mon tour de me faire flasher.",
+					},
+					{
+						image: "img/059/day059_60.jpg",
+						legend: "Une deuxième fois.",
+					},
+					{
+						image: "img/059/day059_61.jpg",
+						legend: "Avec Maxime sur une pioche.",
+					},
+					{
+						image: "img/059/day059_62.jpg",
+						legend: "La vue est plus que sympa.",
+					},
+					{
+						image: "img/059/day059_63.jpg",
+						legend: "Une petite pause.",
+					},
+					{
+						image: "img/059/day059_64.jpg",
+						legend: "Je me suis arrêtée un peu plus haut.",
+					},
+					{
+						image: "img/059/day059_65.jpg",
+						legend: "Maxime entre les deux.",
+					},
+					{
+						image: "img/059/day059_66.jpg",
+						legend: "En selfie...",
+					},
+					{
+						image: "img/059/day059_67.jpg",
+						legend: "...à quatre...",
+					},
+					{
+						image: "img/059/day059_68.JPG",
+						legend: "...et de mon point de vue !",
+					},
+					{
+						image: "img/059/day059_69.jpg",
+						legend: "Un autre plus tard.",
+					},
+					{
+						image: "img/059/day059_70.JPG",
+						legend: "Plus bas dans la station, pendant l'une des dernières descentes.",
+					},
+					{
+						image: "img/059/day059_71.jpg",
+						legend: "Les lasagnes en rentrant, cool !",
+					},
 				]
 			},
 			{
@@ -5210,10 +5490,224 @@
 				images: [
 					{
 						image: "img/060/day060_01.jpg",
-						legend: "Photos à venir...mais pas ce soir, ce soir je dors !",
+						legend: "La cafetière traditionnelle éthyopienne de ma coloc.",
+					},
+					{
+						image: "img/060/day060_02.jpg",
+						legend: "Il n'y a plus grand chose, mais toujours de la symétrie !",
 					}
 				]
-			}
+			},
+			{
+				id: "61",
+				title: "Coming home",
+				date: "20 décembre",
+				html: [
+					"Difficile de s'endormir la veille, mais facile de se lever le matin d'un départ ! Je ferme mes valises et donne un dernier coup de balai avant de prendre mon petit-déjeuner avec Johannes. Les attentats de Berlin nous donne de quoi discuter de l'avenir du monde ; ce n'est pas très joyeux, mais ça me fait plaisir de discuter avec lui avant de partir. On se dit au revoir, il m'aide à descendre mes bagages en bas de l'immeuble, et me voilà partie.",
+					"J'ai largement le temps de marcher jusqu'à la réception avec mes lourdes valises pour déposer les clés dans la boîte aux lettres. Ensuite je rebrousse chemin jusqu'à l'arrêt de bus, où me rejoiognent Judith et Marjolaine. Le bus arrive et nous disons au revoir à Judith avant de monter à bord vers l'aéroport.",
+					"C'est bizarre de quitter cette ville. Nous ne regrettons rien de cette superbe aventure, mais quand une page de la vie se tourne, cela fait toujours un pincement au coeur. Les états d'âme sont heureusement bien vite balayés par le retour à la réalité. A l'aéroport, je pèse mes bagages : seize et vingt-six kilos. La limite étant vingt-trois pour chaque, j'essaye de réajuster, mais les valises ne faisant pas la même taille, je ne pourrai transférer qu'un kilo. Mais ça passe sans payer de supplément.",
+					"Le premier vol est très rapide, à peine quarante minute dans les airs. Le Soleil est au rendez-vous et le survol des montagnes magnifique. On arrive à l'heure alors qu'on est partis en retard. Un peu moins de cinq heures à patienter avant de prendre notre vol vers la France.",
+					"A Oslo, l'attente est insoutenable. Nous faisons le tour de quelques magasins, puis mangeons. Je garde les affaires pendant que Marjolaine refait du shopping. A son retour nous regardons un bout d'un film. Nous repartons faire du shopping, elle a trouvé un magasin avec des réductions de 70% pour ceux qui s'envolent hors de la Scandinavie ! La porte d'embarquement est finalement indiquée et nous attendons devant, avec les français qui comprennent ce qu'on dit et même certains qui râlent. Ca donne vachement envie de revenir...",
+					"Pendant le second vol, je ne tiens plus, j'ai vraiment hâte d'atterrir. Quand les côtes apparaissent, j'essaye de deviner où je suis et de reconnaître les villes, mais c'est vraiment difficile. A chaque grosse ville j'espère que c'est Lille, comme ça la suivante sera Paris. Ce n'est jamais le cas, jusqu'à ce qu'on plonge dans les nuages et que je sache de c'est Paris, bien qu'on n'y voie rien. J'ai remis ma carte SIM française dans mon portable. Nous descendons de l'avion pour récupérer nos bagages.",
+					"Les bagages de Marjolaine sont là tout de suite, mais les miens tardent à arriver, comme beaucoup. C'est vraiment long. Entre temps Marjolaine perd sa gourde et retourne sur ses pas pour la chercher. Pendant ce temps notre comité d'accueil s'impatiente. Finalement nous arrivons et ils en profitent pour nous prendre en photo et en vidéo, heureusement que nous sommes passées aux toilettes vérifier que nous avions une tête potable !",
+					"Marjolaine et sa mère partie, Claire, Laurence, Clotilde, papa, maman, Eloi et moi buvons un coup à l'aéroport. Je raconte quelques trucs ; je ne réalise pas encore vraiment, c'est drôle. Finalement nous partons, et j'ai droit à une baguette de pain dans la voiture. J'en mangerai les trois quarts sur le trajet.",
+					"A la maison, je n'ai pas vraiment faim, mais je retrouve avec plaisir les oeufs marrons avec une coquille dure, les lardons dans l'omelette, le jambon, le vrai beurre (la vache, ça sent la vache), le pain, les pâtisseries et les macarons (et ouais, j'avais pas très faim !). On discute et je déballe un peu mes victuailles, sans révéler le gaufrier qui fait des gaufres en coeur pour maman. Finalement je vais me coucher, et constate que rien n'a changé : ma brosse à dents n'a pas bougé, le matelas est toujours incroyablement bon (au diable les ressorts des lits de Moholt) et la nuit très silencieuse. Bonne nuit !"
+				],
+				images: [
+					{
+						image: "img/061/day061_01.jpg",
+						legend: "Chambre nickel, on ferme !",
+					},
+					{
+						image: "img/061/day061_02.jpg",
+						legend: "Je poste les clés !",
+					},
+					{
+						image: "img/061/day061_03.jpg",
+						legend: "Selfie à l'arrêt de bus.",
+					},
+					{
+						image: "img/061/day061_04.jpg",
+						legend: "Le bus pour l'aéroport, bien vide.",
+					},
+					{
+						image: "img/061/day061_05.jpg",
+						legend: "Selfie à l'aéroport.",
+					},
+					{
+						image: "img/061/day061_06.jpg",
+						legend: "Par la fenêtre de l'aéroport.",
+					},
+					{
+						image: "img/061/day061_07.jpg",
+						legend: "Le paysage est sympa.",
+					},
+					{
+						image: "img/061/day061_08.jpg",
+						legend: "Notre avion ! (Et un joli coin noir parce que j'ai remis ma pochette de protection sur mon portable.)",
+					},
+					{
+						image: "img/061/day061_09.jpg",
+						legend: "Notre avion et le décor.",
+					},
+					{
+						image: "img/061/day061_10.jpg",
+						legend: "Un voisin.",
+					},
+					{
+						image: "img/061/day061_11.jpg",
+						legend: "C'est parti !",
+					},
+					{
+						image: "img/061/day061_12.jpg",
+						legend: "Soleil, montagnes et nuages.",
+					},
+					{
+						image: "img/061/day061_13.jpg",
+						legend: "C'est très beau de là-haut !",
+					},
+					{
+						image: "img/061/day061_14.jpg",
+						legend: "C'est la première fois qu'on voit aussi bien le Soleil depuis des semaines.",
+					},
+					{
+						image: "img/061/day061_15.jpg",
+						legend: "Petit zèbre observe.",
+					},
+					{
+						image: "img/061/day061_16.jpg",
+						legend: "Pas facile de distinguer les sommets enneigés des nuages ! Ca doit être chouette d'y être !",
+					},
+					{
+						image: "img/061/day061_17.jpg",
+						legend: "Une petite bouteille de lait (très) chocolaté à l'aéroport d'Oslo, pour profiter jusqu'au bout.",
+					},
+					{
+						image: "img/061/day061_18.jpg",
+						legend: "Souriez, vous mangez.",
+					},
+					{
+						image: "img/061/day061_19.jpg",
+						legend: "Départ de nuit à seize heures quinze.",
+					},
+					{
+						image: "img/061/day061_20.jpg",
+						legend: "Dans le brouillard.",
+					},
+					{
+						image: "img/061/day061_21.jpg",
+						legend: "Premières villes visibles...",
+					},
+					{
+						image: "img/061/day061_22.jpg",
+						legend: "Où suis-je ?",
+					},
+					{
+						image: "img/061/day061_23.jpg",
+						legend: "Difficile de se repérer.",
+					},
+					{
+						image: "img/061/day061_24.jpg",
+						legend: "Une grosse ville pas longtemps avant d'atterir.",
+					},
+					{
+						image: "img/061/day061_25.jpg",
+						legend: "Premier selfie en France !",
+					},
+					{
+						image: "img/061/day061_26.jpg",
+						legend: "Il y a du monde à l'arrivée !",
+					},
+					{
+						image: "img/061/day061_27.jpg",
+						legend: "J'ai même droit à une baguette dans la voiture.",
+					}
+				]
+			},
+			{
+				id: "62",
+				title: "Ces choses que l'on retrouve quand on rentre",
+				date: "Décembre",
+				html: [
+					"Du pain et des jeux, paraît-il."
+				],
+				images: [
+					{
+						image: "img/062/day062_01.jpg",
+						legend: "Les presque douze kilos de nourriture que j'ai rapportés sont arrivés à bon port !",
+					},
+					{
+						image: "img/062/day062_02.jpg",
+						legend: "Une soudaine envie de tomates farcies par Eloi.",
+					},
+					{
+						image: "img/062/day062_03.jpg",
+						legend: "Doudou va se noyer dans un si grand lit !",
+					},
+					{
+						image: "img/062/day062_04.jpg",
+						legend: "Une partie de tarot, et un Paris Match avec Miss France.",
+					},
+					{
+						image: "img/062/day062_05.jpg",
+						legend: "De l'alcool en rayons !!!",
+					},
+					{
+						image: "img/062/day062_06.jpg",
+						legend: "Et du vin !",
+					},
+					{
+						image: "img/062/day062_07.jpg",
+						legend: "Du vin dans la cave de papy aussi.",
+					},
+					{
+						image: "img/062/day062_08.jpg",
+						legend: "Du vernis à ongle...",
+					},
+					{
+						image: "img/062/day062_09.jpg",
+						legend: "Noël à dix-huit !",
+					},
+					{
+						image: "img/062/day062_10.jpg",
+						legend: "Après la bataille.",
+					},
+					{
+						image: "img/062/day062_11.jpg",
+						legend: "Grand moment de réflexion.",
+					},
+					{
+						image: "img/062/day062_12.jpg",
+						legend: "A mon tour !",
+					}
+				]
+			},
+			{
+				id: "63",
+				title: "Selfie gallery",
+				date: "Décembre et janvier",
+				html: [
+					"Une fois n'est pas coutume, j'ajouterai les selfies du plus récent au plus ancien."
+				],
+				images: [
+					{
+						image: "img/063/day063_04.jpg",
+						legend: "Le midi du 25 décembre avec la famille de papa, pour les 80 ans de papy.",
+					},
+					{
+						image: "img/063/day063_03.jpg",
+						legend: "On est tellement nombreux qu'il faut mettre les 'enfants' à part !",
+					},
+					{
+						image: "img/063/day063_02.jpg",
+						legend: "Le réveillon du 24 décembre avec la famille de maman !",
+					},
+					{
+						image: "img/063/day063_01.jpg",
+						legend: "Selfie d'arrivée !",
+					}
+				]
+			},
 		];
 
 		$scope.latestArticle = $scope.articles[$scope.articles.length - 1];
